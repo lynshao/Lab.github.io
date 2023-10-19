@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), University of Macau, and a Visiting Researcher at the [Department of Electrical and Electronic Engineering](https://www.imperial.ac.uk/electrical-engineering/), Imperial College London.
-I am also a Series Editor of [IEEE Communications Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board) for the track: Artificial Intelligence and Data Science for Communications. 
+I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), University of Macau, and a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
+I am also a Series Editor of IEEE Communications Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track: Artificial Intelligence and Data Science for Communications. 
 
 Please contact me at:
 
->>> University of Macau: ylshao@um.edu.mo
+> University of Macau: ylshao@um.edu.mo
 
->>> Imperial College London: y.shao@imperial.ac.uk
+> Imperial College London: y.shao@imperial.ac.uk
 
->>> IEEE Communications Magazine:  ylshao@ieee.org
+> IEEE Communications Magazine:  ylshao@ieee.org
 
 
 
