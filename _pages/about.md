@@ -27,7 +27,7 @@ Please contact me by:
 Education
 ------
 * Ph.D. in Information Engineering, Chinese University of Hong Kong, Aug. 2016 – Dec. 2020.
-* B.E. and M.E. in Communication and Information Systems, Xidian University, Sept. 2009 – Jan. 2016.
+* B.E. and M.E. in Communication Engineering, Xidian University, Sept. 2009 – Jan. 2016.
 
 Work experience
 ------
@@ -49,7 +49,7 @@ Research Interests
 * Fundamentals of wireless communications
   * Tools: signal processing, matrix theory, real analysis, statistical inference.
 * Data science and machine learning
-  * Tools: deep learning, variational Bayesian methods, reinforcement learning, graph signal processing.
+  * Tools: deep learning, variational Bayesian methods, graph signal processing.
 * Networking and stochastic control
   * Tools: Markov decision process theory, reinforcement learning, optimization.
 
@@ -72,30 +72,30 @@ Professional Services
 
 Selected Publications
 ------
-• Y. Shao, E. Ozfatura, A. Perotti, B. Popovic, and D. Gunduz. AttentionCode: ultra-reliable feedback codes for short-packet communications, IEEE Transactions on Communications, 2023.
+* Y. Shao, E. Ozfatura, A. Perotti, B. Popovic, and D. Gunduz. AttentionCode: ultra-reliable feedback codes for short-packet communications, IEEE Transactions on Communications, 2023.
 
-• Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, 2023.
+* Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, 2023.
 
-• Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, 2023.
+* Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, 2023.
 
-• Y. Shao, D. Gunduz and S. Liew. Bayesian over-the-air computation, IEEE Journal on Selected Areas in Communications, vol. 41, no. 3, pp. 589-606, 2023.
+* Y. Shao, D. Gunduz and S. Liew. Bayesian over-the-air computation, IEEE Journal on Selected Areas in Communications, vol. 41, no. 3, pp. 589-606, 2023.
 
-• Y. Shao, D. Gunduz and S. Liew. Federated edge learning with misaligned over-the-air computation,” IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3951-3964, 2022.
+* Y. Shao, D. Gunduz and S. Liew. Federated edge learning with misaligned over-the-air computation,” IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3951-3964, 2022.
 
-• Y. Shao, D. Gunduz. Semantic communications with discrete-time analog transmission: a PAPR perspective,” IEEE Wireless Communication Letter, 2022.
+* Y. Shao, D. Gunduz. Semantic communications with discrete-time analog transmission: a PAPR perspective,” IEEE Wireless Communication Letter, 2022.
 
-• Y. Shao. Goal-oriented communication system redesign for wireless collaborative intelligence, IEEE Multimedia Communication Technical Committee – Frontiers, 2022.
+* Y. Shao. Goal-oriented communication system redesign for wireless collaborative intelligence, IEEE Multimedia Communication Technical Committee – Frontiers, 2022.
 
-• Y. Shao, Q, Cao, S. Liew, and H. Chen. Partially observable minimum-age scheduling: the greedy policy, IEEE Transactions on Communications, vol. 70, no. 1, pp. 404-418, 2021.
+* Y. Shao, Q, Cao, S. Liew, and H. Chen. Partially observable minimum-age scheduling: the greedy policy, IEEE Transactions on Communications, vol. 70, no. 1, pp. 404-418, 2021.
 
-• Y. Shao, S. Liew, H. Chen, Y. Du. Flow sampling: network monitoring in large-scale software-defined IoT networks, IEEE Transactions on Communications, vol. 69, no. 9, pp. 6120-6133, 2021.
+* Y. Shao, S. Liew, H. Chen, Y. Du. Flow sampling: network monitoring in large-scale software-defined IoT networks, IEEE Transactions on Communications, vol. 69, no. 9, pp. 6120-6133, 2021.
 
-• Y. Shao and S. Liew. Flexible subcarrier allocation for interleaved frequency division multiple access, IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7139-7152, 2020.
+* Y. Shao and S. Liew. Flexible subcarrier allocation for interleaved frequency division multiple access, IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7139-7152, 2020.
 
-• Y. Shao, A. Rezaee, S. Liew, and V. Chan. Significant sampling for shortest path routing: a deep reinforcement learning solution, IEEE Journal on Selected Areas in Communications, vol. 38, no. 10, pp. 2234–2248, 2020.
+* Y. Shao, A. Rezaee, S. Liew, and V. Chan. Significant sampling for shortest path routing: a deep reinforcement learning solution, IEEE Journal on Selected Areas in Communications, vol. 38, no. 10, pp. 2234–2248, 2020.
 
-• Y. Shao, S. Liew, and J. Liang. Sporadic ultra-time-critical crowd messaging in V2X, IEEE Transactions on Communications, vol. 69, no. 2, pp. 817-830, 2020.
+* Y. Shao, S. Liew, and J. Liang. Sporadic ultra-time-critical crowd messaging in V2X, IEEE Transactions on Communications, vol. 69, no. 2, pp. 817-830, 2020.
 
-• Y. Shao, S. Liew, and T. Wang. AlphaSeq: sequence discovery with deep reinforcement learning, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3319–3333, 2019.
+* Y. Shao, S. Liew, and T. Wang. AlphaSeq: sequence discovery with deep reinforcement learning, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3319–3333, 2019.
 
-• Y. Shao, S. Liew, and L. Lu. Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding, IEEE Transactions on Wireless Communications, vol. 16, no. 10, pp. 6881–6894, 2017.
+* Y. Shao, S. Liew, and L. Lu. Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding, IEEE Transactions on Wireless Communications, vol. 16, no. 10, pp. 6881–6894, 2017.
