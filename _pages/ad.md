@@ -1,5 +1,10 @@
-Position opening
-======
+---
+layout: archive
+title: "Position opening"
+permalink: /ad/
+author_profile: true
+---
+
 
 For the Ph.D. program in 2024, we are offering positions to 2 students with Ph.D. Assistantship support, providing a monthly stipend of MOP14,000 for four years. 
 
