@@ -42,7 +42,7 @@ Work experience
   * Research Assistant
  
   
-Research Interests
+> Research Interests
 ======
 * Fundamentals of wireless communications
   * Tools: signal processing, matrix theory, real analysis, statistical inference.
