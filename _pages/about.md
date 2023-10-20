@@ -24,19 +24,21 @@ Please contact me by:
 
 > IEEE Communications Magazine:  ylshao@ieee.org
 
+Education
+------
+* Ph.D. in Information Engineering, Chinese University of Hong Kong, 2016 -- 2020.
+* B.E. and M.E. in Commuunication Engineering, Xidian University, 2009 -- 2016.
+
 Work experience
 ------
 * University of Exeter, Nov. 2022 -- Aug. 2023
-  * Department of Engineering
-  * Lecturer in Information Processing.
+  * Lecturer in Information Processing, Department of Engineering
 
 * Imperial College London, Jan. 2021 -- Nov. 2022
-  * Department of Electrical and Electronic Engineering
-  * Research Associate
+  * Research Associate, Department of Electrical and Electronic Engineering
   
 * Massachusetts Institute of Technology, Sept. 2018 --  Mar. 2019
-  * Claude E. Shannon Communication and Network Group
-  * Visiting Scholar
+  * Visiting Scholar, Claude E. Shannon Communication and Network Group
   
 * Institute of Network Coding, Mar. 2015 -- July 2016
   * Research Assistant
