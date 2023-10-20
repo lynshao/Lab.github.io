@@ -42,8 +42,8 @@ Work experience
   * Research Assistant
  
   
-> Research Interests
-======
+Research Interests
+------
 * Fundamentals of wireless communications
   * Tools: signal processing, matrix theory, real analysis, statistical inference.
 * Data science and machine learning
@@ -53,14 +53,14 @@ Work experience
 
 
 Awards
-======
+------
 * IEEE International Conference on Communications 2023, Best Paper Award.
 * Global scholarship programme for research excellence, 2019.
 * Overseas research attachment programme, 2018.
  
 
 Professional Services
-======
+------
 * IEEE Communications Magazine, Series Editor.
 * IEEE Communication Society flagship conferences, Session chair and TPC member.
 * 5G Academy Italy 2022, Guest Lecturer.
@@ -68,7 +68,7 @@ Professional Services
 
 
 Selected Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
