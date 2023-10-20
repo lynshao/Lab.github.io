@@ -62,9 +62,9 @@ Awards
 Professional Services
 ======
 * IEEE Communications Magazine, Series Editor.
-* Session chair and TPC member for IEEE Communication Society flagship conferences.
-* 5G Academy Italy 2022, guest lecturer.
-* IEEE Information Theory Society Bangalore Chapter, invited speaker.
+* IEEE Communication Society flagship conferences, Session chair and TPC member.
+* 5G Academy Italy 2022, Guest Lecturer.
+* IEEE Information Theory Society Bangalore Chapter, Invited Speaker.
 
 
 Selected Publications
