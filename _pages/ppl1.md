@@ -15,7 +15,7 @@ PhD students
 <div align="center">
   < img src="cyw.jpg" alt="个人图片">
 </div>
-{% include image.html url="../images/yulinshao.JPG"  width=300 align="center" %}
+{% include image.html url="shao.JPG"  width=300 align="center" %}
 <br>
 <p align="center">
   <span style="font-size: 1.5em;">Yewen CAO</span>
