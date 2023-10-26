@@ -2,7 +2,6 @@
 layout: archive
 title: "Portfolio"
 permalink: /ppl1/
-author_profile: true
 ---
 
 Postdocs
