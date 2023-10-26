@@ -5,6 +5,8 @@ permalink: /ppl1/
 author_profile: true
 ---
 
+
+<div class="home">
 <!DOCTYPE html>
 <html>
 <head>
@@ -41,3 +43,5 @@ author_profile: true
 
 </body>
 </html>
+
+</div>
