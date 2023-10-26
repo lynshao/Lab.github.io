@@ -12,7 +12,7 @@ To be updated ...
 PhD students
 ======
 
-{% include image.html url="/images/shao.png"  width=300 align="center" %}
+{% include image.html url="/images/yulinshao.JPG"  width=300 align="center" %}
 <br>
 <p align="center">
   <span style="font-size: 1.5em;">Yewen CAO</span>
