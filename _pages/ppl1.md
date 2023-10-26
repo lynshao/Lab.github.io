@@ -14,7 +14,7 @@ PhD students
 
 <div align="center">
   < img src="shao.JPG" alt="个人图片">
-</div>
+<div>
 
 
 MSc students
