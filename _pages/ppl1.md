@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div align="center">
-  < img src="../images/shao.png" alt="个人图片">
+  < img src="yulinshao.png" alt="个人图片">
 </div>
 <br>
 <p align="center">
