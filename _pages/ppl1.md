@@ -33,7 +33,7 @@ PhD students
 
 <div class="container">
   <div class="col-30">
-   <div align=center>< img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
+   <div align=center>< img src="https://github.com/lynshao/Lab.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
   </div>
   <div class="col-70">
     <p><span style="font-size: 1.5em;">Yewen CAO</span><br>
