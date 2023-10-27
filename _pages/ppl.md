@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /ppl1/
+permalink: /ppl/
 author_profile: true
 ---
 
@@ -13,7 +13,7 @@ To be updated ...
 PhD students
 ======
 
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true)
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/yewen.jpg?raw=true)
 <br>
   <span style="font-size: 1.5em;">Yewen CAO</span><br>
 Research interests: wireless communications, signal processing, IoT.
