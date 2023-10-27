@@ -14,6 +14,8 @@ To be updated ...
 PhD students
 ======
 
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true)
+
 <head>
   <style>
     .col-30 {
