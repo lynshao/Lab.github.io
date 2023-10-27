@@ -4,9 +4,6 @@ permalink: /ppl/
 author_profile: true
 ---
 
-  
-PhD students
-======
 
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true)
 <br>
