@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 1（普通大小）
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =300×)<br>
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =10×)<br>
 2（普通大小）
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =300×300)<br>
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =10×30)<br>
 3（普通大小）
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =100×)<br>
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =10×)<br>
 4（普通大小）
-![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =100×100)<br>
+![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true =10×10)<br>
 5（不显示）
 ![](https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg =100×100)<br>
 6（不显示）
