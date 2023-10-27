@@ -4,7 +4,6 @@ permalink: /ppl1/
 author_profile: true
 ---
 
-{% include base_path %}
 
 Postdocs
 ======
