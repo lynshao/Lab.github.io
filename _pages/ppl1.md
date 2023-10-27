@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Portfolio"
 permalink: /ppl1/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
+{% include base_path %}
 Postdocs
 ======
 
