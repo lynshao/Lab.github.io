@@ -2,8 +2,6 @@
 layout: archive
 permalink: /ppl1/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -33,11 +31,12 @@ PhD students
     }
   </style>
 </head>
+
 <body>
 
 <div class="container">
   <div class="col-30">
-    <div align=center>< img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
+   <div align=center>< img src="https://github.com/yewenC/academicpages.github.io/blob/master/images/cyw.jpg?raw=true" width="300"></div>
   </div>
   <div class="col-70">
     <p><span style="font-size: 1.5em;">Yewen CAO</span><br>
@@ -48,6 +47,8 @@ PhD students
   </div>
   <div class="clearfix"></div>
 </div>
+
+</body>
 
 
 MSc students
