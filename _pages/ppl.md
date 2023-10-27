@@ -63,16 +63,16 @@ Email: 17843321776@163.com
 
 <br>
 
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/500x300.png?raw=true)
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/houjun.jpg?raw=true)
 <br>
   <span style="font-size: 1.5em;">Houjun Lu</span><br>
   
 - MSc in Electrical and Computer Engineering, started from Aug. 2023, University of Macau
-- B.E. in ?, ? (?-?)
+- B.E. in Communication Engineering, Tianjin University of Science and Technology (Sep. 2018- June 2022)
 
-Research interests: ?
+Research interests: wireless communication, machine learning
 
-Email: ?
+Email: mc35263@um.edu.mo 
 
 <br>
 
