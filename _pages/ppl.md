@@ -20,16 +20,16 @@ Email: yc37408@um.edu.mo
 <br>
 
 
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/500x300.png?raw=true)
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/yu.jpg?raw=true)
 <br>
   <span style="font-size: 1.5em;">Yu Ding</span><br>
   
 - Ph.D. in Electrical and Computer Engineering, to start from Aug. 2024, University of Macau
-- B.E. in ?, Nankai University (?-?)
+- B.E. in Data Science and Big Data Technology, Nankai University (Sept. 2019 - Jun. 2023)
 
-Research interests: ?
+Research interests: Data science and machine learning, signal processing, IoT
 
-Email: ?
+Email: yuding_um@163.com
 
 <br>
 
