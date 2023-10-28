@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-The mission and vision of ICL % https://github.com/academicpages
+The Intelligent Communication Lab, housed within the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at the University of Macau, is dedicated to pushing the frontiers of research and innovation in wireless communications and networking. We harness both traditional methods like signal processing and interdisciplinary approaches such as data science. Our primary goal is to pioneer state-of-the-art technologies that not only improve the reliability and efficiency of wireless communication systems but also promote collaboration with industry. Our research is driven by a dual focus: uncovering fundamental insights and creating practical solutions with real-world impact.
 
 About the Supervisor
 ======
