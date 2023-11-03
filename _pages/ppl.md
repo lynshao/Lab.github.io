@@ -82,7 +82,7 @@ Visiting students
 
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/runxin.jpg?raw=true)
 <br>
-  <span style="font-size: 1.5em;">Yimeng Li</span><br>
+  <span style="font-size: 1.5em;">Runxin Zhang</span><br>
   
 - Ph.D. in Computer Application Technology, started from Sept. 2020, University of Chinese Academy of Sciences
 - B.E. in Automation (honr.), Nanjing University of Aeronautics and Astronautics (Sept. 2016 - Jun. 2020)
