@@ -15,7 +15,7 @@ To tackle the language exploitation problem, we put forth three approaches: sema
 
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/semantic.png?raw=true)
 
-https://arxiv.org/pdf/2212.01485.pdf
+For more details about the framework, please see https://arxiv.org/pdf/2212.01485.pdf.
 
 DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things
 =====================
