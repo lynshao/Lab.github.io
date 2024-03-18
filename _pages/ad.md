@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-For the Ph.D. program in 2024, we are offering positions to 2 students with Ph.D. Assistantship support, providing a monthly stipend of MOP14,000 for four years. 
+For the Ph.D. program in 2025 (spring and fall), we are offering positions to 2 students with Ph.D. Assistantship support, providing a monthly stipend of MOP12,500~14,000 for four years. 
 
 You can also encouraged to apply for the Macao Ph.D. Scholarship, which offers MOP20,000 per month for four years. The scholarship is more substantial, but it's also competitive, yet I am committed to offering full support.
 
@@ -19,6 +19,6 @@ We welcome Msc students in the University of Macau to join our lab and embark on
 
 Here's a valuable tip: starting your journey in the lab as early as possible. This grants you more time for scientific exploration, and hence higher-quality research.
 
-RA
+RA and PostDoc
 ========
-We are looking for a Research Assistant (RA) with expertise in both communication systems and machine learning. The position is available immediately, offering a monthly salary of MOP14,000 for one year. Strong coding skills are required.
+N/A
