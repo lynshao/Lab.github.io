@@ -94,7 +94,7 @@ Email: zhangrunxin20@mails.ucas.ac.cn
 <br>
 
 
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.jpg?raw=true)
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.png?raw=true)
 <br>
   <span style="font-size: 1.5em;">Pengfei Shen</span><br>
   
