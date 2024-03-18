@@ -71,9 +71,14 @@ Professional Services
 * IEEE Information Theory Society Bangalore Chapter, Invited Speaker.
 
 
-Selected Publications
+Selected Journal Publications
 ------
-* Y. Shao, E. Ozfatura, A. Perotti, B. Popovic, and D. Gunduz. AttentionCode: ultra-reliable feedback codes for short-packet communications, IEEE Transactions on Communications, 2023.
+
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, https://arxiv.org/abs/2403.00321, 2024.
+  
+* Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, https://arxiv.org/abs/2212.01485, 2024.
+  
+* Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, https://arxiv.org/abs/2401.00658, 2024.
 
 * Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, 2023.
 
