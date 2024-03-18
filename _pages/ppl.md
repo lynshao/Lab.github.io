@@ -87,9 +87,23 @@ Visiting students
 - Ph.D. in Computer Application Technology, started from Sept. 2020, University of Chinese Academy of Sciences
 - B.E. in Automation (honr.), Nanjing University of Aeronautics and Astronautics (Sept. 2016 - Jun. 2020)
 
-Research interests: optical wireless communications, signal processing  
+Research interests: optical wireless communications, signal processing.
 
 Email: zhangrunxin20@mails.ucas.ac.cn
+
+<br>
+
+
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.jpg?raw=true)
+<br>
+  <span style="font-size: 1.5em;">Pengfei Shen</span><br>
+  
+- Ph.D. in Computer Application Technology, started from Sept. 2019, University of Chinese Academy of Sciences
+- B.E. in Electrical Engineering and Automation, Xi’an JiaoTong University (Sept. 2015 - Jun. 2019)
+
+Research interests: Markov decision process, optical wireless communications, reconfigurable intelligent surface.
+
+Email: shenpengfei19@mails.ucas.ac.cn
 
 <br>
 
