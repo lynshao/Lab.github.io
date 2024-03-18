@@ -18,4 +18,5 @@ For more details about the framework, please see https://arxiv.org/pdf/2212.0148
 
 DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things
 =====================
-Coming soon ...
+
+At the heart of the Internet of Things (IoT) -- a domain witnessing explosive growth -- the imperative for energy efficiency and the extension of device lifespans has never been more pressing. In this line of research, we present DEEP-IoT, a revolutionary communication paradigm poised to redefine how IoT devices communicate. Through a pioneering "listen more, transmit less" strategy, DEEP-IoT challenges and transforms the traditional transmitter (IoT devices)-centric communication model to one where the receiver (the access point) play a pivotal role, thereby cutting down energy use and boosting device longevity. We not only conceptualize DEEP-IoT but also actualize it by integrating deep learning-enhanced feedback channel codes within a narrow-band system. Simulation results show a significant enhancement in the operational lifespan of IoT cells -- surpassing traditional systems using Turbo and Polar codes by up to 52.71%. This leap signifies a paradigm shift in IoT communications, setting the stage for a future where IoT devices boast unprecedented efficiency and durability.
