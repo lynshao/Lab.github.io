@@ -24,3 +24,5 @@ At the heart of the Internet of Things (IoT) -- a domain witnessing explosive gr
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/DEEP-IoT1.png?raw=true)
 
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/DEEP-IoT2.png?raw=true)
+
+For more details about the framework, please see https://arxiv.org/abs/2403.00321.
