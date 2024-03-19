@@ -46,6 +46,17 @@ Email: 2200201101@stu.hit.edu.cn
 
 <br>
 
+<br>
+
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg?raw=true)
+<br>
+  <span style="font-size: 1.5em;">Enhao CHEN</span><br>
+- Ph.D. in Electrical and Computer Engineering, to start from Aug. 2024, University of Macau
+- B.E in Cyberspace Security, Harbin Institute of Technology (Sep. 2020-June 2024)
+
+Research interests: IoT, Cyberspace Security, Network topology.
+
+Email: chenenhao741369@163.com
 
 MSc students
 ======
