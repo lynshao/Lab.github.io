@@ -47,8 +47,5 @@ Demos:
 
 Video: 
 
-
-![1711001435132](https://github.com/lynshao/Lab.github.io/assets/16360158/b2e2f2aa-34d8-4a63-a328-feb813e61d3c)
-
-[![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/hqdefault.jpg)](https://www.bilibili.com/video/BV1zr42187rj/?spm_id_from=333.999.0.0)
+[![Watch the video](https://github.com/lynshao/Lab.github.io/assets/16360158/b2e2f2aa-34d8-4a63-a328-feb813e61d3c)](https://www.bilibili.com/video/BV1zr42187rj/?spm_id_from=333.999.0.0)
 
