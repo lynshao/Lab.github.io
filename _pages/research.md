@@ -39,6 +39,7 @@ The exploration of large language models (LLMs) for task planning and IoT automa
 For more details about the framework, please see https://arxiv.org/pdf/2312.09007.pdf.
 
 Demos:
+
 [![Watch the video](https://img.youtube.com/vi/3Al5qRntEEU/maxresdefault.jpg)](https://youtu.be/3Al5qRntEEU)
 
 
