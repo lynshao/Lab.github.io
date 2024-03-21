@@ -40,10 +40,10 @@ For more details about the framework, please see https://arxiv.org/pdf/2312.0900
 
 Demos:
 
-[![Watch the video](https://img.youtube.com/vi/3Al5qRntEEU/maxresdefault.jpg)](https://youtu.be/3Al5qRntEEU)
+[![Watch the video](https://img.youtube.com/vi/3Al5qRntEEU/hqdefault.jpg)](https://youtu.be/3Al5qRntEEU)
 
 
-[![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/maxresdefault.jpg)](https://youtu.be/aTGD8EjQ8kM)
+[![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/hqdefault.jpg)](https://youtu.be/aTGD8EjQ8kM)
 
 Video: 
 [![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/maxresdefault.jpg)](https://www.bilibili.com/video/BV1zr42187rj/?spm_id_from=333.999.0.0)
