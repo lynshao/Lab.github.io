@@ -19,6 +19,8 @@ From Aug. 2023 to March. 2024:
 
 * Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, arXiv:2212.01485, 2024.
 
+* C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, arXiv:2403.10613, 2024.
+
 * Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, arXiv:2401.00658, 2024.
 
 * Y. Du, S. Liew, K. Chen, Y. Shao, The power of large language models for wireless communication system development: A case study on FPGA platforms, arXiv:2307.07319, 2024.
