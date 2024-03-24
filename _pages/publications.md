@@ -25,14 +25,14 @@ From Aug. 2023 to March. 2024:
 
 * Y. Du, S. Liew, K. Chen, Y. Shao, The power of large language models for wireless communication system development: A case study on FPGA platforms, arXiv:2307.07319, 2024.
 
-* H Wu, Y Shao, E Ozfatura, K Mikolajczyk, D Gündüz, Transformer-aided wireless image transmission with channel feedback, arXiv:2306.09101, 2024.
-
 * C Bian, Y Shao, D Gunduz, Wireless point cloud transmission, arXiv:2306.08730, 2024.
 
 * P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar, Channel Cycle Time: A New Measure of Short-term Fairness, arXiv:2305.11651, 2024.
 
 # Journal publications
 
+* H Wu, Y Shao, E Ozfatura, K Mikolajczyk, D Gunduz, Transformer-aided wireless image transmission with channel feedback, IEEE Transactions on Wireless Communications, 2024.
+  
 * P. Shen, Y. Shao, Q. Cao, L. Lu, Dynamic gNodeB Sleep Control for Energy-Conserving 5G Radio Access Network, IEEE Transactions on Cognitive Communications and Networking, 2024.
 
 * L. You, X. Zhao, R. Cao, Y. Shao, L. Fu, Broadband Digital Over-the-Air Computation for Wireless Federated Edge Learning, IEEE Transactions on Mobile Computing, 2023
