@@ -31,7 +31,7 @@ From Aug. 2023 to March. 2024:
 
 # Journal publications
 
-* H Wu, Y Shao, E Ozfatura, K Mikolajczyk, D Gunduz, Transformer-aided wireless image transmission with channel feedback, IEEE Transactions on Wireless Communications, 2024.
+* H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, D. Gunduz, Transformer-aided wireless image transmission with channel feedback, IEEE Transactions on Wireless Communications, 2024.
   
 * P. Shen, Y. Shao, Q. Cao, L. Lu, Dynamic gNodeB Sleep Control for Energy-Conserving 5G Radio Access Network, IEEE Transactions on Cognitive Communications and Networking, 2024.
 
