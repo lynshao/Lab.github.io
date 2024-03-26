@@ -7,6 +7,8 @@ From Aug. 2023 to March. 2024:
 
 # Preprint
 
+* H. Wu, M. Zhang, Y. Shao, K. Mikolajczyk, D. Gunduz, MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems, arXiv:2403.13615, 2024.
+  
 * P. Zhang, J. Wang, Y. Shao, S. Ma, Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection, arXiv:2401.05182, 2024.
 
 * H. Cui, Y. Du, Q. Yang, Y. Shao, S. Liew, LLMind: Orchestrating AI and IoT with LLMs for complex task execution, arXiv:2312.09007, 2024.
