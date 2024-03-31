@@ -10,8 +10,6 @@ redirect_from:
 
 The Intelligent Communication Lab, housed within the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at the University of Macau, is dedicated to pushing the frontiers of research and innovation in wireless communications and networking. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods such as data science, pioneering cutting-edge technologies that enhance the reliability and efficiency of various wireless communication systems.
 
-智能通信实验室 (UM-ICL) 隶属于澳门大学智能城市物联网国家重点实验室 (SKL-IOTSC)，专注于推动无线通信和网络领域的研究与创新。我们主要对两类研究感兴趣: 第一类是可以揭示系统运行原理、提供基础启发的研究，第二类是对针对实际系统、对标准演进有实际影响的研究。我们主要的研究方法包括传统技术 (如信号处理、随机推断) 和跨学科技术 (如数据科学、深度学习)。借助这些方法，我们的目标是提升各种无线通信系统的可靠性和效率，从而为实际应用提供创新性解决方案。
-
 About the Supervisor
 ======
 
