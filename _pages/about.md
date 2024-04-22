@@ -55,6 +55,7 @@ Research Interests
 
 Awards
 ------
+* IEEE Wireless Communications and Networking Conference 2024, Best Paper Award.
 * IEEE International Conference on Communications 2023, Best Paper Award.
 * International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021, ranked third in problem “Federated learning for spatial reuse” and nominated as a finalist in the Grand Challenge Finale.
 * Global scholarship programme for research excellence, 2019.
