@@ -84,7 +84,7 @@ author:
   avatar           : "icon.jpg"
   bio              : "State Key Laboratory of Internet of Things for Smart City. \ Supervisor: Yulin Shao"
   location         : "Macau"
-  employer         : "https://skliotsc.um.edu.mo/"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=jd5FILAAAAAJ&hl"
   email            :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.zhihu.com/people/y.shao"
   foursquare       :
   github           : # "academicpages"
   google_plus      :
