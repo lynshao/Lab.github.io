@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Intelligent Communication Lab"
 title_separator          : "-"
-name                     : &name "Yulin Shao"
-description              : &description "Supervisor of the Intelligent Communication Lab"
+name                     : &name "Intelligent Communication Lab"
+description              : &description "State Key Laboratory in the Internet of Things for smart city, University of Macau"
 url                      : https://lynshao.github.io/Lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lynshao/Lab.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yulin Shao"
-  avatar           : "shao.png"
-  bio              : "Supervisor of the Intelligent Communication Lab"
+  name             : "Intelligent Communication Lab"
+  avatar           : "icon.jpg"
+  bio              : "State Key Laboratory in the Internet of Things for smart city, University of Macau"
   location         : "Macau"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
