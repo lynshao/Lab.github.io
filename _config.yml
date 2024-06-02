@@ -84,8 +84,8 @@ author:
   avatar           : "icon.jpg"
   bio              : "State Key Laboratory of Internet of Things for Smart City. \ Supervisor: Yulin Shao"
   location         : "Macau"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "https://skliotsc.um.edu.mo/"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=jd5FILAAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -111,10 +111,11 @@ author:
   tumblr           :
   twitter          : # "replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.zhihu.com/people/y.shao"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
+  Zhihu            : "https://www.zhihu.com/people/y.shao"
 
 
 # Reading Files
