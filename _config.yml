@@ -89,33 +89,32 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=jd5FILAAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "https://www.zhihu.com/people/y.shao"
-  foursquare       :
+  uri              : "https://www.zhihu.com/people/y.shao"
+  bitbucket        : "https://www.zhihu.com/people/y.shao"
+  codepen          : "https://www.zhihu.com/people/y.shao"
+  dribbble         : "https://www.zhihu.com/people/y.shao"
+  flickr           : "https://www.zhihu.com/people/y.shao"
+  facebook         : # "https://www.zhihu.com/people/y.shao"
+  foursquare       : "https://www.zhihu.com/people/y.shao"
   github           : # "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : "https://www.zhihu.com/people/y.shao"
+  keybase          : "https://www.zhihu.com/people/y.shao"
+  instagram        : "https://www.zhihu.com/people/y.shao"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : "https://www.zhihu.com/people/y.shao"
+  linkedin         : "https://www.zhihu.com/people/y.shao"
   orcid            : # "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        : "https://www.zhihu.com/people/y.shao"
+  soundcloud       : "https://www.zhihu.com/people/y.shao"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            : "https://www.zhihu.com/people/y.shao"
+  tumblr           : "https://www.zhihu.com/people/y.shao"
   twitter          : # "replacethistwitterhandle"
-  vine             :
-  weibo            : 
-  xing             :
-  youtube          :
-  wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/y.shao"
+  vine             : "https://www.zhihu.com/people/y.shao"
+  weibo            :  "https://www.zhihu.com/people/y.shao"
+  xing             : "https://www.zhihu.com/people/y.shao"
+  youtube          : "https://www.zhihu.com/people/y.shao"
+  wikipedia        : "https://www.zhihu.com/people/y.shao"
 
 
 # Reading Files
