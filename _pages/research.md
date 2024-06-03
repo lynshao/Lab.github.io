@@ -28,6 +28,8 @@ To tackle the language exploitation problem, we put forth three approaches: sema
 
 For more details about the framework, please see https://arxiv.org/pdf/2212.01485.pdf.
 
+中文介绍：https://zhuanlan.zhihu.com/p/701344123
+
 
 LLMind: Integrating Large language Model with Wireless Communication Systems
 =====================
