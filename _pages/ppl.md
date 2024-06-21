@@ -88,7 +88,7 @@ Email: mc35263@um.edu.mo
 <br>
 
 
-Visiting students
+Visiting PhD students
 ======
 
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpg?raw=true)
