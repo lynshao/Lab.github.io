@@ -91,6 +91,35 @@ Email: mc35263@um.edu.mo
 Visiting students
 ======
 
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpeg?raw=true)
+<br>
+  <span style="font-size: 1.5em;">Haotian Wu</span><br>
+  
+- Ph.D. in Information Processing, started from Sept. 2021, Imperial College London
+- M.Sc in EEE, Imperial College London (Sept. 2017 - Jun. 2020)
+- B.E. in Automation, Zhejiang University (Sept. 2013 - Jun. 2017)
+
+Research interests: computer vision, communication, reinforcement learning, control theory.
+
+Email: haotian.wu17@imperial.ac.uk
+
+<br>
+
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.png?raw=true)
+<br>
+  <span style="font-size: 1.5em;">Runxin Zhang</span><br>
+  
+- Ph.D. in Information Processing, started from Sept. 2022, Imperial College London
+- M.Sc in EECS, University of Michigan (Sept. 2016 - Jun. 2022)
+- B.E. in Mathematics and Physics, Tsinghua University (Sept. 2016 - Jun. 2020)
+
+Research interests: information theory, signal processing, semantic communications. 
+
+Email: c.bian22@imperial.ac.uk
+
+<br>
+
+
 ![](https://github.com/lynshao/Lab.github.io/blob/master/images/runxin.jpg?raw=true)
 <br>
   <span style="font-size: 1.5em;">Runxin Zhang</span><br>
