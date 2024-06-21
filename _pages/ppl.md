@@ -91,7 +91,7 @@ Email: mc35263@um.edu.mo
 Visiting students
 ======
 
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpeg?raw=true)
+![](https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpg?raw=true)
 <br>
   <span style="font-size: 1.5em;">Haotian Wu</span><br>
   
