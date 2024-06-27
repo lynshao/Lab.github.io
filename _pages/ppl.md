@@ -158,7 +158,7 @@ Visiting PhD students
     <td style="padding: 10px;">
       <h2>Pengfei Shen</h2>
       <p><strong>Ph.D. in Computer Application Technology,</strong> University of Chinese Academy of Sciences (Sep. 2019) </p>
-      <p><strong>B.E. in Electrical Engineering and Automation,</strong> Nanjing University of Aeronautics and Astronautics (Sept. 2015 - Jun. 2019)</p>
+      <p><strong>B.E. in Electrical Engineering and Automation,</strong> Xi'an Jiaotong University (Sept. 2015 - Jun. 2019)</p>
       <p><strong>Research interests: </strong> Markov decision process, optical wireless communications, reconfigurable intelligent surface.  </p>
       <p><strong>Email:</strong> shenpengfei19@mails.ucas.ac.cn  </p>
     </td>
