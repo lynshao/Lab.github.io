@@ -1,11 +1,10 @@
 ---
 layout: archive
 permalink: /ppl/
-title: 
+title: PhD students
 author_profile: true
 ---
-PhD students
-======
+
 <table>
 <!-- Zijian Yang -->
   <tr>
