@@ -62,7 +62,7 @@ PhD students
   <!-- Hongyu AN -->
 <tr>
     <td style="padding: 10px;">
-      <img src="../images/identification photo.jpg" alt="Profile Picture" width="270" height="280">
+      <img src="../images/hongyu.jpg" alt="Profile Picture" width="270" height="280">
     </td>
     <td style="padding: 10px;">
       <h2>Hongyu AN</h2>
@@ -123,7 +123,7 @@ Visiting PhD students
       <p><strong>Email:</strong> haotian.wu17@imperial.ac.uk  </p>
     </td>
   </tr>
-  <!-- Runxin Zhang-->
+  <!-- Chenghong Bian-->
 <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.png?raw=true" alt="Profile Picture" width="270" height="280">
