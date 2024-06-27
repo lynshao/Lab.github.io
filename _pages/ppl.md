@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /ppl/
-title: PhD students
+title: 
 author_profile: true
 ---
 PhD students
