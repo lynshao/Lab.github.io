@@ -46,9 +46,9 @@ Work experience
 Research Interests
 ------
 * Fundamentals of wireless communications
-  * Tools: signal processing, matrix theory, real analysis, statistical inference.
+  * Tools: signal processing, matrix theory, real analysis, information theory.
 * Data science and machine learning
-  * Tools: deep learning, variational Bayesian methods, graph signal processing.
+  * Tools: deep learning, variational Bayesian methods, statistical inference.
 * Networking and stochastic control
   * Tools: Markov decision process theory, reinforcement learning, optimization.
 
