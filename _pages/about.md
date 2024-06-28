@@ -31,7 +31,7 @@ Education
 Work experience
 ------
 * University of Exeter, Nov. 2022 -- Aug. 2023
-  * Lecturer in Information Processing, Department of Engineering
+  * Lecturer (AP) in Information Processing, Department of Engineering
 
 * Imperial College London, Jan. 2021 -- Nov. 2022
   * Research Associate, Department of Electrical and Electronic Engineering
