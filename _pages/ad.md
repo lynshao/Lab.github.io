@@ -5,12 +5,11 @@ permalink: /ad/
 author_profile: true
 ---
 
+* Regular Ph.D. Program 2025: Our lab will offer positions to 2 students with full Ph.D. Assistantship support, providing a monthly stipend of MOP12,500~14,000 for four years. You can also encouraged to apply for the Macao Ph.D. Scholarship, which offers MOP20,000 per month for four years. The scholarship is more substantial, but it's also competitive, yet I am committed to offering full support.
 
-For the Ph.D. program in 2025 (spring and fall), we are offering positions to 2 students with Ph.D. Assistantship support, providing a monthly stipend of MOP12,500~14,000 for four years. 
+* Joint Ph.D. Program with 中国科学院深圳先进技术研究院/深圳理工大学: Our lab will offer 2 positions under a joint Ph.D. program designed to cultivate high-level talent with a global outlook and robust integration across academia, industry, and research. Successful candidates will be co-supervised by Dr. Qiaoqiao Zhou at 中国科学院深圳先进技术研究院/深圳理工大学, focusing on Information Theory and its applications in machine learning. Learn more about this program at https://www.siat.ac.cn/yjsjy2016/zsjs2016/202211/t20221125_6555182.html.
 
-You can also encouraged to apply for the Macao Ph.D. Scholarship, which offers MOP20,000 per month for four years. The scholarship is more substantial, but it's also competitive, yet I am committed to offering full support.
-
-Please send your CV, undergraduate (and graduate, if any) transcript, and English certificate (CET6 is acceptable) to ylshao@um.edu.mo.
+For both programs, please send your CV, undergraduate (and graduate, if any) transcript, and English certificate (CET6 is acceptable) to ylshao@um.edu.mo.
 
 
 Msc
