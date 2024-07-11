@@ -122,13 +122,13 @@ Visiting PhD students
       <p><strong>Email:</strong> haotian.wu17@imperial.ac.uk  </p>
     </td>
   </tr>
-  <!-- Chenghong Bian-->
+  <!-- Chenghong Bian -->
 <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.png?raw=true" alt="Profile Picture" width="270" height="280">
     </td>
     <td style="padding: 10px;">
-      <h2>Runxin Zhang</h2>
+      <h2>Chenghong Bian</h2>
       <p><strong>Ph.D. in Information Processing,</strong> Imperial College London (Sep. 2022) </p>
       <p><strong>M.Sc in EECS,</strong> University of Michigan (Sept. 2020 - Jun. 2022) </p>
       <p><strong>B.E. in Mathematics and Physics,</strong> Tsinghua University (Sept. 2016 - Jun. 2020)</p>
@@ -136,7 +136,7 @@ Visiting PhD students
       <p><strong>Email:</strong> c.bian22@imperial.ac.uk  </p>
     </td>
   </tr>
-    <!-- Another Runxin Zhang-->
+    <!-- Runxin Zhang-->
 <tr>
     <td style="padding: 10px;">
       <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/runxin.jpg?raw=true" alt="Profile Picture" width="270" height="280">
