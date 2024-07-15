@@ -72,6 +72,19 @@ author_profile: true
       <p><strong>Email:</strong>12132494@mail.sustech.edu.cn </p>
     </td>
   </tr>  
+  <!-- Dengke Wei -->
+<tr>
+    <td style="padding: 10px;">
+      <img src="../images/dengke.jpg" alt="Profile Picture" width="270" height="280">
+    </td>
+    <td style="padding: 10px;">
+      <h2>Dengke Wei</h2>
+      <p><strong>Ph.D. in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2025) </p>
+      <p><strong>B.E in Information Engineering,</strong> South China University of Technology (Sep. 2021 - Jun. 2025)</p>
+      <p><strong>Research interests: </strong> Wireless Communications, IoT, Signal Processing. </p>
+      <p><strong>Email:</strong>eedengkewei@mail.scut.edu.cn </p>
+    </td>
+  </tr>  
 </table>
 
 MSc students
