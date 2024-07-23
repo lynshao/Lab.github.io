@@ -175,4 +175,17 @@ Visiting PhD students
       <p><strong>Email:</strong> shenpengfei19@mails.ucas.ac.cn  </p>
     </td>
   </tr> 
+  <!-- Menghan Li -->
+ <tr>
+    <td style="padding: 10px;">
+      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/menghan.jpg?raw=true" alt="Profile Picture" width="270" height="280">
+    </td>
+    <td style="padding: 10px;">
+      <h2>Menghan Li</h2>
+      <p><strong>Ph.D. in Computer Application Technology,</strong> University of Chinese Academy of Sciences (Sep. 2021) </p>
+      <p><strong>B.E. in Electronic Information Engineering,</strong> Wuhan University  (Sept. 2017 - Jun. 2021)</p>
+      <p><strong>Research interests: </strong> optical wireless communications, signal processing.  </p>
+      <p><strong>Email:</strong> limenghan21@mails.ucas.ac.cn  </p>
+    </td>
+  </tr> 
 </table>
