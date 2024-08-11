@@ -55,8 +55,8 @@ Research Interests
 
 Awards
 ------
-* IEEE Wireless Communications and Networking Conference 2024, Best Paper Award.
-* IEEE International Conference on Communications 2023, Best Paper Award.
+* Best Paper Award, IEEE Wireless Communications and Networking Conference (WCNC) 2024, Dubai, United Arab Emirates.
+* Best Paper Award, IEEE International Conference on Communications (ICC) 2023, Rome, Italy.
 * International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021, ranked third in problem “Federated learning for spatial reuse” and nominated as a finalist in the Grand Challenge Finale.
 * Global scholarship programme for research excellence, 2019.
 * Overseas research attachment programme, 2018.
