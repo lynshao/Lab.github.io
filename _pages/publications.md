@@ -7,7 +7,9 @@ From Aug. 2023 to June 2024:
 
 # Preprint
 
-* H. Cui, Y. Du, Q. Yang, Y. Shao, S. Liew, LLMind: Orchestrating AI and IoT with LLMs for complex task execution, arXiv:2312.09007, 2024.
+* F. Zhang, Y. Du, K. Chen, Y. Shao, S. Liew, Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models, arXiv:2407.15335, 2024.
+  
+* Q. Cao, Y. Shao, S. Ge, On the Zero-Error Capacity of Semantic Channels with Input and Output Memories, arXiv:2407.21732, 2024.
 
 * R. Zhang, Y. Shao, M. Li, L. Lu, Optical Integrated Sensing and Communication, arXiv:2305.04395, 2024.
 
@@ -26,8 +28,6 @@ From Aug. 2023 to June 2024:
 * C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, arXiv:2403.10613, 2024.
 
 * Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, arXiv:2403.00321, 2024.
-  
-* C. Bian, Y. Shao, D. Gunduz, Wireless point cloud transmission, arXiv:2306.08730, 2024.
 
 * Q. Cao, Y. Shao, F. Yang, A Hypergraph Approach to Distributed Broadcast, arXiv:2404.16376, 2024.
 
@@ -35,6 +35,8 @@ From Aug. 2023 to June 2024:
 
 # Journal publications
 
+* H. Cui, Y. Du, Q. Yang, Y. Shao, S. Liew, LLMind: Orchestrating AI and IoT with LLMs for complex task execution, IEEE Communications Magazine, 2024.
+  
 * H. Wu, Y. Shao, C. Bian, K. Mikolajczyk, D. Gunduz, Deep joint source-channel coding for adaptive image transmission over MIMO channels, IEEE Transactions on Wireless Communications, 2024.
   
 * Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, 2024.
@@ -54,6 +56,9 @@ From Aug. 2023 to June 2024:
 
 # Conference publications
 
+
+* C. Bian, Y. Shao, D. Gunduz, Wireless point cloud transmission, IEEE International Workshop on Signal Processing Advances in Wireless Communications, 2024.
+  
 * H. Ruan, Y. Shao, Q. Yang, L. Zhao, D. Niyato, Point cloud compression with implicit neural representations: A unified framework, IEEE International Conference on Communications in China, 2024.
 
 * C. Bian, Y. Shao, D. Gunduz, A Hybrid Joint Source-Channel Coding Scheme for Mobile Multi-hop Networks, IEEE International Conference on Communications, 2024.
