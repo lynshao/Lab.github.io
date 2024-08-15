@@ -13,7 +13,7 @@ The Intelligent Communication Lab, housed within the State Key Laboratory of Int
 About the Supervisor
 ======
 
-I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), University of Macau, a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London, a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications", and an Editor of IEEE Transactions on Communications ([TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)) in the area of Machine Learning and Communications.
+I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), University of Macau, a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London, and a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications".
 
 Please contact me by:
 
@@ -21,7 +21,7 @@ Please contact me by:
 
 > Imperial College London: y.shao@imperial.ac.uk
 
-> IEEE ComMag and TCOM:  ylshao@ieee.org
+> IEEE ComMag:  ylshao@ieee.org
 
 Education
 ------
@@ -64,7 +64,6 @@ Awards
 
 Professional Services
 ------
-* IEEE Communications Magazine, Series Editor.
 * IEEE Transactions on Communications, Editor.
 * IEEE Communication Society flagship conferences, Session chair and TPC member.
 * 5G Academy Italy 2022, Guest Lecturer.
