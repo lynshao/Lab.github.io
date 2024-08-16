@@ -62,6 +62,8 @@ From Aug. 2023 to June 2024:
 * H. Ruan, Y. Shao, Q. Yang, L. Zhao, D. Niyato, Point cloud compression with implicit neural representations: A unified framework, IEEE International Conference on Communications in China, 2024.
 
 * C. Bian, Y. Shao, D. Gunduz, A Hybrid Joint Source-Channel Coding Scheme for Mobile Multi-hop Networks, IEEE International Conference on Communications, 2024.
+  
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Global Communications Conference, 2024.
 
 * P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar, Channel Cycle Time: A New Measure of Short-term Fairness, IEEE Wireless Communications and Networking Conference, 2024.
   
