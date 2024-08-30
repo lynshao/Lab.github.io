@@ -53,6 +53,9 @@ Research Interests
 * Networking and stochastic control
   * Tools: Markov decision process theory, reinforcement learning, optimization.
 
+I am particularly drawn to two types of problems: 1) problems that yield fundamental insights; 2) problems that are grounded in practical applications or have practical value.
+
+My recent research endeavors focus on: 1) exploring deep learning techniques to achieve new breakthroughs in wireless communications, networking, and control; 2) developing new designs for wireless links and networks to enhance support for machine learning applications.
 
 Awards
 ------
