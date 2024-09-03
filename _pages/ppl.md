@@ -86,6 +86,20 @@ author_profile: true
     </td>
   </tr>  
 </table>
+  <!-- Huiji Jiao -->
+<tr>
+    <td style="padding: 10px;">
+      <img src="../images/huiji.jpg" alt="Profile Picture" width="270" height="280">
+    </td>
+    <td style="padding: 10px;">
+      <h2>Huiji Jiao</h2>
+      <p><strong>Ph.D. in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2025) </p>
+      <p><strong>B.E in Communication Engineering,</strong> Harbin Institute of Technology (Sep. 2021 - Jun. 2025)</p>
+      <p><strong>Research interests: </strong> Wireless Communications, movable antenna. </p>
+      <p><strong>Email:</strong>1316670842@qq.com</p>
+    </td>
+  </tr>  
+</table>
 
 MSc students
 ======
