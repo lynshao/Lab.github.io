@@ -85,7 +85,6 @@ author_profile: true
       <p><strong>Email:</strong>eedengkewei@mail.scut.edu.cn </p>
     </td>
   </tr>  
-</table>
   <!-- Huiji Jiao -->
 <tr>
     <td style="padding: 10px;">
