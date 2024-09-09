@@ -20,4 +20,7 @@ Here's a valuable tip: starting your journey in the lab as early as possible. Th
 
 RA and PostDoc
 ========
-N/A
+We have two openings for Research Assistants/Associates in the fields of Wireless Communications and Machine Learning. Ideal candidates should have a strong background in either or both disciplines.
+Duration: 1 to 2 years
+Stipend: MOP 20,000 per month
+Please send your CV and transcript (if you were a student) to ylshao@um.edu.mo.
