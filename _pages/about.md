@@ -22,9 +22,11 @@ Please contact me by:
 > Imperial College London: y.shao@imperial.ac.uk
 
 
-I am a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications", an Editor of IEEE Transactions on Communications ([TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)) in the area of Machine Learning and Communications, and an Editor of IEEE Communications Letters ([ComLett](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)) in the area of Machine Learning for Communications
+I am a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications", an Editor of IEEE Transactions on Communications ([TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)) in the area of Machine Learning and Communications, and an Editor of IEEE Communications Letters ([ComLett](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)) in the area of Machine Learning for Communications.
 
-> IEEE ComMag and TCOM:  ylshao@ieee.org
+Please contact me by:
+
+> IEEE:  ylshao@ieee.org
 
 Education
 ------
@@ -72,6 +74,7 @@ Professional Services
 ------
 * IEEE Communications Magazine, Series Editor.
 * IEEE Transactions on Communications, Editor.
+* IEEE Communications Letters, Editor.
 * IEEE Communication Society flagship conferences, Session chair and TPC member.
 * 5G Academy Italy 2022, Guest Lecturer.
 * IEEE Information Theory Society Bangalore Chapter, Invited Speaker.
