@@ -3,9 +3,17 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-From Aug. 2023 to June 2024:
+From Aug. 2023 to Nov. 2024:
 
 # Preprint
+
+* R. Zhang, Y. Shao, Y. C. Eldar, Polarization aware movable antenna, arXiv:2411.06690, 2024.
+
+* W. Lai, Y. Shao, Y. Ding, D. Gunduz, Variable-Length Feedback Codes via Deep Learning, arXiv:2411.08481, 2024.
+
+* Y. Cao, Y. Shao, R. Q. Hu, Fractional Fourier Domain PAPR Reduction, arXiv:2411.08473, 2024.
+
+* H. Di, X. Zhu, Y. Shao, Integrated Precoder and Trajectory Design for MIMO UAV-Assisted Relay System With Finite-Alphabet Inputs, arXiv:2411.08680, 2024.
 
 * F. Zhang, Y. Du, K. Chen, Y. Shao, S. Liew, Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models, arXiv:2407.15335, 2024.
   
@@ -13,9 +21,7 @@ From Aug. 2023 to June 2024:
 
 * R. Zhang, Y. Shao, M. Li, L. Lu, Optical Integrated Sensing and Communication, arXiv:2305.04395, 2024.
 
-* P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar, Channel Cycle Time: A New Measure of Short-term Fairness, arXiv:2305.11651, 2024.
-
-* C. Bian, Y. Shao, D. Gunduz, A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks”, arXiv:2405.09698, 2024.
+* C. Bian, Y. Shao, D. Gunduz, A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks, arXiv:2405.09698, 2024.
 
 * H. Wu, M. Zhang, Y. Shao, K. Mikolajczyk, D. Gunduz, MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems, arXiv:2403.13615, 2024.
 
@@ -25,16 +31,16 @@ From Aug. 2023 to June 2024:
 
 * Y. Du, S. Liew, K. Chen, Y. Shao, The power of large language models for wireless communication system development: A case study on FPGA platforms, arXiv:2307.07319, 2024.
 
-* C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, arXiv:2403.10613, 2024.
-
 * Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, arXiv:2403.00321, 2024.
 
 * Q. Cao, Y. Shao, F. Yang, A Hypergraph Approach to Distributed Broadcast, arXiv:2404.16376, 2024.
 
-
-
 # Journal publications
 
+* C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, IEEE Journal on Selected Areas in Communications, 2024.
+
+* P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar, Channel Cycle Time: A New Measure of Short-term Fairness, IEEE Transactions on Mobile Computing, 2024.
+  
 * H. Cui, Y. Du, Q. Yang, Y. Shao, S. Liew, LLMind: Orchestrating AI and IoT with LLMs for complex task execution, IEEE Communications Magazine, 2024.
   
 * H. Wu, Y. Shao, C. Bian, K. Mikolajczyk, D. Gunduz, Deep joint source-channel coding for adaptive image transmission over MIMO channels, IEEE Transactions on Wireless Communications, 2024.
@@ -55,7 +61,6 @@ From Aug. 2023 to June 2024:
 
 
 # Conference publications
-
 
 * C. Bian, Y. Shao, D. Gunduz, Wireless point cloud transmission, IEEE International Workshop on Signal Processing Advances in Wireless Communications, 2024.
   
