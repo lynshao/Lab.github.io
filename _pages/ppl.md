@@ -98,6 +98,19 @@ author_profile: true
       <p><strong>Email:</strong>1316670842@qq.com</p>
     </td>
   </tr>  
+  <!-- Tianji He -->
+<tr>
+    <td style="padding: 10px;">
+      <img src="../images/tianji.png" alt="Profile Picture" width="270" height="280">
+    </td>
+    <td style="padding: 10px;">
+      <h2>Tianji He</h2>
+      <p><strong>Ph.D. in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2025) </p>
+      <p><strong>B.E in Electronic Information Engineering,</strong> Huazhong University of Science and Technology (Sep. 2021 - Jun. 2025)</p>
+      <p><strong>Research interests: </strong> Wireless Communications, Artificial Intelligence. </p>
+      <p><strong>Email:</strong>674438546@qq.com</p>
+    </td>
+  </tr>  
 </table>
 
 MSc students
