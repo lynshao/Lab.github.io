@@ -31,12 +31,12 @@ From Aug. 2023 to Nov. 2024:
 
 * Y. Du, S. Liew, K. Chen, Y. Shao, The power of large language models for wireless communication system development: A case study on FPGA platforms, arXiv:2307.07319, 2024.
 
-* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, arXiv:2403.00321, 2024.
-
 * Q. Cao, Y. Shao, F. Yang, A Hypergraph Approach to Distributed Broadcast, arXiv:2404.16376, 2024.
 
 # Journal publications
 
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, 2024.
+  
 * C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, IEEE Journal on Selected Areas in Communications, 2024.
 
 * P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar, Channel Cycle Time: A New Measure of Short-term Fairness, IEEE Transactions on Mobile Computing, 2024.
