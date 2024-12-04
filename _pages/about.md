@@ -82,10 +82,10 @@ Professional Services
 
 Selected Journal Publications
 ------
-
-* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, https://arxiv.org/abs/2403.00321, 2024.
   
 * Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, https://arxiv.org/abs/2401.00658, 2024.
+
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, 2024.
   
 * Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, 2024.
 
