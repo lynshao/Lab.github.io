@@ -3,10 +3,14 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-From Aug. 2023 to Nov. 2024:
+From Aug. 2023 to Jan. 2025:
 
 # Preprint
 
+* H. Ruan, Y. Shao, Q. Yang, L. Zhao, Z. Zhang, D. Niyato, Implicit Neural Compression of Point Clouds, arXiv:2412.10433, 2025.
+
+* Y. Li, Y. Shao, Connecting the Unconnectable through Feedback, arXiv:2501.02335, 2025.
+  
 * R. Zhang, Y. Shao, Y. C. Eldar, Polarization aware movable antenna, arXiv:2411.06690, 2024.
 
 * W. Lai, Y. Shao, Y. Ding, D. Gunduz, Variable-Length Feedback Codes via Deep Learning, arXiv:2411.08481, 2024.
@@ -16,10 +20,6 @@ From Aug. 2023 to Nov. 2024:
 * H. Di, X. Zhu, Y. Shao, Integrated Precoder and Trajectory Design for MIMO UAV-Assisted Relay System With Finite-Alphabet Inputs, arXiv:2411.08680, 2024.
 
 * F. Zhang, Y. Du, K. Chen, Y. Shao, S. Liew, Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models, arXiv:2407.15335, 2024.
-  
-* Q. Cao, Y. Shao, S. Ge, On the Zero-Error Capacity of Semantic Channels with Input and Output Memories, arXiv:2407.21732, 2024.
-
-* R. Zhang, Y. Shao, M. Li, L. Lu, Optical Integrated Sensing and Communication, arXiv:2305.04395, 2024.
 
 * C. Bian, Y. Shao, D. Gunduz, A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks, arXiv:2405.09698, 2024.
 
@@ -33,8 +33,13 @@ From Aug. 2023 to Nov. 2024:
 
 * Q. Cao, Y. Shao, F. Yang, A Hypergraph Approach to Distributed Broadcast, arXiv:2404.16376, 2024.
 
+
 # Journal publications
 
+* R. Zhang, Y. Shao, M. Li, L. Lu, Y. C. Eldar, Optical integrated sensing and communication with Light-Emitting Diode, IEEE Internet of Things Journal, 2025.
+  
+* Q. Cao, Y. Shao, S. Ge, On the Zero-Error Capacity of Semantic Channels with Input and Output Memories, IEEE Wireless Communications Letters, 2025.
+  
 * Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, 2024.
   
 * C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz, Process-and-Forward: deep joint source-channel coding over cooperative relay networks, IEEE Journal on Selected Areas in Communications, 2024.
