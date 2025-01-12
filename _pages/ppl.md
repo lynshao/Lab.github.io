@@ -112,34 +112,18 @@ author_profile: true
     </td>
   </tr>  
 </table>
-
-MSc students
-======
-<table>
-  <!-- Yimeng Li -->
+  <!-- Fan Yang -->
 <tr>
     <td style="padding: 10px;">
-      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yimeng.jpg?raw=true" alt="Profile Picture" width="270" height="280">
+      <img src="../images/fanyang2025.jpg" alt="Profile Picture" width="270" height="280">
     </td>
     <td style="padding: 10px;">
-      <h2>Yimeng Li</h2>
-      <p><strong>MSc in Electrical and Computer Engineering,</strong> University of Macau (Mar. 2024) </p>
-      <p><strong>B.E. in Communication Engineering,</strong> Jilin University (Sep. 2019-  June 2023)</p>
-      <p><strong>Research interests: </strong> signal processing, deep learning. </p>
-      <p><strong>Email:</strong>17843321776@163.com </p>
-    </td>
-  </tr> 
-  <!-- Houjun Lu-->
- <tr>
-    <td style="padding: 10px;">
-      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/houjun.jpg?raw=true" alt="Profile Picture" width="270" height="280">
-    </td>
-    <td style="padding: 10px;">
-      <h2>Houjun Lu</h2>
-      <p><strong>MSc in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2023) </p>
-      <p><strong>B.E. in Communication Engineering,</strong> Tianjin University of Science and Technology (Sep. 2018- June 2022)</p>
-      <p><strong>Research interests: </strong> wireless communication, machine learning. </p>
-      <p><strong>Email:</strong>mc35263@um.edu.mo  </p>
+      <h2>Fan Yang</h2>
+      <p><strong>Ph.D. in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2025) </p>
+      <p><strong>MSc in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2022 - Jun. 2025) </p>
+      <p><strong>B.E in Electronic Information Science and Technology,</strong> Nankai University (Aug. 2016 - Jun. 2020)</p>
+      <p><strong>Research interests: </strong>  Information Theory, Artificial Intelligence. </p>
+      <p><strong>Email:</strong>mc25013@um.edu.mo</p>
     </td>
   </tr>  
 </table>
