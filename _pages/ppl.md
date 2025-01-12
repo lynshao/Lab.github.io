@@ -111,7 +111,6 @@ author_profile: true
       <p><strong>Email:</strong>674438546@qq.com</p>
     </td>
   </tr>  
-</table>
   <!-- Fan Yang -->
 <tr>
     <td style="padding: 10px;">
