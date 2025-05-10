@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-The Intelligent Communication Lab, housed within the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC) at the University of Macau, is dedicated to pushing the frontiers of research and innovation in wireless communications and networking. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods such as data science, pioneering cutting-edge technologies that enhance the reliability and efficiency of various wireless communication systems.
+The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications and networking. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods such as data science, pioneering cutting-edge technologies that enhance the reliability and efficiency of various wireless communication systems.
 
 About the Supervisor
 ======
 
-I am an Assistant Professor at the State Key Laboratory of Internet of Things for Smart City ([SKL-IOTSC](https://skliotsc.um.edu.mo/)), University of Macau, and a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
+I will join the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), University of Hong Kong as an Assistant Professor in August 2025. I am a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
 Please contact me by:
 
-> University of Macau: ylshao@um.edu.mo
+> University of Hong Kong: ylshao@hku.hk
 
 > Imperial College London: y.shao@imperial.ac.uk
+
+> University of Macau: ylshao@um.edu.mo
 
 
 I am a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications", an Editor of IEEE Transactions on Communications ([TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)) in the area of Machine Learning and Communications, and an Editor of IEEE Communications Letters ([ComLett](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)) in the area of Machine Learning for Communications.
