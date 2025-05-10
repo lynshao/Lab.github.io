@@ -28,7 +28,7 @@ I am a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc
 
 Please contact me by:
 
-> IEEE ComMag/TCOM/ComLett:  ylshao@ieee.org
+> IEEE:  ylshao@ieee.org
 
 Education
 ------
