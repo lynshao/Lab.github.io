@@ -37,16 +37,16 @@ Education
 
 Work experience
 ------
-* University of Exeter, Nov. 2022 -- Aug. 2023
+* University of Exeter
   * Lecturer (AP) in Information Processing, Department of Engineering
 
-* Imperial College London, Jan. 2021 -- Nov. 2022
+* Imperial College London
   * Research Associate, Department of Electrical and Electronic Engineering
   
-* Massachusetts Institute of Technology, Sept. 2018 --  Mar. 2019
+* Massachusetts Institute of Technology
   * Visiting Scholar, Claude E. Shannon Communication and Network Group
   
-* Institute of Network Coding, Mar. 2015 -- July 2016
+* Institute of Network Coding
   * Research Assistant
  
   
