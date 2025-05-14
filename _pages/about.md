@@ -13,7 +13,7 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
-I will join the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), University of Hong Kong as an Assistant Professor in August 2025. I am a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
+I will join the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), University of Hong Kong as an Assistant Professor in August 2025. I am an Assistant Professor at the University of Macau and a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
 Please contact me by:
 
