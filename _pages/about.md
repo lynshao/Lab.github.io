@@ -13,15 +13,13 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
-I will join the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), University of Hong Kong as an Assistant Professor in August 2025. I am an Assistant Professor at the University of Macau and a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
+I am an Assistant Professor at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong. I am also a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
 Please contact me by:
 
 > University of Hong Kong: ylshao@hku.hk
 
 > Imperial College London: y.shao@imperial.ac.uk
-
-> University of Macau: ylshao@um.edu.mo
 
 
 I am a Series Editor of IEEE Communication Magazine ([ComMag](https://www.comsoc.org/publications/magazines/ieee-communications-magazine/editorial-board)) for the track "Artificial Intelligence and Data Science for Communications", an Editor of IEEE Transactions on Communications ([TCOM](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=26)) in the area of Machine Learning and Communications, and an Editor of IEEE Communications Letters ([ComLett](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)) in the area of Machine Learning for Communications.
@@ -37,6 +35,9 @@ Education
 
 Work experience
 ------
+* University of Macau
+  * Assistant Professor, IOTSC State key Lab
+    
 * University of Exeter
   * Lecturer (AP) in Information Processing, Department of Engineering
 
