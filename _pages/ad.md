@@ -7,7 +7,9 @@ author_profile: true
 # 🎓 Fully-funded PhD
 
 **Program:** PhD in HKU EEE
+
 **Entry Time:** Fall 2026 Intake  
+
 **Stipend:** HKD19,135 - HKD19,655 / Month
 
 ## 🔍 Research Directions
