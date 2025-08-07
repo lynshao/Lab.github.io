@@ -2,9 +2,8 @@
 layout: archive
 permalink: /ad/
 author_profile: true
+title: "🎓 Fully-funded PhD"
 ---
-
-# 🎓 Fully-funded PhD
 
 **Program:** PhD in HKU EEE
 
