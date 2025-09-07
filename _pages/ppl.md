@@ -21,7 +21,7 @@ author_profile: true
 
   .team-member img {
     width: 180px; /* 调整图片的宽度 */
-    height: 180px; /* 调整图片的高度 */
+    height: 240px; /* 调整图片的高度 */
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-bottom: 10px; /* 调整图片与文字的间距 */
