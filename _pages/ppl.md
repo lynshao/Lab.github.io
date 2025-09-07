@@ -148,7 +148,7 @@ author_profile: true
 
   <!-- Tianji He -->
   <div class="team-member">
-    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/tianji.jpg?raw=true" alt="Tianji He">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/tianji.png?raw=true" alt="Tianji He">
     <h2>Tianji He</h2>
     <p>B.E@Huazhong University of Science and Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, Artificial Intelligence. </p>
@@ -192,7 +192,7 @@ author_profile: true
 
   <!-- Chenghong Bian@Hong Kong University of Science and Technology -->
   <div class="team-member">
-    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.jpg?raw=true" alt="Chenghong Bian">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.png?raw=true" alt="Chenghong Bian">
     <h2>Chenghong Bian</h2>
     <p>Ph.D.@Imperial College London</p>
     <p>MSc@University of Michigan</p>
@@ -211,7 +211,7 @@ author_profile: true
 
   <!-- Pengfei Shen@航天九院704所 -->
   <div class="team-member">
-    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Pengfei Shen">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.png?raw=true" alt="Pengfei Shen">
     <h2>Pengfei Shen</h2>
     <p>Ph.D.@University of Chinese Academy of Sciences</p>
     <p>B.E@Xi'an Jiaotong University</p>
