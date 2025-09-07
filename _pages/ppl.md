@@ -82,6 +82,7 @@ author_profile: true
     <p><strong>Ph.D.@Imperial College London</p>
     <p><strong>MSc@The University of Western Australia</p>
     <p><strong>B.E.@Southwest University</p>
+    <p><strong>Signal processing. </p>
   </div>
 </div>
 
