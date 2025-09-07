@@ -5,22 +5,25 @@ title: PostDoc Researcher
 author_profile: true
 ---
 <table>
-<!-- Zijian Yang -->
+<!-- Nuofan Mao -->
   <tr>
     <td style="padding: 10px;">
-      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Profile Picture" width="270" height="280">
+      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Profile Picture" width="270" height="280">
     </td>
     <td style="padding: 10px;">
-      <h2>Zijian Yang</h2>
-      <p><strong>B.E. in Communication Engineering, </strong> Jilin University (Aug. 2019 - June 2023)</p>
+      <h2>Nuofan Mao</h2>
+      <p><strong>Ph.D. in Electrical and Electronic Engineering, </strong> Imperial College London (Sept. 2020 - Aug. 2025)</p>
+      <p><strong>Msc in Electrical and Electronic Engineering, </strong> The University of Western Australia (July 2018 - Aug. 2020)</p>
+      <p><strong>B.E. in Automation, </strong> Southwest University (Sept 2015 - June 2019)</p>
       <p><strong>Research interests: </strong> Wireless communication, optimization </p>
-      <p><strong>Email:</strong> 1154572836@qq.com</p>
+      <p><strong>Email:</strong> nuofan1@outlook.com</p>
     </td>
   </tr>
   <table>
 
 PhD students
 ======
+
 <table>
 <!-- Zijian Yang -->
   <tr>
@@ -136,6 +139,7 @@ PhD students
 
 Visiting PhD students
 ======
+
 <table>
   <!-- Menghan Li -->
  <tr>
@@ -154,6 +158,7 @@ Visiting PhD students
 
 Alumni
 ======
+
 <table>
   <!-- Haotian Wu@Imperial College London-->
  <tr>
