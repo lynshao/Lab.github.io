@@ -79,10 +79,10 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Nuofan Mao">
     <h2>Nuofan Mao</h2>
-    <p><strong>Ph.D.@Imperial College London</p>
-    <p><strong>MSc@The University of Western Australia</p>
-    <p><strong>B.E.@Southwest University</p>
-    <p><strong>Signal processing. </p>
+    <p>Ph.D.@Imperial College London</p>
+    <p>MSc@The University of Western Australia</p>
+    <p>B.E.@Southwest University</p>
+    <p>Signal processing. </p>
   </div>
 </div>
 
