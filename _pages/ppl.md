@@ -79,9 +79,9 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Nuofan Mao">
     <h2>Nuofan Mao</h2>
-    <p>Ph.D.@Imperial College London</p>
+    <p>Ph.D@Imperial College London</p>
     <p>MSc@The University of Western Australia</p>
-    <p>B.E.@Southwest University</p>
+    <p>B.E@Southwest University</p>
     <p><strong>Research interests: </strong> Signal processing. </p>
   </div>
 </div>
@@ -93,7 +93,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
     <h2>Zijian Yang</h2>
-    <p><strong>B.E. in Communication Engineering, </strong> Jilin University (Aug. 2019 - June 2023)</p>
+    <p>B.E@Jilin University</p>
     <p><strong>Research interests: </strong> Wireless communication, optimization </p>
   </div>
 
@@ -101,7 +101,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yu.jpg?raw=true" alt="Yu Ding">
     <h2>Yu Ding</h2>
-    <p><strong>B.E. in Data Science and Big Data Technology,</strong> Nankai University (Sept. 2019 - Jun. 2023)</p>
+    <p>B.E@Nankai University</p>
     <p><strong>Research interests: </strong> Data science and machine learning, signal processing, IoT </p>
   </div>
 
@@ -109,7 +109,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yewen.jpg?raw=true" alt="Yewen Cao">
     <h2>Yewen Cao</h2>
-    <p><strong>B.E. in Communication Engineering,</strong> Harbin Institute of Technology (Sep. 2020-June 2024)</p>
+    <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Wireless communications, signal processing, IoT </p>
   </div>
 
@@ -117,7 +117,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg?raw=true" alt="Enhao Chen">
     <h2>Enhao Chen</h2>
-    <p><strong>B.E. in Cyberspace Security,</strong> Harbin Institute of Technology (Sep. 2020-June 2024)</p>
+    <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> IoT, Cyberspace Security, Network topology. </p>
   </div>
 
@@ -125,8 +125,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/hongyu.jpg?raw=true" alt="Hongyu An">
     <h2>Hongyu An</h2>
-    <p><strong>MSc in Electronic Science and Technology,</strong> Southern University of Science and Technology (Aug. 2021-Jul. 2024) </p>
-    <p><strong>B.E in Computer Science and Technology,</strong> Harbin Institute of Technology (Aug. 2016 - Jun. 2020)</p>
+    <p>MSc@Southern University of Science and Technology</p>
+    <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Deep Learning, channel coding. </p>
   </div>
 
@@ -134,7 +134,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/dengke.jpg?raw=true" alt="Dengke Wei">
     <h2>Dengke Wei</h2>
-    <p><strong>B.E in Information Engineering,</strong> South China University of Technology (Sep. 2021 - Jun. 2025)</p>
+    <p>B.E@South China University of Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, optimization. </p>
   </div>
 
@@ -142,7 +142,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/huiji.jpg?raw=true" alt="Huiji Jiao">
     <h2>Huiji Jiao</h2>
-    <p><strong>B.E in Communication Engineering,</strong> Harbin Institute of Technology (Sep. 2021-Jun. 2025)</p>
+    <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, optimization. </p>
   </div>
 
@@ -150,7 +150,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/tianji.jpg?raw=true" alt="Tianji He">
     <h2>Tianji He</h2>
-    <p><strong>B.E in Electronic Information Engineering,</strong> Huazhong University of Science and Technology (Sep. 2021-Jun. 2025)</p>
+    <p>B.E@Huazhong University of Science and Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, Artificial Intelligence. </p>
   </div>
 
@@ -158,8 +158,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/fanyang2025.jpg?raw=true" alt="Fan Yang">
     <h2>Fan Yang</h2>
-    <p><strong>MSc in Electrical and Computer Engineering,</strong> University of Macau (Aug. 2022 - Jun. 2025) </p>
-    <p><strong>B.E in Electronic Information Science and Technology,</strong> Nankai University (Aug. 2016 - Jun. 2020)</p>
+    <p>MSc@University of Macau</p>
+    <p>B.E@Nankai University</p>
     <p><strong>Research interests: </strong> Information Theory, Artificial Intelligence. </p>
   </div>
 </div>
@@ -171,8 +171,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/menghan.jpg?raw=true" alt="Menghan Li">
     <h2>Menghan Li</h2>
-    <p><strong>Ph.D. in Computer Application Technology,</strong> University of Chinese Academy of Sciences (Sep. 2021) </p>
-    <p><strong>B.E. in Electronic Information Engineering,</strong> Wuhan University  (Sept. 2017 - Jun. 2021)</p>
+    <p>Ph.D.@University of Chinese Academy of Sciences</p>
+    <p>B.E@Wuhan University</p>
     <p><strong>Research interests: </strong> Optical wireless communications, signal processing. </p>
   </div>
 </div>
@@ -184,9 +184,9 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpg?raw=true" alt="Haotian Wu">
     <h2>Haotian Wu</h2>
-    <p><strong>Ph.D. in Information Processing,</strong> Imperial College London (Sep. 2021 - Jan. 2025) </p>
-    <p><strong>M.Sc in EEE,</strong> Imperial College London (Sept. 2017 - Jun. 2020) </p>
-    <p><strong>B.E. in Automation,</strong> Zhejiang University (Sept. 2013 - Jun. 2017)</p>
+    <p>Ph.D.@Imperial College London</p>
+    <p>MSc@Imperial College London</p>
+    <p>B.E@Zhejiang University</p>
     <p><strong>Research interests: </strong> Computer vision, communication, reinforcement learning, control theory. </p>
   </div>
 
@@ -194,9 +194,9 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.jpg?raw=true" alt="Chenghong Bian">
     <h2>Chenghong Bian</h2>
-    <p><strong>Ph.D. in Information Processing,</strong> Imperial College London (Sep. 2022 - Nov. 2025) </p>
-    <p><strong>M.Sc in EECS,</strong> University of Michigan (Sept. 2020 - Jun. 2022) </p>
-    <p><strong>B.E. in Mathematics and Physics,</strong> Tsinghua University (Sept. 2016 - Jun. 2020)</p>
+    <p>Ph.D.@Imperial College London</p>
+    <p>MSc@University of Michigan</p>
+    <p>B.E@Tsinghua University</p>
     <p><strong>Research interests: </strong> Information theory, signal processing, semantic communications. </p>
   </div>
 
@@ -204,8 +204,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/runxin.jpg?raw=true" alt="Runxin Zhang">
     <h2>Runxin Zhang</h2>
-    <p><strong>Ph.D. in Computer Application Technology,</strong> University of Chinese Academy of Sciences (Sep. 2020 - June 2025) </p>
-    <p><strong>B.E. in Automation (honr.),</strong> Nanjing University of Aeronautics and Astronautics (Sept. 2016 - Jun. 2020)</p>
+    <p>Ph.D.@University of Chinese Academy of Sciences</p>
+    <p>B.E@Nanjing University of Aeronautics and Astronautics</p>
     <p><strong>Research interests: </strong> Optical communications, signal processing. </p>
   </div>
 
@@ -213,8 +213,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Pengfei Shen">
     <h2>Pengfei Shen</h2>
-    <p><strong>Ph.D. in Computer Application Technology,</strong> University of Chinese Academy of Sciences (Sep. 2019 - Sep. 2023) </p>
-    <p><strong>B.E. in Electrical Engineering and Automation,</strong> Xi'an Jiaotong University (Sept. 2015 - Jun. 2019)</p>
+    <p>Ph.D.@University of Chinese Academy of Sciences</p>
+    <p>B.E@Xi'an Jiaotong University</p>
     <p><strong>Research interests: </strong> Markov decision process, optical wireless communications, reconfigurable intelligent surface. </p>
   </div>
 </div>
