@@ -221,6 +221,16 @@ author_profile: true
     <p><strong>Next Destination: </strong> Tsinghua University</p>
   </div>
 
+  <!-- Haoyang Di -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haoyang_di.jpg?raw=true" alt="Haoyang Di">
+    <h2>Haoyang Di</h2>
+    <p>MSc@University of Electronic Science and Technology of China</p>
+    <p>B.E@Zhengzhou University</p>
+    <p><strong>Research interests: </strong> Optimization. </p>
+    <p><strong>Next Destination: University of Bologna </strong> </p>
+  </div>
+
   <!-- Pengfei Shen@航天九院704所 -->
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.png?raw=true" alt="Pengfei Shen">
@@ -229,5 +239,15 @@ author_profile: true
     <p>B.E@Xi'an Jiaotong University</p>
     <p><strong>Research interests: </strong> Markov decision process, optical wireless communications, reconfigurable intelligent surface. </p>
     <p><strong>Next Destination: </strong> 航天九院704所</p>
+  </div>
+
+  <!-- Chao Ji -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chao_ji.jpg?raw=true" alt="Chao Ji">
+    <h2>Chao Ji</h2>
+    <p>Ph.D.@Southeast University</p>
+    <p>B.E@Southeast University</p>
+    <p><strong>Research interests: </strong> Wireless communication, channel coding, MIMO. </p>
+    <p><strong>Next Destination: </strong> The Hong Kong Polytechnic University</p>
   </div>
 </div>
