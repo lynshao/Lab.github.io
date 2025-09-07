@@ -93,7 +93,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
     <h2>Zijian Yang</h2>
-    <p>B.E.@Jilin University</p>
+      <p><strong>B.E. in Communication Engineering, </strong> Jilin University (Aug. 2019 - June 2023)</p>
     <p><strong>Research interests: </strong> Wireless communication, optimization </p>
   </div>
 
