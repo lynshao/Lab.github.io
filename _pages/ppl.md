@@ -223,7 +223,7 @@ author_profile: true
 
   <!-- Haoyang Di -->
   <div class="team-member">
-    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haoyang_di.jpg?raw=true" alt="Haoyang Di">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haoyang_di.png?raw=true" alt="Haoyang Di">
     <h2>Haoyang Di</h2>
     <p>MSc@University of Electronic Science and Technology of China</p>
     <p>B.E@Zhengzhou University</p>
@@ -243,7 +243,7 @@ author_profile: true
 
   <!-- Chao Ji -->
   <div class="team-member">
-    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chao_ji.jpg?raw=true" alt="Chao Ji">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chao_ji.png?raw=true" alt="Chao Ji">
     <h2>Chao Ji</h2>
     <p>Ph.D.@Southeast University</p>
     <p>B.E@Southeast University</p>
