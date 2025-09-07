@@ -15,7 +15,7 @@ author_profile: true
       <p><strong>Ph.D. in Electrical and Electronic Engineering, </strong> Imperial College London (Sept. 2020 - Aug. 2025)</p>
       <p><strong>Msc in Electrical and Electronic Engineering, </strong> The University of Western Australia (July 2018 - Aug. 2020)</p>
       <p><strong>B.E. in Automation, </strong> Southwest University (Sept 2015 - June 2019)</p>
-      <p><strong>Research interests: </strong> Wireless communication, optimization </p>
+      <p><strong>Research interests: </strong> Signal processing, optimization </p>
       <p><strong>Email:</strong> nuofan1@outlook.com</p>
     </td>
   </tr>
