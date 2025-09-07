@@ -93,6 +93,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
     <h2>Zijian Yang</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Jilin University</p>
     <p><strong>Research interests: </strong> Wireless communication, optimization </p>
   </div>
@@ -101,6 +102,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yu.jpg?raw=true" alt="Yu Ding">
     <h2>Yu Ding</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Nankai University</p>
     <p><strong>Research interests: </strong> Data science and machine learning, signal processing, IoT </p>
   </div>
@@ -109,6 +111,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yewen.jpg?raw=true" alt="Yewen Cao">
     <h2>Yewen Cao</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Wireless communications, signal processing, IoT </p>
   </div>
@@ -117,6 +120,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg?raw=true" alt="Enhao Chen">
     <h2>Enhao Chen</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> IoT, Cyberspace Security, Network topology. </p>
   </div>
@@ -125,6 +129,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/hongyu.jpg?raw=true" alt="Hongyu An">
     <h2>Hongyu An</h2>
+    <p>Ph.D@University of Macau</p>
     <p>MSc@Southern University of Science and Technology</p>
     <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Deep Learning, channel coding. </p>
@@ -134,6 +139,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/dengke.jpg?raw=true" alt="Dengke Wei">
     <h2>Dengke Wei</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@South China University of Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, optimization. </p>
   </div>
@@ -142,6 +148,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/huiji.jpg?raw=true" alt="Huiji Jiao">
     <h2>Huiji Jiao</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Harbin Institute of Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, optimization. </p>
   </div>
@@ -150,6 +157,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/tianji.png?raw=true" alt="Tianji He">
     <h2>Tianji He</h2>
+    <p>Ph.D@University of Macau</p>
     <p>B.E@Huazhong University of Science and Technology</p>
     <p><strong>Research interests: </strong> Wireless Communications, Artificial Intelligence. </p>
   </div>
@@ -158,6 +166,7 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/fanyang2025.jpg?raw=true" alt="Fan Yang">
     <h2>Fan Yang</h2>
+    <p>Ph.D@University of Macau</p>
     <p>MSc@University of Macau</p>
     <p>B.E@Nankai University</p>
     <p><strong>Research interests: </strong> Information Theory, Artificial Intelligence. </p>
@@ -188,6 +197,7 @@ author_profile: true
     <p>MSc@Imperial College London</p>
     <p>B.E@Zhejiang University</p>
     <p><strong>Research interests: </strong> Computer vision, communication, reinforcement learning, control theory. </p>
+    <p><strong>Next Destination: </strong> Imperial College London</p>
   </div>
 
   <!-- Chenghong Bian@Hong Kong University of Science and Technology -->
@@ -198,6 +208,7 @@ author_profile: true
     <p>MSc@University of Michigan</p>
     <p>B.E@Tsinghua University</p>
     <p><strong>Research interests: </strong> Information theory, signal processing, semantic communications. </p>
+    <p><strong>Next Destination: </strong> Hong Kong University of Science and Technology</p>
   </div>
 
   <!-- Runxin Zhang@Tsinghua University -->
@@ -207,6 +218,7 @@ author_profile: true
     <p>Ph.D.@University of Chinese Academy of Sciences</p>
     <p>B.E@Nanjing University of Aeronautics and Astronautics</p>
     <p><strong>Research interests: </strong> Optical communications, signal processing. </p>
+    <p><strong>Next Destination: </strong> Tsinghua University</p>
   </div>
 
   <!-- Pengfei Shen@航天九院704所 -->
@@ -216,5 +228,6 @@ author_profile: true
     <p>Ph.D.@University of Chinese Academy of Sciences</p>
     <p>B.E@Xi'an Jiaotong University</p>
     <p><strong>Research interests: </strong> Markov decision process, optical wireless communications, reconfigurable intelligent surface. </p>
+    <p><strong>Next Destination: </strong> 航天九院704所</p>
   </div>
 </div>
