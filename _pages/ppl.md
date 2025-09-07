@@ -82,7 +82,7 @@ author_profile: true
     <p>Ph.D.@Imperial College London</p>
     <p>MSc@The University of Western Australia</p>
     <p>B.E.@Southwest University</p>
-    <p>Signal processing. </p>
+    <p><strong>Research interests: </strong> Signal processing. </p>
   </div>
 </div>
 
@@ -93,11 +93,8 @@ author_profile: true
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
     <h2>Zijian Yang</h2>
-    <p><strong>B.E. in Communication Engineering,</strong> Jilin University (Aug. 2019 - June 2023)</p>
+    <p>B.E.@Jilin University</p>
     <p><strong>Research interests: </strong> Wireless communication, optimization </p>
-    <div class="contact">
-      <p><strong>Email:</strong> <a href="mailto:1154572836@qq.com">1154572836@qq.com</a></p>
-    </div>
   </div>
 
   <!-- Yu Ding -->
@@ -106,9 +103,6 @@ author_profile: true
     <h2>Yu Ding</h2>
     <p><strong>B.E. in Data Science and Big Data Technology,</strong> Nankai University (Sept. 2019 - Jun. 2023)</p>
     <p><strong>Research interests: </strong> Data science and machine learning, signal processing, IoT </p>
-    <div class="contact">
-      <p><strong>Email:</strong> <a href="mailto:yuding_um@163.com">yuding_um@163.com</a></p>
-    </div>
   </div>
 
   <!-- Yewen Cao -->
@@ -117,9 +111,6 @@ author_profile: true
     <h2>Yewen Cao</h2>
     <p><strong>B.E. in Communication Engineering,</strong> Harbin Institute of Technology (Sep. 2020-June 2024)</p>
     <p><strong>Research interests: </strong> Wireless communications, signal processing, IoT </p>
-    <div class="contact">
-      <p><strong>Email:</strong> <a href="mailto:2200201101@stu.hit.edu.cn">2200201101@stu.hit.edu.cn</a></p>
-    </div>
   </div>
 
   <!-- Enhao Chen -->
@@ -128,9 +119,6 @@ author_profile: true
     <h2>Enhao Chen</h2>
     <p><strong>B.E. in Cyberspace Security,</strong> Harbin Institute of Technology (Sep. 2020-June 2024)</p>
     <p><strong>Research interests: </strong> IoT, Cyberspace Security, Network topology. </p>
-    <div class="contact">
-      <p><strong>Email:</strong> <a href="mailto:chenenhao741369@163.com">chenenhao741369@163.com</a></p>
-    </div>
   </div>
 </div>
 
