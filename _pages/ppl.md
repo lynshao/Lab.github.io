@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /ppl/
-title: PostDoc Researcher
 author_profile: true
 ---
 
@@ -72,21 +71,17 @@ author_profile: true
 
 <div class="header">
   <h1>Meet Our Team</h1>
-  <h3>Our lab members are working on a variety of cutting-edge research topics in signal processing, communications, and more.</h3>
 </div>
 
 <!-- Team Member Section: PostDoc Researcher -->
+<h2>PostDoc Researcher</h2>
 <div class="team-members">
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Nuofan Mao">
     <h2>Nuofan Mao</h2>
-    <p><strong>Ph.D. in Electrical and Electronic Engineering,</strong> Imperial College London (Sept. 2020 - Aug. 2025)</p>
-    <p><strong>MSc in Electrical and Electronic Engineering,</strong> The University of Western Australia (July 2018 - Aug. 2020)</p>
-    <p><strong>B.E. in Automation,</strong> Southwest University (Sept 2015 - June 2019)</p>
-    <p><strong>Research interests: </strong> Signal processing, optimization </p>
-    <div class="contact">
-      <p><strong>Email:</strong> <a href="mailto:nuofan1@outlook.com">nuofan1@outlook.com</a></p>
-    </div>
+    <p><strong>Ph.D.@Imperial College London</p>
+    <p><strong>MSc@The University of Western Australia</p>
+    <p><strong>B.E.@Southwest University</p>
   </div>
 </div>
 
