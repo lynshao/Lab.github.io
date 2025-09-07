@@ -87,7 +87,7 @@ author_profile: true
 </div>
 
 <!-- PhD Students Section -->
-<h2>PhD Students</h2>
+<h2>✅ PhD Students</h2>
 <div class="team-members">
   <!-- Zijian Yang -->
   <div class="team-member">
@@ -174,7 +174,7 @@ author_profile: true
 </div>
 
 <!-- Visiting PhD Students Section -->
-<h2>Visiting PhD students</h2>
+<h2>✅ Visiting PhD students</h2>
 <div class="team-members">
   <!-- Menghan Li -->
   <div class="team-member">
@@ -187,7 +187,7 @@ author_profile: true
 </div>
 
 <!-- Alumni Section -->
-<h2>Alumni</h2>
+<h2>✅ Alumni</h2>
 <div class="team-members">
   <!-- Haotian Wu@Imperial College London -->
   <div class="team-member">
@@ -228,7 +228,7 @@ author_profile: true
     <p>MSc@University of Electronic Science and Technology of China</p>
     <p>B.E@Zhengzhou University</p>
     <p><strong>Research interests: </strong> Optimization. </p>
-    <p><strong>Next Destination: University of Bologna </strong> </p>
+    <p><strong>Next Destination:</strong> University of Bologna  </p>
   </div>
 
   <!-- Pengfei Shen@航天九院704所 -->
