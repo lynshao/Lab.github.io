@@ -8,7 +8,7 @@ author_profile: true
   .team-members {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin-bottom: 50px;
   }
 
