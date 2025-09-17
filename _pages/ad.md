@@ -2,49 +2,62 @@
 layout: archive
 permalink: /ad/
 author_profile: true
-title: "🎓 Fully-funded PhD"
 ---
 
-**Program:** PhD in HKU EEE
+## 🎓 PhD Recruitment
 
-**Entry Time:** Fall 2026 Intake  
+We are recruiting **PhD students** in:
 
-**Stipend:** HKD19,135 - HKD19,655 / Month
+- **Wireless Communications** (focus on signal processing & communication theory)  
+- **Machine Learning** (focus on optimization theory & learning methods)
 
-## 🔍 Research Directions
+**Applicant background:**  
+Strong foundation in one or more of the following fields is required:  
+- Electrical & Electronic Engineering  
+- Communications  
+- Computer Science  
+- Mathematics  
+- Related disciplines  
 
-- **Wireless Communications**  
-  Focus on signal processing and communication theory
+### Fully Funded Options
+1. **HKU EEE PhD Program**  
+   📌 Stipend: **HKD 19,135 – 19,655 / month**  
 
-- **Machine Learning**  
-  Focus on optimization theory and learning for communication systems
+2. **HKU Presidential PhD Scholarship (HKU-PS)**  
+   📌 ~ **HKD 439,500 / year**  
 
-## ✅ Eligibility
+3. **Hong Kong PhD Fellowship Scheme (HKPFS)**  
+   📌 ~ **HKD 439,500 / year**  
 
-Applicants should have a strong background in one or more of the following fields: Electronic Engineering, Computer Science, Mathematics, or related disciplines
+> ✅ Category (1) is awarded directly by our lab  
+> ✅ Categories (2) & (3) are highly competitive (based on national awards, publications, etc.)  
+> ✅ If you receive a **full funding offer from our lab**, you will be fully supported **even if** not selected for HKU-PS/HKPFS  
 
-## 📬 How to Apply
+⚠️ **Self-funded applicants** must meet the [HKU Faculty of Engineering admission requirements](https://engg.hku.hk/).  
 
-Please send your CV and transcripts to: **ylshao@hku.hk**
+**👉 To apply:** Send your **CV** and **transcripts** to: [ylshao@hku.hk](mailto:ylshao@hku.hk)
 
-**Application Duration:**  
-📅 August 15, 2025 → September 15, 2025
+---
 
-**Application Procedure:**
-1. CV collection period: August 15 – September 15, 2025  
-2. First-round screening of applications  
-3. Interview invitations will be sent to shortlisted candidates  
-4. Final decision will be announced within 1 week after the interview
+## 🧑‍🔬 Postdoctoral Recruitment
 
+We welcome applications for **Postdoctoral Researchers** in **wireless communications** and **machine learning**.  
 
-## ⭐ Remark
+- Salary: **HKD 30,000 / month**  
+- Current opening: **HKU 50th Round Postdoctoral / Research Assistant Professor (RAP) Scheme**  
 
-If selected by our lab, you are strongly encouraged to compete for the following prestigious schemes:
-- **HKU Presidential PhD Scholar Programme (HKU-PS)**  
-- **Hong Kong PhD Fellowship Scheme (HKPFS)**  
+📩 Please contact us directly via email.
 
-These programs offer higher stipends and academic distinctions. Yet, you will be guaranteed a fully funded PhD position regardless of the result.
+---
 
+## 🛠️ Research Assistant (RA) Recruitment
 
+RA positions are available in two tracks:
+
+- **Engineering / Development Projects**  
+- **Academic / Research Projects**  
+
+📌 Specific roles depend on current project needs.  
+📩 Please email us for details.
 
 
