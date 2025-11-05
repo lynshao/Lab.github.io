@@ -110,6 +110,7 @@ author_profile: true
     <p>B.E@Bejing University of Aeronautics and Astronautics</p>
     <p><strong>Research interests: </strong> Integrated Circuit Design, Embodied AI, Wireless Communication </p>
   </div>
+  \\
   
   <!-- Zijian Yang -->
   <div class="team-member">
