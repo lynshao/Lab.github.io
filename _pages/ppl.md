@@ -89,6 +89,28 @@ author_profile: true
 <!-- PhD Students Section -->
 <h2>✅ PhD Students</h2>
 <div class="team-members">
+  
+  <!-- Jingreng Lei -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/jingreng.jpg?raw=true" alt="Jingreng Lei">
+    <h2>Jingreng Lei</h2>
+    <p>Ph.D@The University of Hong Kong</p>
+    <p>M.Phil.@The University of Hong Kong</p>
+    <p>B.E@Sun Yat-sen University</p>
+    <p><strong>Research interests: </strong> Machine Learning, Optimization, Wireless Communication </p>
+  </div>
+
+  
+  <!-- Zhu Qing -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/qingzhu.jpg?raw=true" alt="Zhu Qing">
+    <h2>Zhu Qing</h2>
+    <p>Ph.D@The University of Hong Kong</p>
+    <p>MSc@Nanyang Technological University</p>
+    <p>B.E@Bejing University of Aeronautics and Astronautics</p>
+    <p><strong>Research interests: </strong> Integrated Circuit Design, Embodied AI, Wireless Communication </p>
+  </div>
+  
   <!-- Zijian Yang -->
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
