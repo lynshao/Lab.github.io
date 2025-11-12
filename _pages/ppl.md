@@ -111,6 +111,16 @@ author_profile: true
     <p><strong>Research interests: </strong> Integrated Circuit Design, Embodied AI, Wireless Communication </p>
   </div>
   
+  <!-- Zantian Zhao -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zantian2026.jpg?raw=true" alt="Zantian Zhao">
+    <h2>Zantian Zhao</h2>
+    <p>Ph.D@The University of Hong Kong</p>
+    <p>MSc@University of Michigan</p>
+    <p>B.E@Nanjing University</p>
+    <p><strong>Research interests: </strong> Wireless Communication, Machine Learning, Signal Processing </p>
+  </div>
+  
   
   <!-- Zijian Yang -->
   <div class="team-member">
