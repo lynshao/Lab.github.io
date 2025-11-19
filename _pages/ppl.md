@@ -121,6 +121,15 @@ author_profile: true
     <p><strong>Research interests: </strong> Wireless Communication, Machine Learning, Signal Processing </p>
   </div>
   
+  <!-- Yanzhe Li -->
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yanzhe2026.png?raw=true" alt="Yanzhe Li">
+    <h2>Yanzhe Li</h2>
+    <p>M.Phil@The University of Hong Kong</p>
+    <p>B.E@Nanjing University</p>
+    <p><strong>Research interests: </strong> Machine Learning, Wireless Communication, IoT, Edge Computing </p>
+  </div>
+  
   
   <!-- Zijian Yang -->
   <div class="team-member">
