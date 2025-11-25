@@ -35,6 +35,9 @@ Education
 
 Work experience
 ------
+* Imperial College London
+  * Visiting Researcher, Department of EEE
+    
 * University of Macau
   * Assistant Professor, IOTSC State key Lab
     
