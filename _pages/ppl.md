@@ -76,6 +76,7 @@ author_profile: true
 <!-- Team Member Section: PostDoc Researcher -->
 <h2>✅ PostDoc Researcher</h2>
 <div class="team-members">
+  
   <div class="team-member">
     <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Nuofan Mao">
     <h2>Nuofan Mao</h2>
@@ -83,6 +84,15 @@ author_profile: true
     <p>MSc@The University of Western Australia</p>
     <p>B.E@Southwest University</p>
     <p><strong>Research interests: </strong> Signal processing. </p>
+  </div>
+  
+  <div class="team-member">
+    <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/dongyan2026.jpg?raw=true" alt="Dongyan Sui">
+    <h2>Dongyan Sui</h2>
+    <p>Ph.D@Fudan University</p>
+    <p>MSc@Fudan University</p>
+    <p>B.E@Fudan University</p>
+    <p><strong>Research interests: </strong> Distributed learning, Signal Processing, Network science. </p>
   </div>
 </div>
 
