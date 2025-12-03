@@ -82,7 +82,7 @@ author_profile: true
     <h2>Nuofan Mao</h2>
     <p>Ph.D@Imperial College London</p>
     <p>MSc@The University of Western Australia</p>
-    <p>B.E@Southwest University</p>
+    <p>B.E.@Southwest University</p>
     <p><strong>Research interests: </strong> Signal processing. </p>
   </div>
   
@@ -91,7 +91,7 @@ author_profile: true
     <h2>Dongyan Sui</h2>
     <p>Ph.D@Fudan University</p>
     <p>MSc@Fudan University</p>
-    <p>B.E@Fudan University</p>
+    <p>B.S.@Fudan University</p>
     <p><strong>Research interests: </strong> Distributed learning, Signal Processing, Network science. </p>
   </div>
 </div>
