@@ -328,7 +328,7 @@ redirect_from:
 }
 
 .section-subtitle {
-  color: var(--dark-gray);
+  color: var(--dark-gray);  
   margin: 1.5rem 0 1rem 0;
   font-weight: 500;
   font-size: 1.1rem;
@@ -359,25 +359,6 @@ The **Intelligent Communication Lab** is dedicated to pushing the frontiers of r
 
 ---
 
-<div class="section-title">Academic Positions</div>
-
-### Current Positions
-
-<div class="timeline-item">
-  <div class="timeline-left">
-    <div class="position-org">The University of Hong Kong</div>
-    <div class="position-title">Assistant Professor</div>
-    <div class="position-details">Department of Electrical and Electronic Engineering</div>
-  </div>
-  <div class="timeline-right">
-    <div class="timeline-date">15/08/2025 – Present</div>
-    <div class="timeline-logo">
-      <img src="/images/Enhao.jpg" alt="HKU Logo">
-    </div>
-  </div>
-</div>
-
-The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
 
 About the Supervisor
 ======
