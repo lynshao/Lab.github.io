@@ -8,10 +8,90 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 将这段代码放在你的Markdown文件中即可 -->
+<style>
+.timeline-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.timeline-left {
+  flex: 1;
+  font-weight: 500;
+}
+
+.timeline-right {
+  text-align: right;
+  font-style: italic;
+  color: #666;
+  min-width: 180px;
+  margin-left: 2rem;
+}
+
+.position-title {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.position-org {
+  color: #34495e;
+}
+
+.pub-item {
+  margin-bottom: 0.8rem;
+  padding-left: 1rem;
+  text-indent: -1rem;
+}
+
+.award-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.4rem;
+}
+
+.award-name {
+  flex: 1;
+}
+
+.award-year {
+  color: #7f8c8d;
+  font-style: italic;
+}
+</style>
+
 The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
 
 About the Supervisor
 ======
+
+## Present Academic Position
+
+<div class="timeline-item">
+  <div class="timeline-left">
+    <span class="position-org">The University of Hong Kong</span>, 
+    <span class="position-title">Assistant Professor</span>
+    <br>
+    <small>Department of Electrical and Electronic Engineering</small>
+  </div>
+  <div class="timeline-right">
+    15/08/2025 – present
+  </div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-left">
+    <span class="position-org">Imperial College London</span>, 
+    <span class="position-title">Visiting Researcher</span>
+    <br>
+    <small>Department of Electrical and Electronic Engineering</small>
+  </div>
+  <div class="timeline-right">
+    13/01/2023 – present
+  </div>
+</div>
 
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong. I am also a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
