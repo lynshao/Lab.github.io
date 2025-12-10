@@ -13,46 +13,47 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
 
-<table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-  <tr style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); color: white;">
-    <td colspan="2" style="padding: 24px 20px; text-align: center;">
-      <h1 style="margin: 0; font-size: 24px; font-weight: 600; letter-spacing: 0.5px;">Dr. Yulin Shao</h1>
-      <p style="margin: 8px 0 0; opacity: 0.9; font-size: 16px;">Assistant Professor</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td style="padding: 24px 20px; border-right: 1px solid #eaeaea;">
-      <div style="margin-bottom: 16px;">
-        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Department</p>
-        <p style="margin: 0; font-size: 16px; color: #333;">Department of Electrical and Electronic Engineering</p>
+<table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
+  <tr style="border-bottom: 1px solid #d1d5da;">
+    <td style="padding: 20px; width: 70%;">
+      <h2 style="margin: 0 0 8px 0; color: #24292e; font-size: 22px; font-weight: 600;">Dr. Yulin Shao</h2>
+      <p style="margin: 0 0 16px 0; color: #6a737d; font-size: 16px; font-weight: 500;">Assistant Professor</p>
+      
+      <div style="margin-bottom: 12px;">
+        <p style="margin: 0; font-size: 14px; color: #586069;">Department of Electrical and Electronic Engineering</p>
       </div>
       
       <div style="margin-bottom: 16px;">
-        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Institution</p>
-        <p style="margin: 0; font-size: 16px; color: #333;">The University of Hong Kong</p>
+        <p style="margin: 0; font-size: 14px; color: #586069;">The University of Hong Kong</p>
       </div>
       
-      <div>
-        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Contact</p>
-        <p style="margin: 0; font-size: 16px; color: #1a237e;">
-          <a href="mailto:ylshao@hku.hk" style="color: #1a237e; text-decoration: none; font-weight: 500;">ylshao@hku.hk</a>
-        </p>
+      <div style="display: flex; align-items: center;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px;">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+        <a href="mailto:ylshao@hku.hk" style="color: #0366d6; text-decoration: none; font-size: 14px; font-weight: 500;">ylshao@hku.hk</a>
       </div>
     </td>
     
-    <td style="padding: 24px 20px; text-align: center; vertical-align: middle; background-color: #f8f9fa;">
+    <td style="padding: 20px; text-align: center; background-color: #f6f8fa; border-left: 1px solid #d1d5da;">
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-        <img src="https://www.hku.hk/images/hku_logo_small.png" alt="HKU Logo" style="max-width: 120px; margin-bottom: 12px;">
-        <p style="margin: 0; color: #666; font-size: 14px; font-weight: 500;">The University of Hong Kong</p>
+        <div style="width: 100px; height: 100px; background: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; border: 1px solid #e1e4e8;">
+          <img src="https://www.hku.hk/images/hku_logo_small.png" alt="HKU Logo" style="max-width: 70px;">
+        </div>
+        <span style="font-size: 12px; color: #6a737d; font-weight: 500;">HKU</span>
       </div>
     </td>
   </tr>
 </table>
 
 </div>
+
+
+
+
 
 <div align="center" style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px; max-width: 600px; margin: 0 auto;">
   <table>
