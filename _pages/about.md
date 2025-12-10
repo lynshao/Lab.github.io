@@ -372,8 +372,7 @@ The **Intelligent Communication Lab** is dedicated to pushing the frontiers of r
   <div class="timeline-right">
     <div class="timeline-date">15/08/2025 – Present</div>
     <div class="timeline-logo">
-      <!-- 替换为你的图片路径 -->
-      <img src="/images/hku-logo.png" alt="HKU Logo">
+      <img src="/images/Enhao.jpg" alt="HKU Logo">
     </div>
   </div>
 </div>
@@ -383,31 +382,7 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
-## Present Academic Position
 
-<div class="timeline-item">
-  <div class="timeline-left">
-    <span class="position-org">The University of Hong Kong</span>, 
-    <span class="position-title">Assistant Professor</span>
-    <br>
-    <small>Department of Electrical and Electronic Engineering</small>
-  </div>
-  <div class="timeline-right">
-    15/08/2025 – present
-  </div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-left">
-    <span class="position-org">Imperial College London</span>, 
-    <span class="position-title">Visiting Researcher</span>
-    <br>
-    <small>Department of Electrical and Electronic Engineering</small>
-  </div>
-  <div class="timeline-right">
-    13/01/2023 – present
-  </div>
-</div>
 
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong. I am also a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
