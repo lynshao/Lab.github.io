@@ -8,10 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science
+The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
 
 About the Supervisor
 ======
+
+<div style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; max-width: 500px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div>
+      <h3 style="margin-top: 0;">Dr. Yulin Shao</h3>
+      <p><strong>Assistant Professor</strong></p>
+      <p>Department of Electrical and Electronic Engineering</p>
+      <p>The University of Hong Kong</p>
+      <p>📧 ylshao@hku.hk</p>
+    </div>
+    <div>
+      <img src="./images/Enhao.jpg" alt="HKU Logo" width="100">
+    </div>
+  </div>
+</div>
 
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong. I am also a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
