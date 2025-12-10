@@ -111,7 +111,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
         <div style="display: flex; align-items: center;">
           <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Lecturer (Assistant Professor) in Information Processing</h3>
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Lecturer (AP) in Information Processing</h3>
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">University of Exeter</p>
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
           </div>
@@ -179,26 +179,143 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
 </div>
 
 
-Work experience
-------
-* Imperial College London
-  * Visiting Researcher, Department of EEE
-    
-* University of Macau
-  * Assistant Professor, IOTSC State key Lab
-    
-* University of Exeter
-  * Lecturer (AP) in Information Processing, Department of Engineering
-
-* Imperial College London
-  * Research Associate, Department of Electrical and Electronic Engineering
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
-* Massachusetts Institute of Technology
-  * Visiting Scholar, Claude E. Shannon Communication and Network Group
+  <!-- 服务部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 30px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+      <circle cx="12" cy="7" r="4"></circle>
+    </svg>
+    Professional Services
+  </h2>
   
-* Institute of Network Coding
-  * Research Assistant
- 
+  <!-- 服务时间线 -->
+  <div style="position: relative; margin-left: 20px;">
+    <!-- 时间线竖线 -->
+    <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
+    
+    <!-- 服务 1 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Editor</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Communications Magazine</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 2 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Editor</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Transactions on Wireless Communications</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/UMlogo.png" alt="University of Macau Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 3 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Editor</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Transactions on Communications</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 4 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Editor</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Communications Letters</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 5 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Session chair and TPC member</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Communication Society flagship conferences</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="MIT Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 6 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Guest Lecturer</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">5G Academy Italy</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 服务 7 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Invited Speaker</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Information Theory Society Bangalore Chapter</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
   
 Research Interests
 ------
