@@ -51,9 +51,60 @@ About the Supervisor
 
 </div>
 
+---
 
+<div style="font-family: 'Georgia', 'Times New Roman', serif; max-width: 650px; margin: 0 auto;">
 
+<table style="width: 100%; border-collapse: collapse; background: linear-gradient(to right, white 70%, #f5f7fa 30%); border: 1px solid #d0d7de; border-radius: 4px;">
+  <tr>
+    <td style="padding: 30px 25px; width: 70%;">
+      <div style="border-left: 4px solid #1a237e; padding-left: 16px;">
+        <h1 style="margin: 0 0 8px 0; font-size: 28px; font-weight: 600; color: #1a237e; letter-spacing: -0.5px;">Dr. Yulin Shao</h1>
+        <p style="margin: 0 0 20px 0; font-size: 18px; color: #37474f; font-style: italic;">Assistant Professor</p>
+      </div>
+      
+      <table style="width: 100%; border-collapse: collapse;">
+        <tr>
+          <td style="padding: 4px 0; vertical-align: top; width: 90px;">
+            <span style="font-size: 13px; color: #546e7a; font-weight: 500;">DEPARTMENT</span>
+          </td>
+          <td style="padding: 4px 0;">
+            <span style="font-size: 15px; color: #263238;">Department of Electrical and Electronic Engineering</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 4px 0; vertical-align: top;">
+            <span style="font-size: 13px; color: #546e7a; font-weight: 500;">INSTITUTION</span>
+          </td>
+          <td style="padding: 4px 0;">
+            <span style="font-size: 15px; color: #263238;">The University of Hong Kong</span>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 4px 0; vertical-align: top;">
+            <span style="font-size: 13px; color: #546e7a; font-weight: 500;">EMAIL</span>
+          </td>
+          <td style="padding: 4px 0;">
+            <a href="mailto:ylshao@hku.hk" style="font-size: 15px; color: #0d47a1; text-decoration: none; border-bottom: 1px dotted #0d47a1;">ylshao@hku.hk</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    
+    <td style="padding: 30px 25px; text-align: center; vertical-align: middle;">
+      <div style="background: white; padding: 20px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+        <img src="https://www.hku.hk/images/hku_logo_small.png" alt="HKU Logo" style="max-width: 120px; margin-bottom: 12px;">
+        <div style="height: 1px; background: linear-gradient(90deg, transparent, #b0bec5, transparent); margin: 12px 0;"></div>
+        <p style="margin: 0; font-size: 14px; color: #546e7a; font-weight: 500;">The University of Hong Kong</p>
+        <p style="margin: 4px 0 0; font-size: 12px; color: #78909c;">香港大学</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
+</div>
+
+---
 
 <div align="center" style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px; max-width: 600px; margin: 0 auto;">
   <table>
