@@ -8,22 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Principal Investigator
-
-<div class="professional-item">
-  <div class="item-content">
-    <h3>Dr. [Your Name]</h3>
-    <p><strong>Assistant Professor</strong><br>
-    Department of Electrical and Electronic Engineering<br>
-    The University of Hong Kong</p>
-  </div>
-  <div class="item-meta">
-    <img src="/images/Enhao.jpg" alt="HKU Logo" class="institution-logo">
-    <div class="date-range">2023-Present</div>
-  </div>
-</div>
-
-The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science 1.
+The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
 
 About the Supervisor
 ======
