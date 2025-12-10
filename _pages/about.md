@@ -8,59 +8,375 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 将这段代码放在你的Markdown文件中即可 -->
 <style>
+/* ===== 全局样式 ===== */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #e74c3c;
+  --light-gray: #f8f9fa;
+  --medium-gray: #95a5a6;
+  --dark-gray: #34495e;
+}
+
+/* ===== 时间线项目布局 ===== */
 .timeline-item {
   display: flex;
   justify-content: space-between;
-  align-items: baseline;
-  margin-bottom: 0.5rem;
-  line-height: 1.4;
+  align-items: flex-start;
+  margin-bottom: 1.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+  position: relative;
 }
 
 .timeline-left {
   flex: 1;
-  font-weight: 500;
+  padding-right: 20px;
 }
 
 .timeline-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  min-width: 220px;
   text-align: right;
+}
+
+.timeline-date {
   font-style: italic;
-  color: #666;
-  min-width: 180px;
-  margin-left: 2rem;
+  color: #7f8c8d;
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+.timeline-logo {
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 5px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.timeline-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* ===== 职位样式 ===== */
+.position-org {
+  font-weight: 600;
+  color: var(--primary-color);
+  font-size: 1.1rem;
 }
 
 .position-title {
+  color: var(--dark-gray);
+  font-weight: 500;
+  margin: 0.3rem 0;
+}
+
+.position-details {
+  color: var(--medium-gray);
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+}
+
+/* ===== 教育背景样式 ===== */
+.education-degree {
   font-weight: 600;
-  color: #2c3e50;
+  color: var(--primary-color);
+  font-size: 1rem;
 }
 
-.position-org {
-  color: #34495e;
+.education-school {
+  color: var(--dark-gray);
+  font-weight: 500;
+  margin-top: 0.2rem;
 }
 
-.pub-item {
-  margin-bottom: 0.8rem;
-  padding-left: 1rem;
-  text-indent: -1rem;
+.education-details {
+  color: var(--medium-gray);
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
 }
 
+/* ===== 奖项样式 ===== */
 .award-item {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 0.4rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px dashed #eee;
 }
 
-.award-name {
+.award-left {
   flex: 1;
+  padding-right: 20px;
+}
+
+.award-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  min-width: 220px;
 }
 
 .award-year {
-  color: #7f8c8d;
+  color: var(--medium-gray);
   font-style: italic;
+  margin-bottom: 8px;
+}
+
+.award-logo {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 5px;
+  background: white;
+}
+
+.award-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* ===== 出版物样式 ===== */
+.pub-container {
+  counter-reset: pub-counter;
+}
+
+.pub-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-left {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.pub-number {
+  font-weight: bold;
+  color: var(--secondary-color);
+  min-width: 30px;
+}
+
+.pub-content {
+  flex: 1;
+}
+
+.pub-authors {
+  font-weight: 500;
+  color: var(--primary-color);
+}
+
+.pub-title {
+  font-weight: 600;
+  color: var(--dark-gray);
+  margin: 0.3rem 0;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: var(--medium-gray);
+}
+
+.pub-year {
+  font-weight: bold;
+  color: var(--secondary-color);
+}
+
+.pub-right {
+  min-width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.journal-logo {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.5rem;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 3px;
+  background: white;
+}
+
+.journal-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* ===== 专业服务样式 ===== */
+.service-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.service-left {
+  flex: 1;
+  padding-right: 20px;
+}
+
+.service-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  min-width: 220px;
+}
+
+.service-role {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.service-org {
+  color: var(--dark-gray);
+  margin: 0.2rem 0;
+}
+
+.service-period {
+  color: var(--medium-gray);
+  font-style: italic;
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+.service-logo {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 5px;
+  background: white;
+}
+
+.service-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* ===== 研究兴趣样式 ===== */
+.research-category {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--light-gray);
+  border-radius: 8px;
+  border-left: 4px solid var(--secondary-color);
+}
+
+.research-title {
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.research-tools {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tool-tag {
+  background: #e3f2fd;
+  padding: 0.3rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.85rem;
+  color: #1565c0;
+  border: 1px solid #bbdefb;
+}
+
+/* ===== 章节标题样式 ===== */
+.section-title {
+  border-bottom: 2px solid var(--primary-color);
+  padding-bottom: 0.5rem;
+  margin: 2.5rem 0 1.5rem 0;
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.section-subtitle {
+  color: var(--dark-gray);
+  margin: 1.5rem 0 1rem 0;
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+/* ===== 响应式设计 ===== */
+@media (max-width: 768px) {
+  .timeline-item, .award-item, .pub-item, .service-item {
+    flex-direction: column;
+  }
+  
+  .timeline-right, .award-right, .pub-right, .service-right {
+    align-items: flex-start;
+    text-align: left;
+    margin-top: 1rem;
+    min-width: auto;
+  }
+  
+  .timeline-logo, .award-logo, .journal-logo, .service-logo {
+    margin-top: 0.5rem;
+  }
 }
 </style>
+
+## About Me
+
+The **Intelligent Communication Lab** is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus: one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
+
+---
+
+<div class="section-title">Academic Positions</div>
+
+### Current Positions
+
+<div class="timeline-item">
+  <div class="timeline-left">
+    <div class="position-org">The University of Hong Kong</div>
+    <div class="position-title">Assistant Professor</div>
+    <div class="position-details">Department of Electrical and Electronic Engineering</div>
+  </div>
+  <div class="timeline-right">
+    <div class="timeline-date">15/08/2025 – Present</div>
+    <div class="timeline-logo">
+      <!-- 替换为你的图片路径 -->
+      <img src="/images/hku-logo.png" alt="HKU Logo">
+    </div>
+  </div>
+</div>
 
 The Intelligent Communication Lab is dedicated to pushing the frontiers of research and innovation in wireless communications, networking, and machine learning. We have a dual research focus:  one dedicated to uncovering fundamental insights, and the other focused on crafting practical solutions with real-world impact. To achieve these goals, we employ a blend of traditional techniques like signal processing and interdisciplinary methods like data science.
 
