@@ -68,50 +68,113 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     <!-- 时间线竖线 -->
     <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
     
-    <!-- 经历项模板 -->
-    <div style="position: relative; margin-bottom: 32px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 6px; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+    <!-- 经历项 1 -->
+    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="flex-shrink: 0; margin-right: 20px;">
-            <img src="[LOGO_URL]" alt="Institution Logo" style="width: 50px; height: 50px; border-radius: 8px; object-fit: contain; background: white; padding: 5px; border: 1px solid #eaecef;">
-          </div>
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
           <div style="flex-grow: 1;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">[Position Title]</h3>
-              <span style="color: #6a737d; font-size: 13px; background: #f6f8fa; padding: 4px 10px; border-radius: 12px; font-weight: 500;">[Year]</span>
-            </div>
-            <p style="margin: 0 0 8px 0; color: #0366d6; font-size: 15px; font-weight: 500;">[Institution Name]</p>
-            <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">[Department/Lab]</p>
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Researcher</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperial_logo.png" alt="Imperial College Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
     </div>
     
-    
-    <!-- 经历项模板 -->
-    <div style="position: relative; margin-bottom: 32px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 6px; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+    <!-- 经历项 2 -->
+    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="flex-shrink: 0; margin-right: 20px;">
-            <img src="[LOGO_URL]" alt="Institution Logo" style="width: 50px; height: 50px; border-radius: 8px; object-fit: contain; background: white; padding: 5px; border: 1px solid #eaecef;">
-          </div>
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
           <div style="flex-grow: 1;">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-              <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">[Position Title]</h3>
-              <span style="color: #6a737d; font-size: 13px; background: #f6f8fa; padding: 4px 10px; border-radius: 12px; font-weight: 500;">[Year]</span>
-            </div>
-            <p style="margin: 0 0 8px 0; color: #0366d6; font-size: 15px; font-weight: 500;">[Institution Name]</p>
-            <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">[Department/Lab]</p>
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Assistant Professor</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">University of Macau</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">IOTSC State Key Laboratory</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/UM_logo.png" alt="University of Macau Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
     </div>
     
-    <!-- 复制并修改上述div来添加所有经历 -->
+    <!-- 经历项 3 -->
+    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Lecturer (Assistant Professor) in Information Processing</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">University of Exeter</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Exeter_logo.png" alt="Exeter University Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 经历项 4 -->
+    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Associate</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperial_logo.png" alt="Imperial College Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 经历项 5 -->
+    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Scholar</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Massachusetts Institute of Technology</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MIT_logo.png" alt="MIT Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 经历项 6 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Assistant</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Institute of Network Coding</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">The Chinese University of Hong Kong</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INC_logo.png" alt="Institute of Network Coding Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
     
   </div>
 </div>
