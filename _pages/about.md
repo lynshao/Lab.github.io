@@ -13,19 +13,45 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
-<div style="border: 1px solid #ddd; padding: 15px; border-radius: 5px; max-width: 500px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div>
-      <h3 style="margin-top: 0;">Dr. Yulin Shao</h3>
-      <p><strong>Assistant Professor</strong></p>
-      <p>Department of Electrical and Electronic Engineering</p>
-      <p>The University of Hong Kong</p>
-      <p>📧 ylshao@hku.hk</p>
-    </div>
-    <div>
-      <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg" alt="HKU Logo" width="100">
-    </div>
-  </div>
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+
+<table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
+  <tr style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%); color: white;">
+    <td colspan="2" style="padding: 24px 20px; text-align: center;">
+      <h1 style="margin: 0; font-size: 24px; font-weight: 600; letter-spacing: 0.5px;">Dr. Yulin Shao</h1>
+      <p style="margin: 8px 0 0; opacity: 0.9; font-size: 16px;">Assistant Professor</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td style="padding: 24px 20px; border-right: 1px solid #eaeaea;">
+      <div style="margin-bottom: 16px;">
+        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Department</p>
+        <p style="margin: 0; font-size: 16px; color: #333;">Department of Electrical and Electronic Engineering</p>
+      </div>
+      
+      <div style="margin-bottom: 16px;">
+        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Institution</p>
+        <p style="margin: 0; font-size: 16px; color: #333;">The University of Hong Kong</p>
+      </div>
+      
+      <div>
+        <p style="margin: 0 0 8px; color: #555; font-size: 14px; font-weight: 500;">Contact</p>
+        <p style="margin: 0; font-size: 16px; color: #1a237e;">
+          <a href="mailto:ylshao@hku.hk" style="color: #1a237e; text-decoration: none; font-weight: 500;">ylshao@hku.hk</a>
+        </p>
+      </div>
+    </td>
+    
+    <td style="padding: 24px 20px; text-align: center; vertical-align: middle; background-color: #f8f9fa;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <img src="https://www.hku.hk/images/hku_logo_small.png" alt="HKU Logo" style="max-width: 120px; margin-bottom: 12px;">
+        <p style="margin: 0; color: #666; font-size: 14px; font-weight: 500;">The University of Hong Kong</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <div align="center" style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px; max-width: 600px; margin: 0 auto;">
