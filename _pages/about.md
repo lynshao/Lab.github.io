@@ -13,6 +13,8 @@ The Intelligent Communication Lab is dedicated to pushing the frontiers of resea
 About the Supervisor
 ======
 
+I received my B.S. and M.S. degrees (Hons.) in Communications and Information Engineering from Xidian University and my Ph.D. degree in Information Engineering from the Chinese University of Hong Kong (CUHK).
+
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
 
 <table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
@@ -52,8 +54,7 @@ About the Supervisor
 
 Education
 ------
-* Ph.D. in Information Engineering, Chinese University of Hong Kong, Aug. 2016 – Dec. 2020.
-* B.E. and M.E. in Communication Engineering, Xidian University, Sept. 2009 – Jan. 2016.
+
 
 Work experience
 ------
