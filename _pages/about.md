@@ -167,7 +167,6 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
           <div style="flex-grow: 1;">
             <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Assistant</h3>
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Institute of Network Coding</p>
-            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">The Chinese University of Hong Kong</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
             <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
