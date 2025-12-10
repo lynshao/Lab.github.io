@@ -16,6 +16,15 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
 
+  <!-- 经历部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 30px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+      <circle cx="12" cy="7" r="4"></circle>
+    </svg>
+    About the Supervisor
+  </h2>
+  
 <table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
   <tr style="border-bottom: 1px solid #d1d5da;">
     <td style="padding: 12px 20px; width: 70%;">  <!-- 修改这里：上下padding改为12px -->
