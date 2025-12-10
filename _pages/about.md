@@ -66,7 +66,7 @@ About the Supervisor
         <p><a href="mailto:ylshao@hku.hk">ylshao@hku.hk</a></p>
       </td>
       <td style="vertical-align: middle;">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg" alt="HKU Logo" width="120">
+        <img src="../images/Enhao.jpg" alt="HKU Logo" width="120">
       </td>
     </tr>
   </table>
