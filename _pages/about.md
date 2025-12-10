@@ -310,8 +310,8 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
   </div>
 </div>
   
-Research Interests
-------
+# Research Interests
+
 * Fundamentals of wireless communications
   * Tools: signal processing, matrix theory, real analysis, information theory.
 * Data science and machine learning
@@ -330,21 +330,9 @@ Awards
 * International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021, ranked third in problem “Federated learning for spatial reuse” and nominated as a finalist in the Grand Challenge Finale.
 * Global scholarship programme for research excellence, 2019.
 * Overseas research attachment programme, 2018.
- 
-
-Professional Services
-------
-* IEEE Communications Magazine, Editor.
-* IEEE Transactions on Wireless Communications, Editor.
-* IEEE Transactions on Communications, Editor.
-* IEEE Communications Letters, Editor.
-* IEEE Communication Society flagship conferences, Session chair and TPC member.
-* 5G Academy Italy 2022, Guest Lecturer.
-* IEEE Information Theory Society Bangalore Chapter, Invited Speaker.
 
 
-Selected Journal Publications
-------
+# Selected Journal Publications
 
 * Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, 2024.
   
