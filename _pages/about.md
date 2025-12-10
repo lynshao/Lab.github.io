@@ -69,7 +69,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
     
     <!-- 经历项 1 -->
-    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
@@ -79,15 +79,15 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
-          <div style="flex-shrink: 0; margin-left: 30px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
     </div>
     
     <!-- 经历项 2 -->
-    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
@@ -105,7 +105,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     </div>
     
     <!-- 经历项 3 -->
-    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
@@ -116,14 +116,14 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Exeter University Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Exeter University Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
     </div>
     
     <!-- 经历项 4 -->
-    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
@@ -134,14 +134,14 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
     </div>
     
     <!-- 经历项 5 -->
-    <div style="position: relative; margin-bottom: 20px; margin-left: 30px;">
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
@@ -152,7 +152,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="MIT Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="MIT Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
