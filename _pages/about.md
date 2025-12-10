@@ -28,6 +28,23 @@ About the Supervisor
   </div>
 </div>
 
+<div align="center" style="border: 1px solid #e1e4e8; padding: 20px; border-radius: 6px; max-width: 600px; margin: 0 auto;">
+  <table>
+    <tr>
+      <td style="vertical-align: top; padding-right: 20px;">
+        <h2>Dr. Yulin Shao</h2>
+        <h3>Assistant Professor</h3>
+        <p><strong>Department of Electrical and Electronic Engineering</strong><br>
+        The University of Hong Kong</p>
+        <p><a href="mailto:ylshao@hku.hk">ylshao@hku.hk</a></p>
+      </td>
+      <td style="vertical-align: middle;">
+        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg" alt="HKU Logo" width="120">
+      </td>
+    </tr>
+  </table>
+</div>
+
 I am an Assistant Professor at the Department of Electrical and Electronic Engineering ([EEE](https://www.eee.hku.hk/)), The University of Hong Kong. I am also a Visiting Researcher at the Department of Electrical and Electronic Engineering ([EEE](https://www.imperial.ac.uk/electrical-engineering/)), Imperial College London.
 
 Please contact me by:
