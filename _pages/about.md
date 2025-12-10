@@ -79,7 +79,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
-          <div style="flex-shrink: 0; margin-left: 15px;">
+          <div style="flex-shrink: 0; margin-left: 30px;">
             <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
