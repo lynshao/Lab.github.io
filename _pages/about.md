@@ -41,7 +41,7 @@ About the Supervisor
     <td style="padding: 20px; text-align: center; background-color: #f6f8fa; border-left: 1px solid #d1d5da;">
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
         <div style="width: 100px; height: 100px; background: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 12px; border: 1px solid #e1e4e8;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Enhao.jpg" alt="HKU Logo" style="max-width: 70px;">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="HKU Logo" style="max-width: 150px;">
         </div>
         <span style="font-size: 12px; color: #6a737d; font-weight: 500;">HKU</span>
       </div>
