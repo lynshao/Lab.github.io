@@ -160,7 +160,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     
     <!-- 经历项 6 -->
     <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      <div style="position: absolute; left: -36px; top: 15px; width: 10px; height: 10px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
         <div style="display: flex; align-items: center;">
