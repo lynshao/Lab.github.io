@@ -53,6 +53,51 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
 
 # Education
 
+<!-- 在您的个人主页代码后添加 -->
+
+<br><br>
+
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  
+  <!-- 经历部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 30px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+      <circle cx="12" cy="7" r="4"></circle>
+    </svg>
+    Academic Journey
+  </h2>
+  
+  <!-- 时间线经历 -->
+  <div style="position: relative; margin-left: 20px;">
+    <!-- 时间线竖线 -->
+    <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
+    
+    <!-- 经历项模板 -->
+    <div style="position: relative; margin-bottom: 32px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 6px; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+        <div style="display: flex; align-items: flex-start;">
+          <div style="flex-shrink: 0; margin-right: 20px;">
+            <img src="[LOGO_URL]" alt="Institution Logo" style="width: 50px; height: 50px; border-radius: 8px; object-fit: contain; background: white; padding: 5px; border: 1px solid #eaecef;">
+          </div>
+          <div style="flex-grow: 1;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+              <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">[Position Title]</h3>
+              <span style="color: #6a737d; font-size: 13px; background: #f6f8fa; padding: 4px 10px; border-radius: 12px; font-weight: 500;">[Year]</span>
+            </div>
+            <p style="margin: 0 0 8px 0; color: #0366d6; font-size: 15px; font-weight: 500;">[Institution Name]</p>
+            <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">[Department/Lab]</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 复制并修改上述div来添加所有经历 -->
+    
+  </div>
+</div>
 
 
 Work experience
