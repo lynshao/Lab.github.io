@@ -18,7 +18,7 @@ redirect_from:
     The University of Hong Kong</p>
   </div>
   <div class="item-meta">
-    <img src="/images/hku_logo.png" alt="HKU Logo" class="institution-logo">
+    <img src="/images/Enhao.jpg" alt="HKU Logo" class="institution-logo">
     <div class="date-range">2023-Present</div>
   </div>
 </div>
