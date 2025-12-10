@@ -80,7 +80,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -98,7 +98,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">IOTSC State Key Laboratory</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="University of Macau Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/UMlogo.png" alt="University of Macau Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -116,7 +116,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Exeter University Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -134,7 +134,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -152,7 +152,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="MIT Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="MIT Logo" style="width: 80px; height: 80px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -170,7 +170,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">The Chinese University of Hong Kong</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="Institute of Network Coding Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 40px; height: 40px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
