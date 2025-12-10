@@ -9,24 +9,7 @@ redirect_from:
 layout: single
 ---
 
-{% include custom-head.html %}
 
-<div class="professional-section">
-
-## Principal Investigator
-
-<div class="professional-item">
-  <div class="item-content">
-    <h3>Dr. [Your Name]</h3>
-    <p><strong>Assistant Professor</strong><br>
-    Department of Electrical and Electronic Engineering<br>
-    The University of Hong Kong</p>
-  </div>
-  <div class="item-meta">
-    <img src="/images/hku_logo.png" alt="HKU Logo" class="institution-logo">
-    <div class="date-range">2023-Present</div>
-  </div>
-</div>
 
 
 
