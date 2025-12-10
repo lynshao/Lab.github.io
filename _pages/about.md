@@ -88,11 +88,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
         </div>
       </div>
     </div>
-  
-  <!-- 时间线经历 -->
-  <div style="position: relative; margin-left: 20px;">
-    <!-- 时间线竖线 -->
-    <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
+    
     
     <!-- 经历项模板 -->
     <div style="position: relative; margin-bottom: 32px; margin-left: 30px;">
