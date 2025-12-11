@@ -343,7 +343,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 1 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
       <div style="text-align: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
       </div>
       <div style="position: relative; padding-left: 15px;">
         <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
@@ -356,7 +356,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 2 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
       <div style="text-align: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC2023.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
       </div>
       <div style="position: relative; padding-left: 15px;">
         <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
