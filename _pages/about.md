@@ -431,7 +431,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 100px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 100px; height: 120px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
@@ -442,7 +442,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
           <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 13px; font-weight: 500;">Springer Nature</p>
           <div style="display: flex; align-items: center; justify-content: space-between;">
             <p style="margin: 0; color: #586069; font-size: 13px;">
-              <span style="font-weight: 500;">Author :</span> 
+              <span style="font-weight: 500;">Author:</span> 
               <span style="color: #24292e;">Yulin Shao</span>
             </p>
           </div>
@@ -455,7 +455,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 100px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 100px; height: 120px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
