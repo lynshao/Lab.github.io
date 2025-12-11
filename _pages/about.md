@@ -327,122 +327,78 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
-  <!-- Awards部分标题 -->
-  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 20px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+  <!-- 奖项部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 25px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
-      <path d="M12 15l8-8-8 8-4-4-4 4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="12" cy="8" r="7" stroke-width="2"/>
-      <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M12 15l8-8-8 8-8-8 8 8z"></path>
+      <path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-7"></path>
+      <path d="M12 22V12"></path>
     </svg>
     Awards
   </h2>
   
-  <!-- 前三个重要奖项（带图片）-->
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); gap: 20px; margin-bottom: 30px;">
+  <!-- 前两个奖项并排展示 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
     
     <!-- 奖项 1 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-      <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC 2024 Dubai" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC_award.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
       </div>
-      <div style="padding: 18px;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <div style="width: 36px; height: 36px; background: linear-gradient(135deg, #FFD700, #FFA500); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="white">
-              <path d="M12 15l8-8-8 8-4-4-4 4" stroke-width="0"/>
-              <circle cx="12" cy="8" r="7" stroke-width="0"/>
-              <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke-width="0"/>
-            </svg>
-          </div>
-          <h3 style="margin: 0; color: #24292e; font-size: 17px; font-weight: 600;">Best Paper Award</h3>
-        </div>
-        <p style="margin: 0; color: #0366d6; font-size: 15px; font-weight: 500; margin-bottom: 5px;">IEEE Wireless Communications and Networking Conference</p>
-        <p style="margin: 0; color: #586069; font-size: 14px;">WCNC 2024, Dubai, United Arab Emirates</p>
+      <div style="position: relative; padding-left: 15px;">
+        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Wireless Communications and Networking Conference (WCNC) 2024</p>
+        <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
       </div>
     </div>
     
     <!-- 奖项 2 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-      <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC2023.png" alt="ICC 2023 Rome" style="width: 100%; height: 100%; object-fit: cover;">
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC_award.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
       </div>
-      <div style="padding: 18px;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <div style="width: 36px; height: 36px; background: linear-gradient(135deg, #C0C0C0, #A9A9A9); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="white">
-              <path d="M12 15l8-8-8 8-4-4-4 4" stroke-width="0"/>
-              <circle cx="12" cy="8" r="7" stroke-width="0"/>
-              <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke-width="0"/>
-            </svg>
-          </div>
-          <h3 style="margin: 0; color: #24292e; font-size: 17px; font-weight: 600;">Best Paper Award</h3>
-        </div>
-        <p style="margin: 0; color: #0366d6; font-size: 15px; font-weight: 500; margin-bottom: 5px;">IEEE International Conference on Communications</p>
-        <p style="margin: 0; color: #586069; font-size: 14px;">ICC 2023, Rome, Italy</p>
-      </div>
-    </div>
-    
-    <!-- 奖项 3 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-      <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2024.png" alt="CIE 2023 Nanjing" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-      <div style="padding: 18px;">
-        <div style="display: flex; align-items: center; margin-bottom: 12px;">
-          <div style="width: 36px; height: 36px; background: linear-gradient(135deg, #CD7F32, #B87333); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="white">
-              <path d="M12 15l8-8-8 8-4-4-4 4" stroke-width="0"/>
-              <circle cx="12" cy="8" r="7" stroke-width="0"/>
-              <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke-width="0"/>
-            </svg>
-          </div>
-          <h3 style="margin: 0; color: #24292e; font-size: 17px; font-weight: 600;">Best Poster Award</h3>
-        </div>
-        <p style="margin: 0; color: #0366d6; font-size: 15px; font-weight: 500; margin-bottom: 5px;">CIE Information Theory Society</p>
-        <p style="margin: 0; color: #586069; font-size: 14px;">2023, Nanjing, China</p>
+      <div style="position: relative; padding-left: 15px;">
+        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE International Conference on Communications (ICC) 2023</p>
+        <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
       </div>
     </div>
     
   </div>
   
-  <!-- 其他奖项（列表形式）-->
-  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
-    <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 15px 0;">Other Awards & Honors</h3>
+  <!-- 其他奖项列表 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
     
-    <div style="position: relative; padding-left: 25px;">
-      <!-- 列表项 1 -->
-      <div style="position: relative; margin-bottom: 12px; display: flex; align-items: flex-start;">
-        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
-        <div style="flex-grow: 1;">
-          <p style="margin: 0; color: #24292e; font-size: 15px; font-weight: 500; line-height: 1.4;">
-            International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021
-          </p>
-          <p style="margin: 5px 0 0 0; color: #586069; font-size: 14px; line-height: 1.4;">
-            Ranked third in problem "Federated learning for spatial reuse" and nominated as a finalist in the Grand Challenge Finale.
-          </p>
-        </div>
-      </div>
-      
-      <!-- 列表项 2 -->
-      <div style="position: relative; margin-bottom: 12px; display: flex; align-items: flex-start;">
-        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
-        <div style="flex-grow: 1;">
-          <p style="margin: 0; color: #24292e; font-size: 15px; font-weight: 500; line-height: 1.4;">
-            Global scholarship programme for research excellence, 2019
-          </p>
-        </div>
-      </div>
-      
-      <!-- 列表项 3 -->
-      <div style="position: relative; display: flex; align-items: flex-start;">
-        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
-        <div style="flex-grow: 1;">
-          <p style="margin: 0; color: #24292e; font-size: 15px; font-weight: 500; line-height: 1.4;">
-            Overseas research attachment programme, 2018
-          </p>
-        </div>
+    <!-- 奖项 3 -->
+    <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021</h3>
+        <p style="margin: 0 0 4px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Ranked third in problem "Federated learning for spatial reuse"</p>
+        <p style="margin: 0; color: #586069; font-size: 14px;">Nominated as a finalist in the Grand Challenge Finale</p>
       </div>
     </div>
+    
+    <!-- 奖项 4 -->
+    <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">Global scholarship programme for research excellence</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px;">2019</p>
+      </div>
+    </div>
+    
+    <!-- 奖项 5 -->
+    <div style="position: relative; padding-left: 20px;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">Overseas research attachment programme</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px;">2018</p>
+      </div>
+    </div>
+    
   </div>
   
 </div>
