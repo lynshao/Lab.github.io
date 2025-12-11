@@ -334,7 +334,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <circle cx="12" cy="8" r="7" stroke-width="2"/>
       <path d="M8.21 13.89L7 23l5-3 5 3-1.21-9.12" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
-    Awards & Honors
+    Awards
   </h2>
   
   <!-- 前三个重要奖项（带图片）-->
@@ -385,7 +385,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 3 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
       <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2023.png" alt="CIE 2023 Nanjing" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2024.png" alt="CIE 2023 Nanjing" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <div style="padding: 18px;">
         <div style="display: flex; align-items: center; margin-bottom: 12px;">
