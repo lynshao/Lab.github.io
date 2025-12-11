@@ -10,7 +10,11 @@ title: ""
   <!-- 欢迎语 -->
   <div style="background: linear-gradient(135deg, #f0f7ff 0%, #e6f0ff 100%); border-left: 4px solid #0366d6; border-radius: 8px; padding: 20px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
     <p style="margin: 0; color: #24292e; font-size: 16px; line-height: 1.6;">
-      We welcome passionate students and researchers to join our team. We encourage and support your innovative ideas and research interests that contribute to advancing our understanding of wireless communications and machine learning. If you have your own research vision that you'd like to explore, we'd love to hear about it!
+      We welcome passionate students and researchers to join our team.
+      
+      We seek exceptional minds who challenge conventions, ask disruptive questions, and envision communication systems that don't yet exist. 
+      
+      If you're driven to create transformative solutions that will shape global connectivity for decades to come, we want to hear your vision.
     </p>
   </div>
 
