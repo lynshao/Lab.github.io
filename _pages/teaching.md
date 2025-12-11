@@ -5,100 +5,153 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-  
-  <!-- 教学部分标题 -->
-  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 25px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
-    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
-      <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-    </svg>
-    Teaching
-  </h2>
-  
-  <!-- 2024-2025 Spring -->
-  <div style="margin-bottom: 25px;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">2024-2025 Spring</h3>
-      <div style="flex-grow: 1; height: 1px; background: linear-gradient(to right, #0366d6, #e1e4e8); margin-left: 15px;"></div>
-    </div>
-    
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-      <div style="position: relative; padding-left: 12px;">
-        <div style="position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h4 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">ECEN2001, Measurement and Instrumentation</h4>
-        <p style="margin: 0; color: #586069; font-size: 14px;">
-          <span style="font-weight: 500;">Program:</span> B.E. in Department of Electrical and Computer Engineering
-        </p>
-      </div>
-    </div>
+
+  <!-- 页面标题 -->
+  <div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="color: #24292e; font-size: 32px; font-weight: 600; margin-bottom: 10px;">Teaching</h1>
+    <p style="color: #6a737d; font-size: 16px;">Department of Electrical and Electronic Engineering, The University of Hong Kong</p>
   </div>
-  
-  <!-- 2024-2025 Fall -->
-  <div style="margin-bottom: 25px;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">2024-2025 Fall</h3>
-      <div style="flex-grow: 1; height: 1px; background: linear-gradient(to right, #0366d6, #e1e4e8); margin-left: 15px;"></div>
-    </div>
+
+  <!-- 时间线容器 -->
+  <div style="position: relative; margin-left: 30px;">
     
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); margin-bottom: 15px;">
-      <div style="position: relative; padding-left: 12px;">
-        <div style="position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h4 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">ECEN1001, Introduction to Electrical and Computer Engineering</h4>
-        <p style="margin: 0; color: #586069; font-size: 14px;">
-          <span style="font-weight: 500;">Program:</span> B.E. in Department of Electrical and Computer Engineering
-        </p>
+    <!-- 时间线竖线 -->
+    <div style="position: absolute; left: -20px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
+
+    <!-- 2024-2025 Spring -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -30px; top: 0; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="margin-bottom: 10px;">
+        <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0; padding: 5px 0;">
+          2024 -- 2025 Spring
+        </h2>
+      </div>
+      
+      <!-- 课程卡片 -->
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+          <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600;">
+            ECEN2001, Measurement and Instrumentation
+          </h3>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px; flex-shrink: 0;">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.4;">
+            Program: B.E. in Department of Electrical and Computer Engineering
+          </p>
+        </div>
       </div>
     </div>
-    
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-      <div style="position: relative; padding-left: 12px;">
-        <div style="position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h4 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">ECEN7102, Advanced Topics in Applied Probability and Statistics</h4>
-        <p style="margin: 0; color: #586069; font-size: 14px;">
-          <span style="font-weight: 500;">Program:</span> MSc in Internet of Things
-        </p>
+
+    <!-- 2024-2025 Fall -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -30px; top: 0; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="margin-bottom: 10px;">
+        <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0; padding: 5px 0;">
+          2024 -- 2025 Fall
+        </h2>
+      </div>
+      
+      <!-- 课程卡片 1 -->
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+          <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600;">
+            ECEN1001, Introduction to Electrical and Computer Engineering
+          </h3>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px; flex-shrink: 0;">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.4;">
+            Program: B.E. in Department of Electrical and Computer Engineering
+          </p>
+        </div>
+      </div>
+      
+      <!-- 课程卡片 2 -->
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+          <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600;">
+            ECEN7102, Advanced Topics in Applied Probability and Statistics
+          </h3>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px; flex-shrink: 0;">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.4;">
+            Program: MSc in Internet of Things
+          </p>
+        </div>
       </div>
     </div>
+
+    <!-- 2023-2024 Spring -->
+    <div style="position: relative; margin-bottom: 30px;">
+      <div style="position: absolute; left: -30px; top: 0; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="margin-bottom: 10px;">
+        <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0; padding: 5px 0;">
+          2023 -- 2024 Spring
+        </h2>
+      </div>
+      
+      <!-- 课程卡片 -->
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+          <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600;">
+            ECEN2001, Measurement and Instrumentation
+          </h3>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px; flex-shrink: 0;">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.4;">
+            Program: B.E. in Department of Electrical and Computer Engineering
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2023-2024 Fall -->
+    <div style="position: relative; margin-bottom: 5px;">
+      <div style="position: absolute; left: -30px; top: 0; width: 20px; height: 20px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="margin-bottom: 10px;">
+        <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0; padding: 5px 0;">
+          2023 -- 2024 Fall
+        </h2>
+      </div>
+      
+      <!-- 课程卡片 -->
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+          <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600;">
+            ECEN7102, Advanced Topics in Applied Probability and Statistics
+          </h3>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px; flex-shrink: 0;">
+            <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+          </svg>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.4;">
+            Program: MSc in Internet of Things
+          </p>
+        </div>
+      </div>
+    </div>
+
   </div>
-  
-  <!-- 2023-2024 Spring -->
-  <div style="margin-bottom: 25px;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">2023-2024 Spring</h3>
-      <div style="flex-grow: 1; height: 1px; background: linear-gradient(to right, #0366d6, #e1e4e8); margin-left: 15px;"></div>
-    </div>
-    
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-      <div style="position: relative; padding-left: 12px;">
-        <div style="position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h4 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">ECEN2001, Measurement and Instrumentation</h4>
-        <p style="margin: 0; color: #586069; font-size: 14px;">
-          <span style="font-weight: 500;">Program:</span> B.E. in Department of Electrical and Computer Engineering
-        </p>
-      </div>
-    </div>
-  </div>
-  
-  <!-- 2023-2024 Fall -->
-  <div style="margin-bottom: 10px;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">2023-2024 Fall</h3>
-      <div style="flex-grow: 1; height: 1px; background: linear-gradient(to right, #0366d6, #e1e4e8); margin-left: 15px;"></div>
-    </div>
-    
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-      <div style="position: relative; padding-left: 12px;">
-        <div style="position: absolute; left: 0; top: 10px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h4 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">ECEN7102, Advanced Topics in Applied Probability and Statistics</h4>
-        <p style="margin: 0; color: #586069; font-size: 14px;">
-          <span style="font-weight: 500;">Program:</span> MSc in Internet of Things
-        </p>
-      </div>
-    </div>
-  </div>
-  
+
 </div>
+
 
 
 <!--
