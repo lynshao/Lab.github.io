@@ -411,27 +411,19 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
   
 </div>
 
-Awards
 
-* Best Paper Award, IEEE Wireless Communications and Networking Conference (WCNC) 2024, Dubai, United Arab Emirates.
-* Best Paper Award, IEEE International Conference on Communications (ICC) 2023, Rome, Italy.
-* Best Poster Award, CIE Information Theory Society 2023, Nanjing, China.
-* International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021, ranked third in problem “Federated learning for spatial reuse” and nominated as a finalist in the Grand Challenge Finale.
-* Global scholarship programme for research excellence, 2019.
-* Overseas research attachment programme, 2018.
-
-
+<!--
 # Selected Journal Publications
 
-* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, 2024.
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, vol. 24, no. 2, pp. 1722-1736, 2025.
   
-* Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, 2024.
+* Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, IEEE Communications Magazine, vol. 36, no. 12, pp. 142-148, 2025.
+
+* Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12211-12228, 2024.
   
-* Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, IEEE Communications Magazine, 2024.
+* Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 3680-3695, 2024.
 
-* Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, 2023.
-
-* Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, 2023.
+* Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, vol. 71, pp. 2460-2474, 2023.
 
 * Y. Shao, D. Gunduz and S. Liew. Bayesian over-the-air computation, IEEE Journal on Selected Areas in Communications, vol. 41, no. 3, pp. 589-606, 2023.
 
@@ -454,3 +446,216 @@ Awards
 * Y. Shao, S. Liew, and T. Wang. AlphaSeq: sequence discovery with deep reinforcement learning, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3319–3333, 2019.
 
 * Y. Shao, S. Liew, and L. Lu. Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding, IEEE Transactions on Wireless Communications, vol. 16, no. 10, pp. 6881–6894, 2017.
+-->
+
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  
+  <!-- 出版物标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 20px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+      <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+    </svg>
+    Selected Journal Publications
+  </h2>
+  
+  <!-- 出版物列表 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    
+    <!-- 出版物 1 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao</strong>. 
+        <span style="color: #24292e; font-weight: 500;">DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+        vol. 24, no. 2, pp. 1722-1736, 
+        <strong style="color: #586069;">2025</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 2 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Point Cloud in the Air</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Communications Magazine</span>, 
+        vol. 36, no. 12, pp. 142-148, 
+        <strong style="color: #586069;">2025</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 3 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, Q. Cao, and D. Gunduz</strong>. 
+        <span style="color: #24292e; font-weight: 500;">A Theory of Semantic Communication</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+        vol. 23, no. 12, pp. 12211-12228, 
+        <strong style="color: #586069;">2024</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 4 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Learning-based autonomous channel access in the presence of hidden terminals</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+        vol. 23, no. 5, pp. 3680-3695, 
+        <strong style="color: #586069;">2024</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 5 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, S. Liew and D. Gunduz</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Denoising noisy neural networks: A Bayesian approach with compensation</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Signal Processing</span>, 
+        vol. 71, pp. 2460-2474, 
+        <strong style="color: #586069;">2023</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 6 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, D. Gunduz and S. Liew</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Bayesian over-the-air computation</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Journal on Selected Areas in Communications</span>, 
+        vol. 41, no. 3, pp. 589-606, 
+        <strong style="color: #586069;">2023</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 7 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, D. Gunduz and S. Liew</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Federated edge learning with misaligned over-the-air computation</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+        vol. 21, no. 6, pp. 3951-3964, 
+        <strong style="color: #586069;">2022</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 8 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, D. Gunduz</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Semantic communications with discrete-time analog transmission: a PAPR perspective</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Wireless Communication Letter</span>, 
+        <strong style="color: #586069;">2022</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 9 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Goal-oriented communication system redesign for wireless collaborative intelligence</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Multimedia Communication Technical Committee – Frontiers</span>, 
+        <strong style="color: #586069;">2022</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 10 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, Q. Cao, S. Liew, and H. Chen</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Partially observable minimum-age scheduling: the greedy policy</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Communications</span>, 
+        vol. 70, no. 1, pp. 404-418, 
+        <strong style="color: #586069;">2021</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 11 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, S. Liew, H. Chen, Y. Du</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Flow sampling: network monitoring in large-scale software-defined IoT networks</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Communications</span>, 
+        vol. 69, no. 9, pp. 6120-6133, 
+        <strong style="color: #586069;">2021</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 12 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao and S. Liew</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Flexible subcarrier allocation for interleaved frequency division multiple access</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+        vol. 19, no. 11, pp. 7139-7152, 
+        <strong style="color: #586069;">2020</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 13 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, A. Rezaee, S. Liew, and V. Chan</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Significant sampling for shortest path routing: a deep reinforcement learning solution</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Journal on Selected Areas in Communications</span>, 
+        vol. 38, no. 10, pp. 2234–2248, 
+        <strong style="color: #586069;">2020</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 14 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, S. Liew, and J. Liang</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Sporadic ultra-time-critical crowd messaging in V2X</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Communications</span>, 
+        vol. 69, no. 2, pp. 817-830, 
+        <strong style="color: #586069;">2020</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 15 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, S. Liew, and T. Wang</strong>. 
+        <span style="color: #24292e; font-weight: 500;">AlphaSeq: sequence discovery with deep reinforcement learning</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Neural Networks and Learning Systems</span>, 
+        vol. 31, no. 9, pp. 3319–3333, 
+        <strong style="color: #586069;">2019</strong>.
+      </p>
+    </div>
+    
+    <!-- 出版物 16 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 0;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao, S. Liew, and L. Lu</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding</span>. 
+        <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+        vol. 16, no. 10, pp. 6881–6894, 
+        <strong style="color: #586069;">2017</strong>.
+      </p>
+    </div>
+    
+  </div>
+  
+</div>
+
+
+
+
