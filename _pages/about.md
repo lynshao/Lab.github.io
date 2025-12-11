@@ -343,7 +343,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 1 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
       <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024_Dubai.jpg" alt="WCNC 2024 Dubai" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC 2024 Dubai" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <div style="padding: 18px;">
         <div style="display: flex; align-items: center; margin-bottom: 12px;">
@@ -364,7 +364,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 2 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
       <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC2023_Rome.jpg" alt="ICC 2023 Rome" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC2023.png" alt="ICC 2023 Rome" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <div style="padding: 18px;">
         <div style="display: flex; align-items: center; margin-bottom: 12px;">
@@ -385,7 +385,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     <!-- 奖项 3 -->
     <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
       <div style="height: 180px; overflow: hidden;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2023_Nanjing.jpg" alt="CIE 2023 Nanjing" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2023.png" alt="CIE 2023 Nanjing" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
       <div style="padding: 18px;">
         <div style="display: flex; align-items: center; margin-bottom: 12px;">
