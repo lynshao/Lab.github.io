@@ -5,60 +5,200 @@ author_profile: true
 title: ""
 ---
 
-## 🎓 PhD Recruitment
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  
+  <!-- 欢迎语 -->
+  <div style="background: linear-gradient(135deg, #f0f7ff 0%, #e6f0ff 100%); border-left: 4px solid #0366d6; border-radius: 8px; padding: 20px; margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <p style="margin: 0; color: #24292e; font-size: 16px; line-height: 1.6;">
+      We welcome passionate students and researchers to join our team. We encourage and support your innovative ideas and research interests that contribute to advancing our understanding of wireless communications and machine learning. If you have your own research vision that you'd like to explore, we'd love to hear about it!
+    </p>
+  </div>
 
-We are recruiting **PhD students** in:
+  <!-- PhD Recruitment -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <div style="width: 32px; height: 32px; background: #0366d6; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
+        <span style="color: white; font-size: 18px; font-weight: 600;">🎓</span>
+      </div>
+      <h2 style="margin: 0; color: #24292e; font-size: 22px; font-weight: 600;">PhD Recruitment</h2>
+    </div>
+    
+    <p style="margin: 0 0 15px 0; color: #24292e; font-size: 15px; line-height: 1.5;">
+      We are recruiting <strong>PhD students</strong> in:
+    </p>
+    
+    <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+      <div style="flex: 1; min-width: 250px;">
+        <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+          <h3 style="margin: 0 0 8px 0; color: #0366d6; font-size: 16px; font-weight: 600;">Wireless Communications</h3>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">Focus on signal processing & communication theory</p>
+        </div>
+      </div>
+      <div style="flex: 1; min-width: 250px;">
+        <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+          <h3 style="margin: 0 0 8px 0; color: #0366d6; font-size: 16px; font-weight: 600;">Machine Learning</h3>
+          <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">Focus on optimization theory & learning methods</p>
+        </div>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 20px;">
+      <h3 style="margin: 0 0 10px 0; color: #24292e; font-size: 16px; font-weight: 600;">Applicant Background</h3>
+      <p style="margin: 0 0 8px 0; color: #586069; font-size: 14px; line-height: 1.5;">
+        Strong foundation in one or more of the following fields is required:
+      </p>
+      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 15px;">
+        <span style="background: #f1f8ff; color: #0366d6; padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 500;">Electrical & Electronic Engineering</span>
+        <span style="background: #f1f8ff; color: #0366d6; padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 500;">Communications</span>
+        <span style="background: #f1f8ff; color: #0366d6; padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 500;">Computer Science</span>
+        <span style="background: #f1f8ff; color: #0366d6; padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 500;">Mathematics</span>
+        <span style="background: #f1f8ff; color: #0366d6; padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 500;">Related disciplines</span>
+      </div>
+    </div>
+    
+    <div style="margin-bottom: 20px;">
+      <h3 style="margin: 0 0 15px 0; color: #24292e; font-size: 16px; font-weight: 600;">Fully Funded Options</h3>
+      
+      <div style="position: relative; padding-left: 25px; margin-bottom: 12px;">
+        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+        <div>
+          <p style="margin: 0 0 4px 0; color: #24292e; font-size: 15px; font-weight: 600;">HKU EEE PhD Program</p>
+          <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">HKD 19,135 – 19,655 / month</p>
+        </div>
+      </div>
+      
+      <div style="position: relative; padding-left: 25px; margin-bottom: 12px;">
+        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+        <div>
+          <p style="margin: 0 0 4px 0; color: #24292e; font-size: 15px; font-weight: 600;">HKU Presidential PhD Scholarship (HKU-PS)</p>
+          <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">~ HKD 439,500 / year</p>
+        </div>
+      </div>
+      
+      <div style="position: relative; padding-left: 25px; margin-bottom: 15px;">
+        <div style="position: absolute; left: 0; top: 5px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+        <div>
+          <p style="margin: 0 0 4px 0; color: #24292e; font-size: 15px; font-weight: 600;">Hong Kong PhD Fellowship Scheme (HKPFS)</p>
+          <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">~ HKD 439,500 / year</p>
+        </div>
+      </div>
+      
+      <div style="background: #f8f9fa; border-left: 3px solid #0366d6; border-radius: 4px; padding: 12px 15px; margin-bottom: 15px;">
+        <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.5;">
+          • Category (1) is awarded directly by our lab<br>
+          • Categories (2) & (3) are highly competitive (based on national awards, publications, etc.)<br>
+          • If you receive a full funding offer from our lab, you will be fully supported even if not selected for HKU-PS/HKPFS
+        </p>
+      </div>
+      
+      <div style="background: #fff8f8; border: 1px solid #ffd1d1; border-radius: 6px; padding: 12px 15px; margin-bottom: 20px;">
+        <p style="margin: 0; color: #d73a49; font-size: 14px; font-weight: 500; display: flex; align-items: flex-start;">
+          <span style="margin-right: 8px;">⚠️</span>
+          <span><strong>Self-funded applicants</strong> must meet the HKU Faculty of Engineering admission requirements.</span>
+        </p>
+      </div>
+    </div>
+    
+    <div style="background: #f0f7ff; border-radius: 8px; padding: 15px; margin-top: 20px;">
+      <h3 style="margin: 0 0 10px 0; color: #24292e; font-size: 15px; font-weight: 600;">To Apply</h3>
+      <div style="display: flex; align-items: center;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px; flex-shrink: 0;">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+        <div>
+          <p style="margin: 0; color: #586069; font-size: 14px;">Send your <strong>CV</strong> and <strong>transcripts</strong> to:</p>
+          <a href="mailto:ylshao@hku.hk" style="color: #0366d6; font-size: 15px; font-weight: 500; text-decoration: none;">ylshao@hku.hk</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-- **Wireless Communications** (focus on signal processing & communication theory)  
-- **Machine Learning** (focus on optimization theory & learning methods)
+  <!-- Postdoctoral Recruitment -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <div style="width: 32px; height: 32px; background: #28a745; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
+        <span style="color: white; font-size: 18px; font-weight: 600;">🔬</span>
+      </div>
+      <h2 style="margin: 0; color: #24292e; font-size: 22px; font-weight: 600;">Postdoctoral Recruitment</h2>
+    </div>
+    
+    <p style="margin: 0 0 15px 0; color: #24292e; font-size: 15px; line-height: 1.5;">
+      We welcome applications for <strong>Postdoctoral Researchers</strong> in <strong>wireless communications</strong> and <strong>machine learning</strong>.
+    </p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 20px;">
+      <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+        <h3 style="margin: 0 0 8px 0; color: #28a745; font-size: 15px; font-weight: 600;">Salary</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px; font-weight: 500;">HKD 30,000 / month</p>
+      </div>
+      <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+        <h3 style="margin: 0 0 8px 0; color: #28a745; font-size: 15px; font-weight: 600;">Current Opening</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px; font-weight: 500;">HKU 50th Round Postdoctoral / Research Assistant Professor (RAP) Scheme</p>
+      </div>
+    </div>
+    
+    <div style="background: #f0f7ff; border-radius: 8px; padding: 15px; margin-top: 20px;">
+      <h3 style="margin: 0 0 10px 0; color: #24292e; font-size: 15px; font-weight: 600;">To Apply</h3>
+      <div style="display: flex; align-items: center;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px; flex-shrink: 0;">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+        <div>
+          <p style="margin: 0; color: #586069; font-size: 14px;">Send your <strong>CV</strong> to:</p>
+          <a href="mailto:ylshao@hku.hk" style="color: #0366d6; font-size: 15px; font-weight: 500; text-decoration: none;">ylshao@hku.hk</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-**Applicant background:**  
-Strong foundation in one or more of the following fields is required:  
-Electrical & Electronic Engineering,
-Communications,
-Computer Science,
-Mathematics,
-Related disciplines.
-
-### Fully Funded Options
-1. **HKU EEE PhD Program**: **HKD 19,135 – 19,655 / month**  
-
-2. **HKU Presidential PhD Scholarship (HKU-PS)**:  ~ **HKD 439,500 / year**  
-
-3. **Hong Kong PhD Fellowship Scheme (HKPFS)**::  ~ **HKD 439,500 / year** 
-
-> Category (1) is awarded directly by our lab  
-> Categories (2) & (3) are highly competitive (based on national awards, publications, etc.)  
-> If you receive a full funding offer from our lab, you will be fully supported even if not selected for HKU-PS/HKPFS  
-
-⚠️ **Self-funded applicants** must meet the HKU Faculty of Engineering admission requirements.  
-
-**To apply:** Send your **CV** and **transcripts** to: [ylshao@hku.hk](mailto:ylshao@hku.hk)
-
----
-
-## Postdoctoral Recruitment
-
-We welcome applications for **Postdoctoral Researchers** in **wireless communications** and **machine learning**.  
-
-- Salary: **HKD 30,000 / month**  
-- Current opening: **HKU 50th Round Postdoctoral / Research Assistant Professor (RAP) Scheme**  
-
-**To apply:** Send your **CV** to: [ylshao@hku.hk](mailto:ylshao@hku.hk)
-
----
-
-## Research Assistant (RA) Recruitment
-
-RA positions are available in two tracks:
-
-- **Engineering / Development Projects**  
-- **Academic / Research Projects**  
-
-Specific roles depend on current project needs.  
-
-**To apply:** Send your **CV** and **transcripts** to: [ylshao@hku.hk](mailto:ylshao@hku.hk)
-
+  <!-- Research Assistant Recruitment -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 25px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+      <div style="width: 32px; height: 32px; background: #6f42c1; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
+        <span style="color: white; font-size: 18px; font-weight: 600;">💼</span>
+      </div>
+      <h2 style="margin: 0; color: #24292e; font-size: 22px; font-weight: 600;">Research Assistant (RA) Recruitment</h2>
+    </div>
+    
+    <p style="margin: 0 0 15px 0; color: #24292e; font-size: 15px; line-height: 1.5;">
+      RA positions are available in two tracks:
+    </p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin-bottom: 20px;">
+      <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+        <h3 style="margin: 0 0 8px 0; color: #6f42c1; font-size: 16px; font-weight: 600;">Engineering / Development Projects</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">Hands-on engineering and development work</p>
+      </div>
+      <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
+        <h3 style="margin: 0 0 8px 0; color: #6f42c1; font-size: 16px; font-weight: 600;">Academic / Research Projects</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">Research-focused academic work</p>
+      </div>
+    </div>
+    
+    <div style="background: #f6f8fa; border-left: 3px solid #6f42c1; border-radius: 4px; padding: 12px 15px; margin-bottom: 20px;">
+      <p style="margin: 0; color: #586069; font-size: 14px; line-height: 1.5;">
+        Specific roles depend on current project needs.
+      </p>
+    </div>
+    
+    <div style="background: #f0f7ff; border-radius: 8px; padding: 15px;">
+      <h3 style="margin: 0 0 10px 0; color: #24292e; font-size: 15px; font-weight: 600;">To Apply</h3>
+      <div style="display: flex; align-items: center;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px; flex-shrink: 0;">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+          <polyline points="22,6 12,13 2,6"></polyline>
+        </svg>
+        <div>
+          <p style="margin: 0; color: #586069; font-size: 14px;">Send your <strong>CV</strong> and <strong>transcripts</strong> to:</p>
+          <a href="mailto:ylshao@hku.hk" style="color: #0366d6; font-size: 15px; font-weight: 500; text-decoration: none;">ylshao@hku.hk</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
 ---
 
