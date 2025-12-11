@@ -442,7 +442,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
           <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 13px; font-weight: 500;">Springer Nature</p>
           <div style="display: flex; align-items: center; justify-content: space-between;">
             <p style="margin: 0; color: #586069; font-size: 13px;">
-              <span style="font-weight: 500;">Authors:</span> 
+              <span style="font-weight: 500;">Author:</span> 
               <span style="color: #24292e;">Yulin Shao</span>
               <span style="color: #6a737d; font-size: 12px;">(author 1 of 1)</span>
             </p>
