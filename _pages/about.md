@@ -412,41 +412,77 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
 </div>
 
 
-<!--
-# Selected Journal Publications
-
-* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, vol. 24, no. 2, pp. 1722-1736, 2025.
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
-* Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, IEEE Communications Magazine, vol. 36, no. 12, pp. 142-148, 2025.
-
-* Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12211-12228, 2024.
+  <!-- 书籍部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 20px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+      <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+    </svg>
+    Books
+  </h2>
   
-* Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 3680-3695, 2024.
+  <!-- 书籍列表 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0; box-shadow: 0 2px 8px rgba(0,0,0,0.05); overflow: hidden;">
+    
+    <!-- 书籍 1 -->
+    <div style="padding: 15px; border-bottom: 1px solid #f1f1f1;">
+      <div style="display: flex; align-items: flex-start;">
+        <!-- 封面图片 -->
+        <div style="flex-shrink: 0; width: 80px; margin-right: 15px;">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 80px; height: 100px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+        </div>
+        <!-- 书籍信息 -->
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+            <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600; line-height: 1.4;">AI-Empowered IoT Communications</h3>
+            <span style="color: #586069; font-size: 13px; background: #f6f8fa; padding: 3px 8px; border-radius: 10px; font-weight: 500; white-space: nowrap;">2025</span>
+          </div>
+          <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 13px; font-weight: 500;">Springer Nature</p>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <p style="margin: 0; color: #586069; font-size: 13px;">
+              <span style="font-weight: 500;">Authors:</span> 
+              <span style="color: #24292e;">Yulin Shao</span>
+              <span style="color: #6a737d; font-size: 12px;">(author 1 of 1)</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 书籍 2 -->
+    <div style="padding: 15px;">
+      <div style="display: flex; align-items: flex-start;">
+        <!-- 封面图片 -->
+        <div style="flex-shrink: 0; width: 80px; margin-right: 15px;">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 80px; height: 100px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+        </div>
+        <!-- 书籍信息 -->
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+            <div>
+              <h3 style="margin: 0; color: #24292e; font-size: 16px; font-weight: 600; line-height: 1.4;">Book chapter: Deep Joint Source and Channel Coding</h3>
+              <p style="margin: 3px 0 0 0; color: #586069; font-size: 13px; font-style: italic;">Foundations of Semantic Communication Networks</p>
+            </div>
+            <span style="color: #586069; font-size: 13px; background: #f6f8fa; padding: 3px 8px; border-radius: 10px; font-weight: 500; white-space: nowrap;">2024</span>
+          </div>
+          <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 13px; font-weight: 500;">Wiley</p>
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <p style="margin: 0; color: #586069; font-size: 13px;">
+              <span style="font-weight: 500;">Authors:</span> 
+              <span style="color: #24292e;">Haotian Wu, Chenghong Bian, Yulin Shao, Deniz Gündüz</span>
+              <span style="color: #6a737d; font-size: 12px;">(author 3 of 4)</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+  
+</div>
 
-* Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, vol. 71, pp. 2460-2474, 2023.
-
-* Y. Shao, D. Gunduz and S. Liew. Bayesian over-the-air computation, IEEE Journal on Selected Areas in Communications, vol. 41, no. 3, pp. 589-606, 2023.
-
-* Y. Shao, D. Gunduz and S. Liew. Federated edge learning with misaligned over-the-air computation,” IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3951-3964, 2022.
-
-* Y. Shao, D. Gunduz. Semantic communications with discrete-time analog transmission: a PAPR perspective,” IEEE Wireless Communication Letter, 2022.
-
-* Y. Shao. Goal-oriented communication system redesign for wireless collaborative intelligence, IEEE Multimedia Communication Technical Committee – Frontiers, 2022.
-
-* Y. Shao, Q, Cao, S. Liew, and H. Chen. Partially observable minimum-age scheduling: the greedy policy, IEEE Transactions on Communications, vol. 70, no. 1, pp. 404-418, 2021.
-
-* Y. Shao, S. Liew, H. Chen, Y. Du. Flow sampling: network monitoring in large-scale software-defined IoT networks, IEEE Transactions on Communications, vol. 69, no. 9, pp. 6120-6133, 2021.
-
-* Y. Shao and S. Liew. Flexible subcarrier allocation for interleaved frequency division multiple access, IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7139-7152, 2020.
-
-* Y. Shao, A. Rezaee, S. Liew, and V. Chan. Significant sampling for shortest path routing: a deep reinforcement learning solution, IEEE Journal on Selected Areas in Communications, vol. 38, no. 10, pp. 2234–2248, 2020.
-
-* Y. Shao, S. Liew, and J. Liang. Sporadic ultra-time-critical crowd messaging in V2X, IEEE Transactions on Communications, vol. 69, no. 2, pp. 817-830, 2020.
-
-* Y. Shao, S. Liew, and T. Wang. AlphaSeq: sequence discovery with deep reinforcement learning, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3319–3333, 2019.
-
-* Y. Shao, S. Liew, and L. Lu. Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding, IEEE Transactions on Wireless Communications, vol. 16, no. 10, pp. 6881–6894, 2017.
--->
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
@@ -456,7 +492,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
       <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
     </svg>
-    Selected Journal Publications
+    Selected Publications
   </h2>
   
   <!-- 出版物列表 -->
@@ -655,6 +691,44 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
   </div>
   
 </div>
+
+
+
+<!--
+# Selected Journal Publications
+
+* Y. Shao. DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things, IEEE Transactions on Wireless Communications, vol. 24, no. 2, pp. 1722-1736, 2025.
+  
+* Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz, Point Cloud in the Air, IEEE Communications Magazine, vol. 36, no. 12, pp. 142-148, 2025.
+
+* Y. Shao, Q. Cao, and D. Gunduz. A Theory of Semantic Communication, IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12211-12228, 2024.
+  
+* Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz. Learning-based autonomous channel access in the presence of hidden terminals, IEEE Transactions on Mobile Computing, vol. 23, no. 5, pp. 3680-3695, 2024.
+
+* Y. Shao, S. Liew and D. Gunduz. Denoising noisy neural networks: A Bayesian approach with compensation, IEEE Transactions on Signal Processing, vol. 71, pp. 2460-2474, 2023.
+
+* Y. Shao, D. Gunduz and S. Liew. Bayesian over-the-air computation, IEEE Journal on Selected Areas in Communications, vol. 41, no. 3, pp. 589-606, 2023.
+
+* Y. Shao, D. Gunduz and S. Liew. Federated edge learning with misaligned over-the-air computation,” IEEE Transactions on Wireless Communications, vol. 21, no. 6, pp. 3951-3964, 2022.
+
+* Y. Shao, D. Gunduz. Semantic communications with discrete-time analog transmission: a PAPR perspective,” IEEE Wireless Communication Letter, 2022.
+
+* Y. Shao. Goal-oriented communication system redesign for wireless collaborative intelligence, IEEE Multimedia Communication Technical Committee – Frontiers, 2022.
+
+* Y. Shao, Q, Cao, S. Liew, and H. Chen. Partially observable minimum-age scheduling: the greedy policy, IEEE Transactions on Communications, vol. 70, no. 1, pp. 404-418, 2021.
+
+* Y. Shao, S. Liew, H. Chen, Y. Du. Flow sampling: network monitoring in large-scale software-defined IoT networks, IEEE Transactions on Communications, vol. 69, no. 9, pp. 6120-6133, 2021.
+
+* Y. Shao and S. Liew. Flexible subcarrier allocation for interleaved frequency division multiple access, IEEE Transactions on Wireless Communications, vol. 19, no. 11, pp. 7139-7152, 2020.
+
+* Y. Shao, A. Rezaee, S. Liew, and V. Chan. Significant sampling for shortest path routing: a deep reinforcement learning solution, IEEE Journal on Selected Areas in Communications, vol. 38, no. 10, pp. 2234–2248, 2020.
+
+* Y. Shao, S. Liew, and J. Liang. Sporadic ultra-time-critical crowd messaging in V2X, IEEE Transactions on Communications, vol. 69, no. 2, pp. 817-830, 2020.
+
+* Y. Shao, S. Liew, and T. Wang. AlphaSeq: sequence discovery with deep reinforcement learning, IEEE Transactions on Neural Networks and Learning Systems, vol. 31, no. 9, pp. 3319–3333, 2019.
+
+* Y. Shao, S. Liew, and L. Lu. Asynchronous physical-layer network coding: symbol misalignment estimation and its effect on decoding, IEEE Transactions on Wireless Communications, vol. 16, no. 10, pp. 6881–6894, 2017.
+-->
 
 
 
