@@ -14,7 +14,7 @@ title: ""
       
       We seek exceptional minds who challenge conventions, ask disruptive questions, and envision communication systems that don't yet exist. 
       
-      If you're driven to create transformative solutions that will shape global connectivity for decades to come, we want to hear your vision.
+      If you're driven to create transformative solutions that will shape global connectivity for decades to come, we want to hear your vision!
     </p>
   </div>
 
@@ -204,8 +204,8 @@ title: ""
   
 </div>
 
----
 
+<!--
 **博士招生**
 
 本实验室长期招收无线通信（聚焦信号处理与通信理论）和机器学习（聚焦优化理论与学习方法）方向的博士研究生。申请人应具备通信与电子工程、计算机科学、数学或相关学科中一个或多个领域的扎实背景。
@@ -231,7 +231,7 @@ title: ""
 
 本实验室研究助理分为工程项目和学术项目两类，具体岗位将根据科研项目需求而定。有意者请通过邮件咨询详情。
 
-
+-->
 
 
 
