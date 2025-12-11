@@ -346,7 +346,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
