@@ -309,7 +309,8 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     
   </div>
 </div>
-  
+
+<!--
 # Research Interests
 
 * Fundamentals of wireless communications
@@ -322,9 +323,88 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
 I am particularly drawn to two types of problems: 1) problems that yield fundamental insights; 2) problems that are grounded in practical applications or have practical value.
 
 My recent research endeavors focus on: 1) exploring deep learning techniques to achieve new breakthroughs in wireless communications, networking, and control; 2) developing new designs for wireless links and networks to enhance support for machine learning applications.
+-->
+
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+  
+  <!-- 奖项部分标题 -->
+  <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 40px 0 25px 0; padding-bottom: 12px; border-bottom: 3px solid #0366d6; display: flex; align-items: center;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 12px;">
+      <path d="M12 15l8-8-8 8-8-8 8 8z"></path>
+      <path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-7"></path>
+      <path d="M12 22V12"></path>
+    </svg>
+    Awards
+  </h2>
+  
+  <!-- 前两个奖项并排展示 -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
+    
+    <!-- 奖项 1 -->
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      </div>
+      <div style="position: relative; padding-left: 15px;">
+        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Wireless Communications and Networking Conference (WCNC) 2024</p>
+        <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
+      </div>
+    </div>
+    
+    <!-- 奖项 2 -->
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+      <div style="text-align: center; margin-bottom: 15px;">
+        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      </div>
+      <div style="position: relative; padding-left: 15px;">
+        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE International Conference on Communications (ICC) 2023</p>
+        <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
+      </div>
+    </div>
+    
+  </div>
+  
+  <!-- 其他奖项列表 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
+    
+    <!-- 奖项 3 -->
+    <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021</h3>
+        <p style="margin: 0 0 4px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Ranked third in problem "Federated learning for spatial reuse"</p>
+        <p style="margin: 0; color: #586069; font-size: 14px;">Nominated as a finalist in the Grand Challenge Finale</p>
+      </div>
+    </div>
+    
+    <!-- 奖项 4 -->
+    <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">Global scholarship programme for research excellence</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px;">2019</p>
+      </div>
+    </div>
+    
+    <!-- 奖项 5 -->
+    <div style="position: relative; padding-left: 20px;">
+      <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
+      <div>
+        <h3 style="margin: 0 0 6px 0; color: #24292e; font-size: 16px; font-weight: 600;">Overseas research attachment programme</h3>
+        <p style="margin: 0; color: #586069; font-size: 14px;">2018</p>
+      </div>
+    </div>
+    
+  </div>
+  
+</div>
 
 Awards
-------
+
 * Best Paper Award, IEEE Wireless Communications and Networking Conference (WCNC) 2024, Dubai, United Arab Emirates.
 * Best Paper Award, IEEE International Conference on Communications (ICC) 2023, Rome, Italy.
 * International Telecommunication Union (ITU) AI/ML in 5G Challenge 2021, ranked third in problem “Federated learning for spatial reuse” and nominated as a finalist in the Grand Challenge Finale.
