@@ -431,7 +431,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 80px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 120px; height: 130px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 130px; height: 130px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
@@ -455,7 +455,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 80px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 120px; height: 130px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 130px; height: 130px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
