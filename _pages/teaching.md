@@ -7,11 +7,6 @@ author_profile: true
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
 
-  <!-- 页面标题 -->
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h1 style="color: #24292e; font-size: 32px; font-weight: 600; margin-bottom: 10px;">Teaching</h1>
-    <p style="color: #6a737d; font-size: 16px;">Department of Electrical and Electronic Engineering, The University of Hong Kong</p>
-  </div>
 
   <!-- 时间线容器 -->
   <div style="position: relative; margin-left: 30px;">
