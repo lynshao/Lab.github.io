@@ -12,7 +12,7 @@ title: ""
     <p style="margin: 0; color: #24292e; font-size: 16px; line-height: 1.6;">
       We welcome passionate students and researchers to join our team.
       
-      We seek exceptional minds who challenge conventions, ask disruptive questions, and envision communication systems that don't yet exist. 
+      We seek exceptional minds who challenge conventions, ask disruptive questions, and envision communication systems that even don't yet exist. 
       
       If you're driven to create transformative solutions that will shape global connectivity for decades to come, we want to hear your vision!
     </p>
