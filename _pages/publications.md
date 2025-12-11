@@ -16,150 +16,156 @@ author_profile: true
   </div>
 
   <!-- Preprint Section -->
-  <div style="margin-bottom: 30px;">
-    <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0 0 15px 0; padding-bottom: 8px; border-bottom: 2px solid #0366d6;">Preprint</h2>
+  <div style="margin-bottom: 40px;">
+    <h2 style="color: #24292e; font-size: 22px; font-weight: 600; margin: 0 0 18px 0; padding-bottom: 10px; border-bottom: 2px solid #0366d6; display: flex; align-items: center;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px;">
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+      </svg>
+      Preprint
+    </h2>
     
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 6px; padding: 0; overflow: hidden;">
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       
-      <div style="max-height: 400px; overflow-y: auto; padding: 15px;">
-        <!-- Publication 1 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>H. Ruan, Y. Shao, Q. Yang, L. Zhao, Z. Zhang, D. Niyato</strong>, 
-            <em>Implicit Neural Compression of Point Clouds</em>, 
+      <div style="max-height: 500px; overflow-y: auto; padding: 20px;">
+        <!-- Preprint 1 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Ruan, Y. Shao, Q. Yang, L. Zhao, Z. Zhang, D. Niyato</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Implicit Neural Compression of Point Clouds</span>, 
             arXiv:2412.10433, 
             <strong style="color: #586069;">2025</strong>.
           </p>
         </div>
         
-        <!-- Publication 2 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Y. Li, Y. Shao</strong>, 
-            <em>Connecting the Unconnectable through Feedback</em>, 
+        <!-- Preprint 2 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Li, Y. Shao</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Connecting the Unconnectable through Feedback</span>, 
             arXiv:2501.02335, 
             <strong style="color: #586069;">2025</strong>.
           </p>
         </div>
         
-        <!-- Publication 3 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>R. Zhang, Y. Shao, Y. C. Eldar</strong>, 
-            <em>Polarization aware movable antenna</em>, 
+        <!-- Preprint 3 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">R. Zhang, Y. Shao, Y. C. Eldar</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Polarization aware movable antenna</span>, 
             arXiv:2411.06690, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 4 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>W. Lai, Y. Shao, Y. Ding, D. Gunduz</strong>, 
-            <em>Variable-Length Feedback Codes via Deep Learning</em>, 
+        <!-- Preprint 4 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">W. Lai, Y. Shao, Y. Ding, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Variable-Length Feedback Codes via Deep Learning</span>, 
             arXiv:2411.08481, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 5 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Y. Cao, Y. Shao, R. Q. Hu</strong>, 
-            <em>Fractional Fourier Domain PAPR Reduction</em>, 
+        <!-- Preprint 5 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Cao, Y. Shao, R. Q. Hu</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Fractional Fourier Domain PAPR Reduction</span>, 
             arXiv:2411.08473, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 6 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>H. Di, X. Zhu, Y. Shao</strong>, 
-            <em>Integrated Precoder and Trajectory Design for MIMO UAV-Assisted Relay System With Finite-Alphabet Inputs</em>, 
+        <!-- Preprint 6 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Di, X. Zhu, Y. Shao</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Integrated Precoder and Trajectory Design for MIMO UAV-Assisted Relay System With Finite-Alphabet Inputs</span>, 
             arXiv:2411.08680, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 7 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>F. Zhang, Y. Du, K. Chen, Y. Shao, S. Liew</strong>, 
-            <em>Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models</em>, 
+        <!-- Preprint 7 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">F. Zhang, Y. Du, K. Chen, Y. Shao, S. Liew</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models</span>, 
             arXiv:2407.15335, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 8 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>C. Bian, Y. Shao, D. Gunduz</strong>, 
-            <em>A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks</em>, 
+        <!-- Preprint 8 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">A Deep Joint Source-Channel Coding Scheme for Hybrid Mobile Multi-hop Networks</span>, 
             arXiv:2405.09698, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 9 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>H. Wu, M. Zhang, Y. Shao, K. Mikolajczyk, D. Gunduz</strong>, 
-            <em>MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems</em>, 
+        <!-- Preprint 9 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Wu, M. Zhang, Y. Shao, K. Mikolajczyk, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">MIMO Channel as a Neural Function: Implicit Neural Representations for Extreme CSI Compression in Massive MIMO Systems</span>, 
             arXiv:2403.13615, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 10 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz</strong>, 
-            <em>Point Cloud in the Air</em>, 
+        <!-- Preprint 10 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao, C. Bian, L. Yang, Q. Yang, Z. Zhang, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Point Cloud in the Air</span>, 
             arXiv:2401.00658, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 11 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>P. Zhang, J. Wang, Y. Shao, S. Ma</strong>, 
-            <em>Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection</em>, 
+        <!-- Preprint 11 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">P. Zhang, J. Wang, Y. Shao, S. Ma</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection</span>, 
             arXiv:2401.05182, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 12 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Y. Du, S. Liew, K. Chen, Y. Shao</strong>, 
-            <em>The power of large language models for wireless communication system development: A case study on FPGA platforms</em>, 
+        <!-- Preprint 12 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Du, S. Liew, K. Chen, Y. Shao</strong>, 
+            <span style="color: #24292e; font-weight: 500;">The power of large language models for wireless communication system development: A case study on FPGA platforms</span>, 
             arXiv:2307.07319, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- Publication 13 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 0;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Q. Cao, Y. Shao, F. Yang</strong>, 
-            <em>A Hypergraph Approach to Distributed Broadcast</em>, 
+        <!-- Preprint 13 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 0;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Q. Cao, Y. Shao, F. Yang</strong>, 
+            <span style="color: #24292e; font-weight: 500;">A Hypergraph Approach to Distributed Broadcast</span>, 
             arXiv:2404.16376, 
             <strong style="color: #586069;">2024</strong>.
           </p>
@@ -169,75 +175,286 @@ author_profile: true
   </div>
 
   <!-- Journal Publications Section -->
-  <div style="margin-bottom: 30px;">
-    <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0 0 15px 0; padding-bottom: 8px; border-bottom: 2px solid #0366d6;">Journal Publications</h2>
+  <div style="margin-bottom: 40px;">
+    <h2 style="color: #24292e; font-size: 22px; font-weight: 600; margin: 0 0 18px 0; padding-bottom: 10px; border-bottom: 2px solid #0366d6; display: flex; align-items: center;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px;">
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+      </svg>
+      Journal Publications
+    </h2>
     
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 6px; padding: 0; overflow: hidden;">
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       
-      <div style="max-height: 400px; overflow-y: auto; padding: 15px;">
+      <div style="max-height: 500px; overflow-y: auto; padding: 20px;">
         <!-- Journal 1 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>R. Zhang, Y. Shao, M. Li, L. Lu, Y. C. Eldar</strong>, 
-            <em>Optical integrated sensing and communication with Light-Emitting Diode</em>, 
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">R. Zhang, Y. Shao, M. Li, L. Lu, Y. C. Eldar</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Optical integrated sensing and communication with Light-Emitting Diode</span>, 
             <span style="color: #0366d6; font-weight: 500;">IEEE Internet of Things Journal</span>, 
             <strong style="color: #586069;">2025</strong>.
           </p>
         </div>
         
         <!-- Journal 2 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>Q. Cao, Y. Shao, S. Ge</strong>, 
-            <em>On the Zero-Error Capacity of Semantic Channels with Input and Output Memories</em>, 
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Q. Cao, Y. Shao, S. Ge</strong>, 
+            <span style="color: #24292e; font-weight: 500;">On the Zero-Error Capacity of Semantic Channels with Input and Output Memories</span>, 
             <span style="color: #0366d6; font-weight: 500;">IEEE Wireless Communications Letters</span>, 
             <strong style="color: #586069;">2025</strong>.
           </p>
         </div>
         
-        <!-- 继续添加其他期刊文章... -->
-        <!-- 由于篇幅限制，这里只显示前两篇 -->
-        <!-- 您需要继续添加剩余的期刊文章 -->
+        <!-- Journal 3 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao</strong>, 
+            <span style="color: #24292e; font-weight: 500;">DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
         
+        <!-- Journal 4 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, H. Wu, E. Ozfatura, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Process-and-Forward: deep joint source-channel coding over cooperative relay networks</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Journal on Selected Areas in Communications</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 5 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Channel Cycle Time: A New Measure of Short-term Fairness</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 6 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Cui, Y. Du, Q. Yang, Y. Shao, S. Liew</strong>, 
+            <span style="color: #24292e; font-weight: 500;">LLMind: Orchestrating AI and IoT with LLMs for complex task execution</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Communications Magazine</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 7 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Wu, Y. Shao, C. Bian, K. Mikolajczyk, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Deep joint source-channel coding for adaptive image transmission over MIMO channels</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 8 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao, Q. Cao, and D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">A Theory of Semantic Communication</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 9 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Wu, Y. Shao, E. Ozfatura, K. Mikolajczyk, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Transformer-aided wireless image transmission with channel feedback</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Wireless Communications</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 10 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">P. Shen, Y. Shao, Q. Cao, L. Lu</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Dynamic gNodeB Sleep Control for Energy-Conserving 5G Radio Access Network</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Cognitive Communications and Networking</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 11 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao, S. Liew and D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Denoising noisy neural networks: A Bayesian approach with compensation</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Signal Processing</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 12 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao, E. Ozfatura, A. Perotti, B. Popovic, and D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">AttentionCode: ultra-reliable feedback codes for short-packet communications</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Communications</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 13 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">L. You, X. Zhao, R. Cao, Y. Shao, L. Fu</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Broadband Digital Over-the-Air Computation for Wireless Federated Edge Learning</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
+        
+        <!-- Journal 14 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 0;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao, Y. Cai, T. Wang, Z. Guo, P. Liu, J. Luo, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Learning-based autonomous channel access in the presence of hidden terminals</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Transactions on Mobile Computing</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
       </div>
     </div>
   </div>
 
   <!-- Conference Publications Section -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #24292e; font-size: 20px; font-weight: 600; margin: 0 0 15px 0; padding-bottom: 8px; border-bottom: 2px solid #0366d6;">Conference Publications</h2>
+    <h2 style="color: #24292e; font-size: 22px; font-weight: 600; margin: 0 0 18px 0; padding-bottom: 10px; border-bottom: 2px solid #0366d6; display: flex; align-items: center;">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 10px;">
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+      </svg>
+      Conference Publications
+    </h2>
     
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 6px; padding: 0; overflow: hidden;">
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 0; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
       
-      <div style="max-height: 400px; overflow-y: auto; padding: 15px;">
+      <div style="max-height: 500px; overflow-y: auto; padding: 20px;">
         <!-- Conference 1 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>C. Bian, Y. Shao, D. Gunduz</strong>, 
-            <em>Wireless point cloud transmission</em>, 
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Wireless point cloud transmission</span>, 
             <span style="color: #0366d6; font-weight: 500;">IEEE International Workshop on Signal Processing Advances in Wireless Communications</span>, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
         <!-- Conference 2 -->
-        <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
-          <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
-          <p style="margin: 0; line-height: 1.5; font-size: 14px;">
-            <strong>H. Ruan, Y. Shao, Q. Yang, L. Zhao, D. Niyato</strong>, 
-            <em>Point cloud compression with implicit neural representations: A unified framework</em>, 
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">H. Ruan, Y. Shao, Q. Yang, L. Zhao, D. Niyato</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Point cloud compression with implicit neural representations: A unified framework</span>, 
             <span style="color: #0366d6; font-weight: 500;">IEEE International Conference on Communications in China</span>, 
             <strong style="color: #586069;">2024</strong>.
           </p>
         </div>
         
-        <!-- 继续添加其他会议文章... -->
-        <!-- 由于篇幅限制，这里只显示前两篇 -->
-        <!-- 您需要继续添加剩余的会议文章 -->
+        <!-- Conference 3 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">A Hybrid Joint Source-Channel Coding Scheme for Mobile Multi-hop Networks</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE International Conference on Communications</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
         
+        <!-- Conference 4 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">Y. Shao</strong>, 
+            <span style="color: #24292e; font-weight: 500;">DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Global Communications Conference</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Conference 5 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">P. Shen, Y. Shao, H. Pan, L. Lu, Y. Eldar</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Channel Cycle Time: A New Measure of Short-term Fairness</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Wireless Communications and Networking Conference</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Conference 6 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, H. Wu, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Deep joint source-channel coding over cooperative relay networks</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE International Conference on Machine Learning for Communication and Networking</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Conference 7 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">R. Zhang, Y. Shao, M. Li, L. Lu</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Optical Integrated Sensing and Communication</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE International Conference on Communications Workshop</span>, 
+            <strong style="color: #586069;">2024</strong>.
+          </p>
+        </div>
+        
+        <!-- Conference 8 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #f6f8fa;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C Bian, Y Shao, H Wu, D Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">Space-time design for deep joint source channel coding of images Over MIMO channels</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE International Workshop on Signal Processing Advances in Wireless Communications</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
+        
+        <!-- Conference 9 -->
+        <div style="position: relative; padding-left: 14px; margin-bottom: 0;">
+          <div style="position: absolute; left: 0; top: 9px; width: 5px; height: 5px; background: #0366d6; border-radius: 50%;"></div>
+          <p style="margin: 0; line-height: 1.5; font-size: 14.5px;">
+            <strong style="color: #24292e;">C. Bian, Y. Shao, D. Gunduz</strong>, 
+            <span style="color: #24292e; font-weight: 500;">DeepJSCC-l++: Robust and Bandwidth-Adaptive Wireless Image Transmission</span>, 
+            <span style="color: #0366d6; font-weight: 500;">IEEE Global Communications Conference</span>, 
+            <strong style="color: #586069;">2023</strong>.
+          </p>
+        </div>
       </div>
     </div>
   </div>
