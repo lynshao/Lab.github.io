@@ -337,41 +337,36 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
     Awards
   </h2>
   
-  <!-- 前两个奖项并排展示 -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 30px;">
-    
-    <!-- 奖项 1 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
-      <div style="text-align: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC_award.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
-      </div>
-      <div style="position: relative; padding-left: 15px;">
-        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
-        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Wireless Communications and Networking Conference (WCNC) 2024</p>
-        <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
-      </div>
+  <!-- 奖项1 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); margin-bottom: 20px;">
+    <div style="position: relative; padding-left: 15px; margin-bottom: 15px;">
+      <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+      <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+      <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Wireless Communications and Networking Conference (WCNC) 2024</p>
+      <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
     </div>
-    
-    <!-- 奖项 2 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
-      <div style="text-align: center; margin-bottom: 15px;">
-        <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC_award.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
-      </div>
-      <div style="position: relative; padding-left: 15px;">
-        <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
-        <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
-        <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE International Conference on Communications (ICC) 2023</p>
-        <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
-      </div>
+    <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
+      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC_award.png" alt="WCNC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
-    
+  </div>
+  
+  <!-- 奖项2 -->
+  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); margin-bottom: 20px;">
+    <div style="position: relative; padding-left: 15px; margin-bottom: 15px;">
+      <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
+      <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">Best Paper Award</h3>
+      <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE International Conference on Communications (ICC) 2023</p>
+      <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
+    </div>
+    <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
+      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC_award.png" alt="ICC Best Paper Award" style="width: 180px; height: 120px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+    </div>
   </div>
   
   <!-- 其他奖项列表 -->
   <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05);">
     
-    <!-- 奖项 3 -->
+    <!-- 奖项3 -->
     <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
       <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
       <div>
@@ -381,7 +376,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       </div>
     </div>
     
-    <!-- 奖项 4 -->
+    <!-- 奖项4 -->
     <div style="position: relative; padding-left: 20px; margin-bottom: 18px; padding-bottom: 18px; border-bottom: 1px solid #f1f1f1;">
       <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
       <div>
@@ -390,7 +385,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       </div>
     </div>
     
-    <!-- 奖项 5 -->
+    <!-- 奖项5 -->
     <div style="position: relative; padding-left: 20px;">
       <div style="position: absolute; left: 0; top: 8px; width: 8px; height: 8px; background: #0366d6; border-radius: 50%;"></div>
       <div>
