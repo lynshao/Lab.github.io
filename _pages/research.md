@@ -5,12 +5,6 @@ author_profile: true
 ---
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
-  
-  <!-- Research标题 -->
-  <div style="text-align: center; margin-bottom: 30px;">
-    <h1 style="color: #24292e; font-size: 36px; font-weight: 700; margin-bottom: 10px;">Research</h1>
-    <p style="color: #6a737d; font-size: 16px; font-weight: 500;">Foundations and Frontiers of Connectivity</p>
-  </div>
 
   <!-- Opening Statements -->
   <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 30px; margin-bottom: 30px; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
@@ -32,7 +26,7 @@ author_profile: true
         <div style="display: flex; align-items: flex-start;">
           <div style="width: 8px; height: 8px; background: #0366d6; border-radius: 50%; margin: 8px 12px 0 0; flex-shrink: 0;"></div>
           <div>
-            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Science of Perfection: X for Communication</h4>
+            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Science of Perfection ('X' for Communication)</h4>
             <p style="color: #586069; font-size: 15px; line-height: 1.6; margin: 0;">
               Current networks are a monumental achievement, but they are not static endpoints. We treat standards like 5G and WiFi as living, adaptive platforms. Our work here focuses on their continuous transformation through strategic integration. We ask: How can the latest breakthroughs in artificial intelligence, advanced computing, and novel materials be fused into the communication fabric to make it radically more efficient, intelligent, and resilient? This is "X for Communication": the deliberate application of adjacent revolutions to perfect our most critical global infrastructure.
             </p>
@@ -42,7 +36,7 @@ author_profile: true
         <div style="display: flex; align-items: flex-start;">
           <div style="width: 8px; height: 8px; background: #0366d6; border-radius: 50%; margin: 8px 12px 0 0; flex-shrink: 0;"></div>
           <div>
-            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Architecture of the Future: Communication as an Enabler</h4>
+            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Architecture of the Future (Communication as an Enabler)</h4>
             <p style="color: #586069; font-size: 15px; line-height: 1.6; margin: 0;">
               Beyond evolving existing systems, we are designing the fundamental communication primitives for tomorrow's breakthroughs. The next frontiers in science and technology, from distributed AI and swarm robotics to brain-computer interfaces and planet-scale sensing, are constrained not by ideas, but by their need for new forms of dialogue. We engineer the protocols, algorithms, and system designs that allow distributed intelligences to collaborate, that turn fragmented data into coherent insight, and that make emerging technologies truly scalable and synergistic. Here, we are not merely improving communication; we are building the connective tissue of future progress.
             </p>
@@ -51,9 +45,6 @@ author_profile: true
       </div>
     </div>
     
-    <p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 20px 0 0 0; font-weight: 500;">
-      Our Vision & Impact: We are stewards of the foundational and pioneers of the nascent. By advancing both the enduring science of connectivity and its novel applications, we ensure that this cornerstone discipline continues to do what it has always done: not just keep pace with human ambition, but actively expand its horizon.
-    </p>
   </div>
 
   <!-- Research Topics Section -->
