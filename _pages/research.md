@@ -4,297 +4,254 @@ permalink: /research/
 author_profile: true
 ---
 
-
-<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 15px;">
 
   <!-- 研究板块标题 -->
-  <div style="text-align: center; margin-bottom: 50px;">
-    <h1 style="color: #24292e; font-size: 36px; font-weight: 700; margin-bottom: 15px; letter-spacing: -0.5px;">Research Vision</h1>
-    <div style="width: 100px; height: 4px; background: linear-gradient(90deg, #0366d6, #6f42c1); margin: 0 auto;"></div>
+  <div style="text-align: center; margin-bottom: 40px;">
+    <h1 style="color: #24292e; font-size: 32px; font-weight: 700; margin-bottom: 10px; letter-spacing: -0.5px;">Research Vision</h1>
+    <div style="width: 80px; height: 3px; background: linear-gradient(90deg, #0366d6, #6f42c1); margin: 0 auto;"></div>
   </div>
 
   <!-- 开场陈述 -->
-  <div style="background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%); border-radius: 12px; padding: 40px; margin-bottom: 50px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); position: relative; border: 1px solid #e1e4e8;">
+  <div style="background: #f8f9fa; border-radius: 10px; padding: 30px; margin-bottom: 40px; border: 1px solid #e1e4e8;">
     
-    <div style="position: absolute; top: -12px; left: 50px; background: #0366d6; color: white; padding: 8px 20px; border-radius: 4px; font-size: 14px; font-weight: 600; letter-spacing: 1px;">
-      MANIFESTO
-    </div>
-    
-    <div style="margin-bottom: 30px;">
-      <p style="color: #24292e; font-size: 18px; line-height: 1.7; margin-bottom: 25px; font-weight: 500;">
+    <div style="margin-bottom: 25px;">
+      <p style="color: #24292e; font-size: 16px; line-height: 1.6; margin-bottom: 20px;">
         Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.
       </p>
       
-      <p style="color: #24292e; font-size: 18px; line-height: 1.7; margin-bottom: 25px;">
+      <p style="color: #24292e; font-size: 16px; line-height: 1.6; margin-bottom: 20px;">
         That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.
       </p>
       
-      <p style="color: #24292e; font-size: 18px; line-height: 1.7; margin-bottom: 30px;">
-        <strong style="color: #0366d6; font-weight: 600;">We see a different reality.</strong> The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself. To view this field as "solved" is to mistake a foundation for a finished building. The foundation must now be strengthened, expanded, and re-imagined to support the structures of tomorrow: the networks of distributed intelligence, the Internet of Agents, and paradigms of interaction we have yet to conceive.
+      <p style="color: #24292e; font-size: 16px; line-height: 1.6; margin-bottom: 25px;">
+        <strong style="color: #0366d6; font-weight: 600;">We see a different reality.</strong> The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself.
       </p>
     </div>
     
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin-bottom: 40px;">
+    <div style="display: flex; flex-direction: column; gap: 20px; margin-bottom: 25px;">
       
       <!-- 前沿1 -->
-      <div style="background: white; border-radius: 10px; padding: 25px; box-shadow: 0 3px 15px rgba(0,0,0,0.05); border-top: 4px solid #0366d6;">
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="width: 40px; height: 40px; background: #0366d6; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-            <span style="color: white; font-size: 20px; font-weight: 600;">⚙️</span>
+      <div style="background: white; border-radius: 8px; padding: 20px; border-left: 4px solid #0366d6;">
+        <div style="display: flex; align-items: center; margin-bottom: 12px;">
+          <div style="width: 36px; height: 36px; background: #0366d6; border-radius: 6px; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
+            <span style="color: white; font-size: 18px; font-weight: 600;">⚙️</span>
           </div>
-          <h3 style="margin: 0; color: #24292e; font-size: 20px; font-weight: 600;">The Science of Perfection</h3>
+          <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">The Science of Perfection: X for Communication</h3>
         </div>
-        <p style="color: #586069; font-size: 16px; line-height: 1.6; margin-bottom: 15px;">
-          <strong style="color: #0366d6;">X for Communication</strong><br>
-          Current networks are a monumental achievement, but they are not static endpoints. We treat standards like 5G and WiFi as living, adaptive platforms.
+        <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 10px;">
+          Current networks are a monumental achievement, but they are not static endpoints. We treat standards like 5G and WiFi as living, adaptive platforms. Our work focuses on their continuous transformation through strategic integration of AI, advanced computing, and novel materials.
         </p>
-        <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
-          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-            <strong>Our question:</strong> How can the latest breakthroughs in artificial intelligence, advanced computing, and novel materials be fused into the communication fabric to make it radically more efficient, intelligent, and resilient?
-          </p>
-        </div>
       </div>
       
       <!-- 前沿2 -->
-      <div style="background: white; border-radius: 10px; padding: 25px; box-shadow: 0 3px 15px rgba(0,0,0,0.05); border-top: 4px solid #6f42c1;">
-        <div style="display: flex; align-items: center; margin-bottom: 15px;">
-          <div style="width: 40px; height: 40px; background: #6f42c1; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-            <span style="color: white; font-size: 20px; font-weight: 600;">🚀</span>
+      <div style="background: white; border-radius: 8px; padding: 20px; border-left: 4px solid #6f42c1;">
+        <div style="display: flex; align-items: center; margin-bottom: 12px;">
+          <div style="width: 36px; height: 36px; background: #6f42c1; border-radius: 6px; display: flex; align-items: center; justify-content: center; margin-right: 12px; flex-shrink: 0;">
+            <span style="color: white; font-size: 18px; font-weight: 600;">🚀</span>
           </div>
-          <h3 style="margin: 0; color: #24292e; font-size: 20px; font-weight: 600;">The Architecture of the Future</h3>
+          <h3 style="margin: 0; color: #24292e; font-size: 18px; font-weight: 600;">The Architecture of the Future: Communication as an Enabler</h3>
         </div>
-        <p style="color: #586069; font-size: 16px; line-height: 1.6; margin-bottom: 15px;">
-          <strong style="color: #6f42c1;">Communication as an Enabler</strong><br>
-          Beyond evolving existing systems, we are designing the fundamental communication primitives for tomorrow's breakthroughs.
+        <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 10px;">
+          Beyond evolving existing systems, we design the fundamental communication primitives for tomorrow's breakthroughs. We engineer protocols, algorithms, and system designs that allow distributed intelligences to collaborate and make emerging technologies truly scalable.
         </p>
-        <div style="background: #f6f8fa; border-radius: 6px; padding: 15px;">
-          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-            <strong>Our mission:</strong> Engineer the protocols, algorithms, and system designs that allow distributed intelligences to collaborate and make emerging technologies truly scalable and synergistic.
-          </p>
-        </div>
       </div>
       
     </div>
     
     <!-- 愿景总结 -->
-    <div style="background: linear-gradient(135deg, #0366d6 0%, #6f42c1 100%); border-radius: 10px; padding: 25px; color: white;">
-      <h3 style="margin: 0 0 15px 0; font-size: 20px; font-weight: 600;">Our Vision & Impact</h3>
-      <p style="margin: 0; font-size: 16px; line-height: 1.6; opacity: 0.95;">
-        We are stewards of the foundational and pioneers of the nascent. By advancing both the enduring science of connectivity and its novel applications, we ensure that this cornerstone discipline continues to do what it has always done: not just keep pace with human ambition, but actively expand its horizon.
+    <div style="background: linear-gradient(135deg, #0366d6 0%, #6f42c1 100%); border-radius: 8px; padding: 20px; color: white;">
+      <p style="margin: 0; font-size: 15px; line-height: 1.6;">
+        <strong>Our Vision & Impact:</strong> We are stewards of the foundational and pioneers of the nascent. By advancing both the enduring science of connectivity and its novel applications, we ensure that this cornerstone discipline continues to not just keep pace with human ambition, but actively expand its horizon.
       </p>
     </div>
     
   </div>
 
   <!-- 研究方向标题 -->
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h2 style="color: #24292e; font-size: 28px; font-weight: 600; margin-bottom: 10px;">Research Themes</h2>
-    <p style="color: #6a737d; font-size: 16px; max-width: 700px; margin: 0 auto;">Explore our seven interconnected research themes that span from fundamental theory to enabling future technologies</p>
+  <div style="text-align: center; margin-bottom: 25px;">
+    <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin-bottom: 8px;">Research Themes</h2>
+    <p style="color: #6a737d; font-size: 15px;">Seven interconnected research themes spanning from fundamental theory to enabling future technologies</p>
   </div>
 
-  <!-- 研究方向网格 -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; margin-bottom: 60px;">
+  <!-- 研究方向列表 -->
+  <div style="margin-bottom: 40px;">
     
     <!-- Topic 1 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic1.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #ff6b6b, #ff8e53); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">1</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #ff6b6b, #ff8e53); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">1</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">DeepJSCC and DL-based Compression</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: #ffefef; color: #ff6b6b; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">SOURCE</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">DeepJSCC and DL-based Compression</h3>
+              <span style="background: #ffefef; color: #ff6b6b; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">SOURCE</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We leverage DL to design Joint Source-Channel Coding schemes. This allows communication systems to be optimized directly for source-related metrics, moving beyond traditional bit-error-rate objectives and enabling goal-oriented semantic communication.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We leverage DL to design Joint Source-Channel Coding schemes. This allows communication systems to be optimized directly for source-related metrics, moving beyond traditional bit-error-rate objectives and enabling goal-oriented semantic communication.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 2 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic2.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #4ecdc4, #44a08d); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">2</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #4ecdc4, #44a08d); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">2</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Wireless Signal Processing</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: #e8f6f5; color: #4ecdc4; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">BASEBAND</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Wireless Signal Processing</h3>
+              <span style="background: #e8f6f5; color: #4ecdc4; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">BASEBAND</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We focus on optimal transceiver design for the physical layer by employing advanced model-based signal processing techniques. Our work addresses the core challenge of reliable communication by tailoring solutions to the specific characteristics of the wireless channel.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We focus on optimal transceiver design for the physical layer by employing advanced model-based signal processing techniques. Our work addresses the core challenge of reliable communication by tailoring solutions to the specific characteristics of the wireless channel.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 3 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic3.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #36d1dc, #5b86e5); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">3</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #36d1dc, #5b86e5); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">3</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Flexible Antenna Systems and EM Co-Optimization</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: #e8f4fd; color: #36d1dc; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">TRANSMISSION</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Flexible Antenna Systems and EM Co-Optimization</h3>
+              <span style="background: #e8f4fd; color: #36d1dc; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">TRANSMISSION</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We pursue holistic communication system optimization by jointly designing across domains: from electromagnetic theory and antenna design to wave propagation and baseband processing. This integrated approach unlocks performance gains beyond isolated component design.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We pursue holistic communication system optimization by jointly designing across domains: from electromagnetic theory and antenna design to wave propagation and baseband processing. This integrated approach unlocks performance gains beyond isolated component design.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 4 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic4.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #ffa62e, #ff6f68); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">4</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #ffa62e, #ff6f68); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">4</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Rich-ARQ</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: #fff5e6; color: #ffa62e; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">FEEDBACK</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Rich-ARQ</h3>
+              <span style="background: #fff5e6; color: #ffa62e; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">FEEDBACK</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We innovate in feedback mechanisms by embedding rich, beyond-1-bit information into acknowledgment packets. A key focus is utilizing deep learning to design efficient feedback channel codes, significantly improving system adaptation and reliability.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We innovate in feedback mechanisms by embedding rich, beyond-1-bit information into acknowledgment packets. A key focus is utilizing deep learning to design efficient feedback channel codes, significantly improving system adaptation and reliability.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 5 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic5.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #9d50bb, #6e48aa); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">5</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #9d50bb, #6e48aa); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">5</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Efficient Access and Networking</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: #f3e8fd; color: #9d50bb; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">MAC & NET</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Efficient Access and Networking</h3>
+              <span style="background: #f3e8fd; color: #9d50bb; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">MAC & NET</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We tackle critical challenges at the Medium Access Control and Network layers. Our research aims to solve fundamental pain points related to resource allocation, access coordination, and scalable networking in modern wireless systems.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We tackle critical challenges at the Medium Access Control and Network layers. Our research aims to solve fundamental pain points related to resource allocation, access coordination, and scalable networking in modern wireless systems.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 6 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; margin-bottom: 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic6.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #4776E6, #8E54E9); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">6</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #4776E6, #8E54E9); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">6</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Multi-Agent Systems</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: linear-gradient(90deg, #e8f0ff, #f0e8ff); color: #4776E6; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">COMMUNICATION AS ENABLER</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Multi-Agent Systems</h3>
+              <span style="background: #e8f0ff; color: #4776E6; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">COMMUNICATION AS ENABLER</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            Our research explores communication in two key agent-related areas: 1) Designing communication protocols to resolve cognitive misalignment among multiple agents; 2) Designing intelligent agents capable of orchestrating IoT systems and executing complex task planning.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        Our research explores communication in two key agent-related areas: 1) Designing communication protocols to resolve cognitive misalignment among multiple agents; 2) Designing intelligent agents capable of orchestrating IoT systems and executing complex task planning.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
     <!-- Topic 7 -->
-    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 10px; padding: 25px; box-shadow: 0 3px 12px rgba(0,0,0,0.05); transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;" 
+    <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); cursor: pointer;" 
          onclick="window.location='research-topic7.html'">
-      <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #00c9ff, #92fe9d); border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-right: 15px; flex-shrink: 0;">
-          <span style="color: white; font-size: 22px; font-weight: 600;">7</span>
+      <div style="display: flex; align-items: flex-start;">
+        <div style="flex-shrink: 0; width: 40px; height: 40px; background: linear-gradient(135deg, #00c9ff, #92fe9d); border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 15px;">
+          <span style="color: white; font-size: 18px; font-weight: 600;">7</span>
         </div>
-        <div>
-          <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 18px; font-weight: 600;">Federated Learning via AirComp</h3>
-          <div style="display: flex; align-items: center; margin-bottom: 10px;">
-            <span style="background: linear-gradient(90deg, #e8f0ff, #f0e8ff); color: #00c9ff; padding: 3px 10px; border-radius: 12px; font-size: 12px; font-weight: 600;">COMMUNICATION AS ENABLER</span>
+        <div style="flex-grow: 1;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px;">
+            <div>
+              <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 18px; font-weight: 600;">Federated Learning via AirComp</h3>
+              <span style="background: #e8f0ff; color: #00c9ff; padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600;">COMMUNICATION AS ENABLER</span>
+            </div>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="flex-shrink: 0; margin-left: 10px;">
+              <path d="M5 12h14"></path>
+              <path d="M12 5l7 7-7 7"></path>
+            </svg>
           </div>
+          <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
+            We address the communication bottleneck in Federated Learning by leveraging the Over-the-Air Computation framework. This technique allows efficient model aggregation directly in the wireless domain, dramatically improving the scalability of distributed learning over networks.
+          </p>
         </div>
-      </div>
-      <p style="color: #586069; font-size: 15px; line-height: 1.5; margin-bottom: 20px;">
-        We address the communication bottleneck in Federated Learning by leveraging the Over-the-Air Computation framework. This technique allows efficient model aggregation directly in the wireless domain, dramatically improving the scalability of distributed learning over networks.
-      </p>
-      <div style="display: flex; align-items: center; color: #0366d6; font-size: 14px; font-weight: 500;">
-        <span>Explore this research</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-left: 8px;">
-          <path d="M5 12h14"></path>
-          <path d="M12 5l7 7-7 7"></path>
-        </svg>
       </div>
     </div>
     
-  </div>
-
-  <!-- 研究地图 -->
-  <div style="background: white; border-radius: 12px; padding: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-bottom: 40px; border: 1px solid #e1e4e8;">
-    <h3 style="margin: 0 0 20px 0; color: #24292e; font-size: 22px; font-weight: 600; text-align: center;">Research Ecosystem Map</h3>
-    <div style="background: #f8f9fa; border-radius: 8px; padding: 20px; text-align: center;">
-      <p style="color: #586069; font-size: 15px; line-height: 1.6; margin-bottom: 20px;">
-        Our seven research themes form an interconnected ecosystem spanning from fundamental theory (Topics 1-5) to enabling future technologies (Topics 6-7). Each theme contributes to both evolving existing communication systems and architecting the foundations for tomorrow's breakthroughs.
-      </p>
-      <div style="display: inline-flex; align-items: center; color: #0366d6; font-size: 15px; font-weight: 500; padding: 10px 20px; background: #f0f7ff; border-radius: 6px;">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0366d6" style="margin-right: 8px;">
-          <circle cx="12" cy="12" r="10"></circle>
-          <line x1="12" y1="8" x2="12" y2="12"></line>
-          <line x1="12" y1="16" x2="12.01" y2="16"></line>
-        </svg>
-        <span>Click on any research theme to explore detailed publications, projects, and outcomes</span>
-      </div>
-    </div>
   </div>
 
 </div>
