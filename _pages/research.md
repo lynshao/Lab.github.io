@@ -4,7 +4,22 @@ permalink: /research/
 author_profile: true
 ---
 
-Featured research directions in our lab:
+Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.
+
+That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.
+
+We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself. To view this field as "solved" is to mistake a foundation for a finished building. The foundation must now be strengthened, expanded, and re-imagined to support the structures of tomorrow: the networks of distributed intelligence, the Internet of Agents, and paradigms of interaction we have yet to conceive.
+
+It is from this conviction that our research agenda is built. We pursue two interconnected frontiers:
+
+* The Science of Perfection: "X for Communication"
+Current networks are a monumental achievement, but they are not static endpoints. We treat standards like 5G and WiFi as living, adaptive platforms. Our work here focuses on their continuous transformation through strategic integration. We ask: How can the latest breakthroughs in artificial intelligence, advanced computing, and novel materials be fused into the communication fabric to make it radically more efficient, intelligent, and resilient? This is "X for Communication": the deliberate application of adjacent revolutions to perfect our most critical global infrastructure.
+
+* The Architecture of the Future: Communication as an Enabler
+Beyond evolving existing systems, we are designing the fundamental communication primitives for tomorrow's breakthroughs. The next frontiers in science and technology, from distributed AI and swarm robotics to brain-computer interfaces and planet-scale sensing, are constrained not by ideas, but by their need for new forms of dialogue. We engineer the protocols, algorithms, and system designs that allow distributed intelligences to collaborate, that turn fragmented data into coherent insight, and that make emerging technologies truly scalable and synergistic. Here, we are not merely improving communication; we are building the connective tissue of future progress.
+
+Our Vision & Impact: We are stewards of the foundational and pioneers of the nascent. By advancing both the enduring science of connectivity and its novel applications, we ensure that this cornerstone discipline continues to do what it has always done: not just keep pace with human ambition, but actively expand its horizon.
+
 
 DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things
 =====================
